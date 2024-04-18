@@ -43,9 +43,9 @@ OSI stands for **Open Systems Interconnection**. The OSI model is a conceptual m
 The OSI model does not perform any functions in the networking process. It divides network communication into seven layers. The OSI Model can be seen as a universal language for computer networking. It is based on the concept of splitting up a communication system into seven abstract layers, each one stacked upon the last.
 
 **Open Systems Interconnection (OSI)**. In this model, layers 1-4 are considered the lower layers and mostly concern themselves \
-
+> **All People Seem To Need Data Processing**
 # OSI Physical Layer
-The lowest layer of the OSI Model is concerned with electrically or optically transmitting raw unstructured data bits acrosss the network from the physical layer of the sending device to the phuysical layer of the receiving device. It can include specifications
+The lowest layer of the OSI Model is concerned with electrically or optically transmitting raw unstructured data bits across the network from the physical layer of the sending device to the physical layer of the receiving device. It can include specifications
 
 # OSI Data Link Layer
 **Physical Addressing**\
@@ -105,6 +105,10 @@ TCP is slower but more reliable it makes sure the data is safely passed. UDP on 
 
 UDP uses time-sensitive transmissions. It speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party. Basically 2fast4u.
 
+## ARP
+### What is ARP?
+Address Resolution Protocol (ARP) is a protocol or procedure that connects an ever-changing Internet Protocol (IP) address to a fixed physical machine address, also known as a media access control (MAC) address.
+
 
 # Transmission Mediums
 A **wired network** is a network of devices connected by a physical medium, such as cables.
@@ -112,7 +116,59 @@ The Ethernet is the most widely used wired network protocol in LANs and MANs.
 
 <img src="./figure1" />
 
-A **wireless network** is a network of devices in which signals are transmitted without the use of a physical medium. The most common wireless network protocol is Wi-Fi, which uses radio waves to transmit data. A **Wireless Access Point** (WAP) is a network device that provides a connection between wireless devices up to 100 metres away and can connect to wired networks.
+A **wireless network** is a network of devices in which signals are transmitted without the use of a physical medium. The most common wireless network protocol is Wi-Fi, which uses radio waves to transmit data. 
 
-:!git init
+A **Wireless Access Point** (WAP) is a network device that provides a connection between wireless devices up to 100 metres away and can connect to wired networks.
+
+<img src="./figure2.png"/>
+To get 1m, talk about both Wired and Wireless.
+
+# VoIP
+### Advantages of VoIP include:
+- Lower cost
+- Completely portable
+- Advanced features
+- More scalable
+
+## Organisation (Client - Server Network)
+## Client-Server Network
+- A **client** is a computer that initiates a connection to a server to request for resources and services to perform operations. E.g. Employees in offices or students in schools would normally use client computers to do their work.
+
+- A **server** is a computer that shares resources and responds to requests from devices and other servers on the network. It usually has a higher capacity and is more powerful than a client as it needs to manage resources and services. E.g. Providing central storage of files, sharing hardware such as printers, controlling logins and network access.
+
+### Advantages
+- Centralised control of data and resources
+- Easy to schedule backups of all shared files at regular intervals
+- Security may be enhanced with the use of specialised software or operating system features that are designed for servers.
+
+### Disadvantages
+- Higher initial cost due to the need for a server
+- Administrative costs needed for the maintenance of server and clients.
+
+## Peer-To-Peer (P2P) Network
+- All computers are considered as equals and the load is distributed among all computers. Each computer in the network is able to act as both a client and a server, communicating directly with other computers
+### Advantages
+- Cheaper to set up as there is no cost related to dedicated servers 
+- Easy to set up as no specialised or operating system features are needed.
+### Disadvantages
+- More effort is required to access and backup resources as they are stored locally within each computer instead of centrally in a server.
+- Security is an issue as access rights are not administered by a central server
+
+<img src="./figure3.png"/>
+<img src="./figure4.png"/>
+<img src="./figure5.png"/>
+<img src="./figure6.png"/>
+<img src="./figure7.png"/>
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -46,3 +46,11 @@ This implies that Pokemmon Go allows many players to explore places that they ha
 This is supported by Source D, which tells me that Pokemon Go has caused many people to venture out to different areas in their pursuit of the Pokemon.
 This is evident in Source D, "
 
+Source E is not useful as it is not reliable.
+Source E tells me Pokemon Go is perceived to the beneficial and is welcomed by the properties.  
+This is evident from the source "At the very least, it flags up to players nearby that the Museum exits. It's free advertising with a huge audience." This implies that some properties recognised the merits of Pokemon Go and welcomed Pokemon Go as a platform to attract visitors. This is contradicted by Source D, which tells me Pokemon Go is perceived to be detrimental and is not welcomed by the properties. This is evident in the source "religious leaders here are worried that the
+game might provoke many to enter places of worship, disturbing prayer and creating law and order problems."  
+This implies that some properties view Pokemon Go as causing disrupting the physical space and also orderliness of the space.  
+This contradiction makes Source E unreliable, hence, not useful.
+
+
