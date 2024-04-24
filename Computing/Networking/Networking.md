@@ -114,13 +114,13 @@ Address Resolution Protocol (ARP) is a protocol or procedure that connects an ev
 A **wired network** is a network of devices connected by a physical medium, such as cables.
 The Ethernet is the most widely used wired network protocol in LANs and MANs.
 
-<img src="./figure1" />
-
+![figure1](Networking/figure1.png)
 A **wireless network** is a network of devices in which signals are transmitted without the use of a physical medium. The most common wireless network protocol is Wi-Fi, which uses radio waves to transmit data. 
 
 A **Wireless Access Point** (WAP) is a network device that provides a connection between wireless devices up to 100 metres away and can connect to wired networks.
 
-<img src="./figure2.png"/>
+![figure2](Networking/figure2.png)
+
 To get 1m, talk about both Wired and Wireless.
 
 # VoIP
@@ -154,14 +154,72 @@ To get 1m, talk about both Wired and Wireless.
 - More effort is required to access and backup resources as they are stored locally within each computer instead of centrally in a server.
 - Security is an issue as access rights are not administered by a central server
 
-<img src="./figure3.png"/>
-<img src="./figure4.png"/>
-<img src="./figure5.png"/>
-<img src="./figure6.png"/>
-<img src="./figure7.png"/>
+![figure3](Networking/figure3.png)
+![figure4](Networking/figure4.png)
+![figure5](Networking/figure5.png)
+![figure6](Networking/figure6.png)
+![figure7](Networking/figure7.png)
 
 
+# Identifiers
 
+## Identifiers
+
+- IPv4 Address
+- IPv6 Address
+- MAC Address
+- Port Number
+
+### IPv4 Addresses
+
+#### Example of an IPv4 address
+
+![figure8](Networking/figure8.png)
+#### Example of IPv6 address
+
+![figure9](Networking/figure9.png)
+
+### Public vs Private IP Addresses
+
+- Each network will share the same public IP address. Other networks will be able to see your public IP address.
+- When data meant for you is sent from another network to yours, it will be sent to your public IP address (which is your router's IP address)
+- Your router keeps track of requests for data from each device by noting the private IP address down in a routing table. When it receives the data, it is able to route it to the correct device which requested for it.
+
+### Network Address Translation
+
+#### Example of a MAC address
+
+![figure10](Networking/figure10.png)
+
+
+### Why have we not run out of IPv4 Addresses?
+- This is largely because of technologies like the __Network Address Translation (NAT)__, which maps many private IP addresses onto one public IP. There are also markets that sell and reallocate old IPv4 addresses for reuse.
+
+### Why are we still using IPv4 when there is a better IPv6?
+- IPv4 is still the dominant internet protocol. A key benefit of IPv4 is its __ease of deployment and widespread use__. Because IPv4 is used so broadly, network administrators and other internet developers can assume it is everywhere because everyone is compelled to support it.
+
+### IP Address in Singapore
+- Singapore has a total of ±20,297,984 IP address assigned.
+- Population of SG in 2024 is 6.03 million.
+- In SG, each home network has its own public IP.
+
+### IP Address in USA
+- USA has a total of ± 1,528,537,344 IP addresses assigned.
+- Population of USA in 2021 is 341.82 million
+- In US, shared public IP by area/town/roads (determined by ISP)
+- Each street has its own public IP address.
+
+### Port Number
+- Used in combination with an IP address to identify a program that is running on a network
+- All port numbers are assigned in a range from 0 to 65,535.
+
+#### Did you know?
+You can list all the port numbers that are in use on your computer by entering `netstat -na` in the command prompt.
+
+### Service Set Identifier (SSID)
+
+- A string of up to 32 bytes that identifies a wireless access point (WAP) and all the devices connected to it.
+- All wireless devices connected to the same WAP must use the same SSID.
 
 
 

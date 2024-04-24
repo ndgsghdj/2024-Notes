@@ -1,7 +1,7 @@
 # The End of WW2 in Europe and the Asia-Pacific
+# Key Developments: WWII in Europe, 1939-1945
 
-* [Key Developments: WWII in Europe, 1939-1945](#key-developments-wwii-in-europe-1939-1945)
-    * [Introduction](#introduction)
+* [Introduction](#introduction)
     * [Overview](#overview)
     * [**Key Developments: WWII in Europe, 1939-1945 - Blitzkrieg**](#key-developments-wwii-in-europe-1939-1945---blitzkrieg)
     * [**Key Developments: WWII in Europe, 1939-1945 - Changing fortunes for Germany**](#key-developments-wwii-in-europe-1939-1945---changing-fortunes-for-germany)
@@ -24,8 +24,7 @@
         * [Island-hopping](#island-hopping)
         * [The Atomic Bombings, August 1945](#the-atomic-bombings-august-1945)
 * [Historical Interpretations](#historical-interpretations)
-
-# Key Developments: WWII in Europe, 1939-1945
+* [Overview of the War](#overview-of-the-war)
 
 ## Introduction
 
@@ -55,7 +54,9 @@ World War 2 began…
 
 **July 1941**
 
-- German invaded the USSR in
+- German troops invaded the USSR in __Operation  Barbarossa__
+    - This used up the main German forces and drew aircraft away from the Battle of the Atlantic.
+    - It also drew land forces away from other theatres of war.
 
 **Operation Barbarossa**
 
@@ -177,8 +178,9 @@ World War 2 began…
 ## Introduction
 
 In the Asia-Pacific, Japan had been aggressive in its expansion since its invasion of Manchuria in 1931
-
-Japan 
+- Japan continued its expansion into China in 1937 when it attacked and occupied areas such as Shanghai, Wuhan and Nanjing (also known as the Second Sino-Japanese War).
+    - Although Japan was not successful in occupying the whole of China, it was able to exploit the natural resources and manpower of the areas they occupied to support their war efforts.
+- From 1941, Japan advanced into parts of the Pacific region. It was a massive conflict, fought over a vast territory and involving millions of allied troops.
 
 ## Overview
 
@@ -233,7 +235,8 @@ Japan
 - After the battle of Midway, the United States and its allies gradually drove the Japanese back across the Pacific from the territories they had taken. They used a strategy known as **island-hopping**
     - The US island-hopping strategy led to several key victories between 1942 and 1945, such as in the battle to regain the Philippines, which continued to weaken the Japanese military
     - Japan’s resources became severely overstretched and it was not able to defend the entire empire.
-    - The Japanese fought frantically for each island in the Pacific and each territory in China and Burma
+    - The Japanese fought fanatically for each island in the Pacific and each territory in China and Burma
+    - Soon, the war reached a pivotal stage in 1945, with US air raids on Japanese soil, such as the bombing of Tokyo.
 - In April 1945 British and US forces took the island of Okinawa
     - The Allies had to kill or capture every one of the 100,000 Japanese soldiers defending the island - none of them would surrender
     - Allied ships had also been badly damaged by Japanese kamikaze suicide bombers, who crashed their planes deliberately into them.
@@ -247,7 +250,8 @@ Japan
     - However, there was an alternative. An international team of scientists in the United States, working on what was known as the Manhattan Project, had just perfected the world’s first atomic bomb
 - In the end, Truman decided to use the bombs without warning.
     - He accepted military advice to drop two bombs in quick succession. This was to convince the Japanese that the United States had a large stockpile of the weapons, which it did not.
-- On 6 August 1945, the American bomber, Enola Gay, dropped a five-ton atomic bomb, nicknamed “Little Boy”
+- On 6 August 1945, the American bomber, Enola Gay, dropped a five-ton atomic bomb, nicknamed “Little Boy” over the city of Hiroshima
+- On 9 August 1945, the United States dropped a second atomic bomb, nicknamed "Fat Man", over the city of Nagasaki.
 - Both instances of dropping the atomic bombs caused appalling damage and horrific casualties, and reduced the cities of Hiroshima and Nagasaki to ruins.
     - They also left a legacy of cancer and other radiation-related diseases among the survivors.
 
@@ -257,6 +261,11 @@ Japan
 | Dead                 | 66,000    | 39,000   |
 | Injured              | 69,000    | 25,000   |
 | **Total Casualties** | 135,000   | 64,000   |
+
+- Japanese Emperor Hirohito and most of his government told the army to surrender after the Nagasaki bomb.
+    - However, some of the military leaders disagreed with the Emperor's proposed actions and attempted to overthrow the Emperor and continue the war instead.
+        - This proved to many people on the Allied side that the decision to use the bombs was right.
+    - The Emperor's will prevailed, and Japan surrendered on <u>14 August 1945</u>. 
 
 # Historical Interpretations
 
@@ -273,3 +282,9 @@ Japan
 
 <img src="./End-Of-WW2/figure1.png"/>
 
+
+# Overview of the War
+- Most historians looking back at WWII tend to agree on the broad picture of the war.
+    - Germany, Japan and Italy were important nations, but they were not as strong as the leading powers - Great Britain, the USSR and above all, the United States.
+    - The Allies not only and superior resources but also managed to mobilise and utilise them in a manner suited to help them win the war.
+- While the Axis powers were seemingly successful at the start of WWII, they did not have the capability both militarily and economically to fight a prolonged war.

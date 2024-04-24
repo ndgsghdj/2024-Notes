@@ -8,3 +8,8 @@ history.pdf: $(BUILD_PDF_FILES)
 build/%.pdf: %.md
 		@mkdir -p $$(dirname $@)
 		pandoc -V geometry:margin=1in -c ~/Documents/2024-Notes/markdown.css -f gfm -t html -o $@ $?
+
+.PHONY: clean
+
+clean:
+	rm -rf build

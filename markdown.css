@@ -119,7 +119,7 @@ a:hover {
  */
 
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     margin: 0.67em 0;
 }
 
@@ -176,7 +176,7 @@ kbd,
 pre,
 samp {
     font-family: monospace, serif;
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
 /**
@@ -450,7 +450,7 @@ body {
 }
 
 body {
-    font: 13.34px helvetica, arial, freesans, clean, sans-serif;
+    font: 16.34px helvetica, arial, freesans, clean, sans-serif;
     -webkit-font-smoothing: subpixel-antialiased;
     line-height: 1.4;
     padding: 3px;
@@ -499,34 +499,34 @@ h6 {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 30px;
     color: #000
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 26px;
     border-bottom: 1px solid #ccc;
     color: #000
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 20px;
     color: #333
 }
 
 h4 {
-    font-size: 16px;
+    font-size: 18px;
     color: #333
 }
 
 h5 {
-    font-size: 14px;
+    font-size: 16px;
     color: #333
 }
 
 h6 {
     color: #777;
-    font-size: 14px
+    font-size: 16px
 }
 
 p,
@@ -605,7 +605,7 @@ dl {
 }
 
 dl dt {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     font-style: italic;
     padding: 0;

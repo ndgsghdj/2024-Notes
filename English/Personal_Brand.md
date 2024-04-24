@@ -29,6 +29,20 @@ Need to quantify achievements
 
 ### Language
 
+- Confident tone
+- Linking words
+- do not humble brag
+- Word choice
+
+# Lesson 2
+
+Main Point (Knowledge / Skill / Value / Belief) &rarr; Evidence to substantiate the main point (examples / evidences) Is the evidence relevant to the main point? &rarr; Elaboration on main point (knowledge / skill / value / belief)
+
+## Paragraph Level
+
+
+
+
 
 
 
