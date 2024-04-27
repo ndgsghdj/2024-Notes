@@ -12,18 +12,33 @@ Personal branding is about self-reflection — Who am I?
 - Your identity
     - Who / what you are?
     - Your own / What is unique to you
+
 ## Qualities
+
 - Team players
 - Leadership
 - Determination
 - Willing to learn
+
 ## Experiences
+
 - Work/career
 - School
 - Interests
-Need to quantify achievements
+    - Need to quantify achievements
 - Holistic
+
 ### Content
+
+- Achievements
+- Experiences
+- Passions
+- Values
+- Strengths
+- Qualities
+- Knowledge
+- Interests
+- Skills
 
 ### Structure
 
@@ -33,6 +48,15 @@ Need to quantify achievements
 - Linking words
 - do not humble brag
 - Word choice
+- First person
+- Linking words
+- Formal
+
+#### Words that portray confidence
+- Definitely
+- Strongly believe
+
+
 
 # Lesson 2
 
@@ -40,15 +64,16 @@ Main Point (Knowledge / Skill / Value / Belief) &rarr; Evidence to substantiate 
 
 ## Paragraph Level
 
+- __Main Point__ (Knowledge/skill/value/belief)
+- __Evidence__ to substantiate the main point (examples / experiences)
+    - Is the evidence __relevant__ to the main point?
+- __Elaboration on main point__
+
+# Lesson 3
+
+## Writing your Personal Statements
 
 
 
-
-
-
-
-
-
-
-
+## Self-reviewing your personal statements
 
