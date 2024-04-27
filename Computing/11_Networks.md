@@ -1,4 +1,14 @@
 # Introduction to Networking
+Public vs Private IP Addresses](#public-vs-private-ip-addresses)
+        * [Network Address Translation](#network-address-translation)
+            * [Example of a MAC address](#example-of-a-mac-address)
+        * [Why have we not run out of IPv4 Addresses?](#why-have-we-not-run-out-of-ipv4-addresses?)
+        * [Why are we still using IPv4 when there is a better IPv6?](#why-are-we-still-using-ipv4-when-there-is-a-better-ipv6?)
+        * [IP Address in Singapore](#ip-address-in-singapore)
+        * [IP Address in USA](#ip-address-in-usa)
+        * [Port Number](#port-number)
+            * [Did you know?](#did-you-know?)
+        * [Service Set Identifier (SSID)](#service-set-identifier-(ssid))
 
 # Computer Network
 
@@ -255,6 +265,11 @@ To get 1m, talk about both Wired and Wireless.
 ### Port Number
 - Used in combination with an IP address to identify a program that is running on a network
 - All port numbers are assigned in a range from 0 to 65,535.
+
+### Service Set Identifier (SSID)
+
+- A string of up to 32 bytes that identifies a Wireless Access Point (WAP) and all the devices connected to it.
+- All wireless devices connected to the same WAP must use the same SSID.
 
 #### Did you know?
 You can list all the port numbers that are in use on your computer by entering `netstat -na` in the command prompt.
