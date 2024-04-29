@@ -129,12 +129,12 @@ TCP/IP (Transmission Control Protocol/Internet Protocol; also known as the inter
 ![figure10](Networking/figure10.png)
 
 TCP/IP Protocol includes:
-- HTTP - transfers web pages from web servers to the client. All web page addresses start with http. An https address is a secure web address which has been encrypted. An https address is used for sites holding bank details and secure information.
-- FTP - used to transfer large files. It is often used for organising files on a web server for a website. You can have private access to download the documents that you have shared.
-- UDP - User Datagram Protocol - Similar to TCP, but because messages are sent instead of packets - chunks - it is often faster, allowing for gaming or video calls over the internet.
-- SMTP - Simple Mail Transfer Protocol - governs the sending of emails over a network to a mail server.
-- IMAP/POP3 - Internet Message Access Protocol - governs retrieving emails from email servers.
-- VOIP - is a set of protocols that enables people to have voice conversations over the internet.
+- __HTTP__ - transfers web pages from web servers to the client. All web page addresses start with http. An https address is a secure web address which has been encrypted. An https address is used for sites holding bank details and secure information.
+- __FTP__ - used to transfer large files. It is often used for organising files on a web server for a website. You can have private access to download the documents that you have shared.
+- __UDP__ - User Datagram Protocol - Similar to TCP, but because messages are sent instead of packets - chunks - it is often faster, allowing for gaming or video calls over the internet.
+- __SMTP__ - Simple Mail Transfer Protocol - governs the sending of emails over a network to a mail server.
+- __IMAP/POP3__ - Internet Message Access Protocol - governs retrieving emails from email servers.
+- __VOIP__ - is a set of protocols that enables people to have voice conversations over the internet.
 
 ## TCP
 - Slower but more reliable transfers

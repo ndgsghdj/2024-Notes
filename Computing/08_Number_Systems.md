@@ -1,5 +1,32 @@
 # Number Systems
 
+* [Denary Number System](#denary-number-system)
+    * [Definition](#definition)
+* [Binary Number System](#binary-number-system)
+    * [Definition](#definition-1)
+* [Notation](#notation)
+* [Denary to Binary](#denary-to-binary)
+    * [Algorithm 1: Dividing by 2](#algorithm-1-dividing-by-2)
+        * [Example: Converting 135 to binary](#example-converting-135-to-binary)
+    * [Algorithm 2: Sum of Place Values](#algorithm-2-sum-of-place-values)
+* [Hexadecimal Number System](#hexadecimal-number-system)
+    * [Definition](#definition-2)
+    * [Denary equivalents of the hexadecimal](#denary-equivalents-of-the-hexadecimal)
+    * [Example of Hexadecimal Number](#example-of-hexadecimal-number)
+    * [Denary to Hexadecimal](#denary-to-hexadecimal)
+        * [Algorithm 1: Divide by 16](#algorithm-1-divide-by-16)
+        * [Example](#example)
+    * [Hexadecimal to Binary, or Vice Versa](#hexadecimal-to-binary-or-vice-versa)
+* [Applications of Number Systems](#applications-of-number-systems)
+    * [RGB Colour Codes](#rgb-colour-codes)
+    * [Network Addresses](#network-addresses)
+        * [IPv4](#ipv4)
+        * [IPv6](#ipv6)
+* [MAC Address](#mac-address)
+* [ASCII and Unicode](#ascii-and-unicode)
+    * [ASCII](#ascii)
+    * [Unicode](#unicode)
+
 ## Denary Number System
 
 ### Definition
