@@ -55,7 +55,7 @@ Authentication is the process of verifying the identity of a user. It requires t
 - Something the user owns (mobile phone)
 - Something physically unique about the user (thumbprint)
 
-Each category of evidence used for authentication is called an __authentica- tion factor__
+Each category of evidence used for authentication is called an __authentication factor__
 
 ### Passwords
 
@@ -75,9 +75,9 @@ A __security token__ is a device used specifically for authentication purposes, 
 
 The type of authentication that uses evidence from both something a user knows and owns is called __2-factor authentication__.
 
-2FA is stronger than a singular password as it is more difficult for an in- truder to both guess a password and steal the user’s security token. Hence, it is important to keep the security token in a secure location at all times and to report a missing security token as soon as possible.
+2FA is stronger than a singular password as it is more difficult for an intruder to both guess a password and steal the user’s security token. Hence, it is important to keep the security token in a secure location at all times and to report a missing security token as soon as possible.
 
-If an OTP is sent wirelessly to a user’s mobile phone, it may be intercepted and used by an intruder during the transmission process. If the secret algo- rithm used to generate OTPs is poorly chosen or accidentally revealed, an intruder may find out how to generate OTPs without needing the security token at all.
+If an OTP is sent wirelessly to a user’s mobile phone, it may be intercepted and used by an intruder during the transmission process. If the secret algorithm used to generate OTPs is poorly chosen or accidentally revealed, an intruder may find out how to generate OTPs without needing the security token at all.
 
 There is not much a user can do about this type of intrusion attempt.
 
@@ -136,6 +136,111 @@ Conversely, a private network such as the Internet allows anyone to connect to i
 
 ## Encryption
 
-__Encryption__ is the process of encoding data so that a secret key is required to read the data. Like passwords, the secret key is usually provided as a sequence of bytes
+__Encryption__ is the process of encoding data so that a secret key is required to read the data. Like passwords, the secret key is usually provided as a sequence of bytes.
+
+Before the encrypted data is decoded using the secret key, it appears as random and meaningless data.
+
+Encryption is often used to protect data from unauthorised access by allowing only authorised users to have the secret key. It can be used in combination with file permissions so an unauthorised user who bypasses file permissions would still be unable to use the accessed data without knowing the secret key.
+
+
+## Understanding of Privacy Policies
+
+Unauthorised access can occur indirectly due to the actions of 3rd-party users or services.
+
+For example, a user alters file permissions to let a classmate access some private files. That classmate in turn shares those files with others without the original user's knowledge.
+
+- __Privacy__ - The ability to keep specific data or resources from being known by others.
+    - In many countries, organisations are required by law to publicise or make available a privacy policy about the rules and practices they follow regarding the collection, protection and use of personal or private data provided by users.
+    - __Example__: Organisations in Singapore are required by the Personal Data Protection Act (PDPA) to make their privacy policies available upon request.
+
+An increasing number  of users share personal information such as photos and location data using online services, many of them are unfamiliar with the relevant privacy policies or how such sharing habits may indirectly result in unauthorised access. A poor understanding of the privacy policies of these services can often result in unauthorised access.
+
+### Social Networking Sites
+
+Social networking sites such as Twitter, Instagram and TikTok allow users to share photographs and information quickly with their families or friends. They can also be used to promote businesses or raise awareness of campaigns or causes.
+
+However, these sites can pose many privacy concerns because most users do not read or consider the repercussions of the privacy policies used by these sites regarding personal information such as status updates, notes, photographs and location data.
+
+The privacy policies for many social networking sites do not guarantee that personal data collected will never be exposed to unauthorised users and may even require that your personal data be shared with advertisers in order to use their sites. Hence, personal data can potentially be harvested for spam and other threats to privacy that users did not authorise directly.
+
+Remember: Once data is digitised and uploaded to a public network such as the Internet, it can potentially remain there forever, since it can be easily copied and republished in ways no longer under the control of the original uploader.
+
+Oh, and also some privacy policies for some social networking sites don’t guarantee that their personal data will be deleted from the site completely or immediately even after their account is closed, deleted, or has all personal data removed from it.
+
+Personal data is sensitive and should not be shared publicly. Some companies may reject candidates after reviewing the information and photographs posted on their social networking accounts, even if this was posted while they were still at school.
+
+## Summary
+
+### Preventing Unauthorised Access
+
+- Read and fully understand the privacy policy of the social networking site.
+- Set sharing settings to "private" so only people you know in real life can read your posts.
+- Think twice before posting personal photographs or information that you may feel uncomfortable sharing.
+- Accept friend requests wisely. Make sure you know everyone in your friends list.
+
+## Threats to Privacy and Security
+
+![figure1](Ethical_Social_Economic_Issues/figure1.png)
+![figure2](Ethical_Social_Economic_Issues/figure2.png)
+
+### Defensive Measures Against Privacy and Security Threats
+
+#### Installing anti-virus and anti-spyware programs
+
+- __Anti-Spyware__ - Software to detect, remove and stop spyware and other malware from running.
+- __Anti-virus__ - Software to detect, remove and stop viruses and other malware from running.
+
+Counters viruses, worms, spyware and Trojan horses, since they need to run on a user's computer in order to perform their respective attacks.
+
+These programs can be used to scan a user's storage and email to detect and remove malware. If a program has been infected by a virus, it may also try to restore the original program.
+
+Although powerful, most rely on a list of __signatures__, unique evidence used to detect a known version of some malicious software. This list has to be updated regularly to ensure protection provided continues to be effective against new malware. Most programs update the list automatically through the Internet.
+
+Some especially devious Trojan horses appear to be anti-virus and anti-spyware programs. Only trust programs provided by reputable companies, or as part of the computer's __operating system__.
+
+### Operating System
+
+An __operating system__ is software designed to support a computer's basic functions, such as Windows and MacOS.
+
+### Update Software Regularly
+
+Most malware require human interaction to activate, but worms can run automatically by exploiting bugs in otherwise legitimate programs already running on a computer.
+
+For example, a flawed web browser may have a bug that allows websites to run malicious programs without the user's knowledge.
+
+To prevent this, update software regularly so bugs that were discovered since the last update can be fixed. This is especially important for software used to interact with public networks like the Internet, as data from public networks is more likely to be malicious and designed to take advantage of known bugs.
+
+### Identity Phishing
+
+Phishing emails should be ignored and deleted. There are several telltale signs to identify phishing emails.
+- Claims to be from a company/bank asking for confidential information. Most companies and banks never ask for such information via email. If in doubt, call the company or bank to verify.
+- Generic greeting such as "Dear User", it is a sign that the email was sent automatically and not by a person.
+- Inaccurate logos and grammatical or spelling errors.
+- Sender's email address or contact does not match the supposed source of email.
+- Email has hyperlinks with destinations that do not match what the hyperlink text says or is otherwise unexpected. Place mouse cursor over the hyperlink and its destination should appear as a popup or on the status bar.
+- Excessively urgent or threatening tone, a scare tactic to make victims act before they can think through their actions properly.
+- Email promises offers that are too good to be true, tempting victims into revealing personal information.
+
+### Identity Pharming
+
+Pharming is like phishing V2. The attacker attempts to intercept requests sent from a computer to a legitimate website and redirects the user to a fake website to steal personal data.
+
+For example, a victim of pharming may log into their bank account, and are presented with a website that looks like the bank, but isn't. The attacker can now retrieve your account details to access your bank account on the actual website, stealing your money.
+
+For pharming to be successful, the attacker must either have malware running on the victim's computer or has taken control of a network device such as a router or server. This can occur as the software that runs on such devices is also susceptible to bugs.
+
+It is harder to detect as everything seems to be normal while the attack takes place. Measures include:
+- Ensure encryption is used when submitting sensitive information via the internet. Check if there's a padlock icon at the address bar.
+- Regularly check bank, debit/credit card and other statements to ensure all transactions are legitimate.
+- Regularly update web browsers and the software running on the network hardware so that all known bugs are fixed.
+- Enable 2FA for all bank transactions. This means even if the attacker is able to access the bank account, no unauthorised transactions can occur as the attacker would not be able to provide the required OTP.
+
+### Manage Spam
+
+
+
+
+
+
 
 
