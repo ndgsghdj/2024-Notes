@@ -48,7 +48,7 @@
 
 A computer network is a system of two or more computers (or devices) that are connected together by a transmission medium for the exchange of data.
 
-# Advantages
+## Advantages
 
 - **Shared Resources**
     - A network allows a group of computers to make use of shared resources such as printers or files
@@ -61,7 +61,7 @@ A computer network is a system of two or more computers (or devices) that are co
 - **Communication**
     - Computers in the same network are often able to share instant messages and emails for communication
 
-# Disadvantages
+## Disadvantages
 
 - Initial Costs
     - Installing a network could be costly due to the high setup and equipment costs.
