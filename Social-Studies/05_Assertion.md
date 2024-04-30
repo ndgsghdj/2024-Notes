@@ -1,6 +1,8 @@
 # Assertion Skills
 ## Key Understanding
 
+1. Unpack the question issue
+
 | Assertion | Inference |
 |-----------|-----------|
 | Stand     | P         |
@@ -92,20 +94,58 @@ Their medical needs would be addressed more promptly as individuals no longer ha
 #### As a result
 The overall health of the American population would increase as illnesses are addressed more promptly and not allowed to deteriorate further, ensuring that a larger proportion of the population remains healthy for a longer period of time. Therefore, the American healthcare system has been successful in meeting the healthcare needs of the public.
 
+## Point to Note for BSA
+- __Cannot repeat__ similar analysis points for multiple sources
+- Must ensure that you link to the __wider context__ beyond what the source tells you
+- __Link back__ to the assertion statement.
 
-
-
-
-
-
-
-
-
-
+## Bonus Tasks
+1. Bring in own examples from contextual knowledge relevant to __a source__
+    - Parallel example OR deeper insight
+2. Reliability/utility of __a source__
+3. [ VERY RISKY ] Balanced conclusion on the assertion statement (Why each view is valid. Explain why using provenance and association)
+    - Very strictly marked during O Levels
 
 ## LORMS
 
+| LORMS | Description                      | Mark |
+|-------|----------------------------------|------|
+| L1    | No valid use of source           | 1    |
+| L2    | Valid use of source/s (A OR DA)  | 2-4  |
+| L3    | Valid use of source/s (A AND DA) | 5-8  |
+|       | Special Bonus                    | 8-10 |
 
+### Types of Strategies
 
+| Type            | Agree | Disagree | Basic Marks | Well-Supported Answer |
+|-----------------|-------|----------|-------------|-----------------------|
+| Highest Marks   | 2     | 2        | 7m          | 8m                    |
+| Time Constraint | 1     | 1        | 5m          | -                     |
+
+### Example
+
+#### Paragraph 1 [ Agree ]
+
+- SEBSA [ L2/3 ]
+- Contextual Knowledge [ +1m ]
+
+#### Paragraph 2 [ Disagree ]
+
+## Example Question
+
+### Unpacking
+
+> "Dyson's move to Singapore is bad for Britain." Using the sources in this case study, explain how far you would agree with this statement.
+> "Individual responsibility is the best way to manage the spread of fake news" Using the sources...
+
+#### Bad for Britain
+- Job loss
+- Decrease in GDP
+- Decrease in revenue
+- Slow economic growth
+
+#### Government
+- Authority
+- Resources
 
 

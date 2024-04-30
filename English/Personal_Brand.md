@@ -51,12 +51,12 @@ Personal branding is about self-reflection — Who am I?
 - First person
 - Linking words
 - Formal
+- Passive sentence structure
+    - Vary sentence structure
 
 #### Words that portray confidence
 - Definitely
 - Strongly believe
-
-
 
 # Lesson 2
 

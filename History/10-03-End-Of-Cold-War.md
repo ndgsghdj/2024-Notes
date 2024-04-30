@@ -80,4 +80,39 @@
 - __Helsinki Accords, 1975__
     - US, USSR and 30 other countries signed an agreement in August 1975 where they promised to:
         - Resolve international disputes by diplomacy
-        - Protect human rights e.g. freedom of speech, freedom from unfair arrest
+        - Protect human rights e.g. Freedom of speech, freedom from unfair arrest
+
+- __Apollo-Soyuz Test Project__
+    - A US-USSR joint space venture
+    - In July 1975, millions of people across the globe witnessed on television the historic moment when a US Apollo spacecraft docked with a Soviet Soyuz capsule.
+    - The mission commanders of the respective spaceships exchanged the first international handshake in space - a moment widely regarded as the symbol of detente between the two superpowers.
+
+## Decline of Detente
+
+- In 1977, after the USSR's invasion of Afghanistan in 1979, then US President Jimmy Carter in 1977 abandoned detente and took a much more aggressive approach towards the USSR.
+- At the same time, Brezhnev began to think the USSR was not gaining much from detente either.
+- Both sides began to criticise each other's actions again and accused the other of breaking their promises.
+    - Examples
+        - Carter blamed the USSR for not settling disputes peacefully.
+            - According to Carter, the USSR was making things worse by supplying arms to its allies in war zones such as Angola and Ethiopia.
+        - Brezhnev countered that the United States was doing pretty much the same in Central and South America, as well as in South Africa.
+        - They also accused each other of trying to get around the various nuclear arms limitation treaties.
+        - The Soviet Invasion of Afghanistan in 1979.
+            - When Carter heard about the invasion, he described it as "the most serious threat to peace since the Second World War."
+
+## The Decline of the USSR in the 1970s and 1980s
+
+## Why was the USSR in decline in the 1970s and 1980s?
+
+## Return of Cold War Tensions
+
+### Introduction
+
+- Ronald Reagan, American President from 1981-1989 brought a return to escalated Cold War tensions.
+- Reagan had a straightforward and aggressive approach towards the USSR - essentially, the USSR was wrong, and the United States and its allies were right.
+    - In one speech, he referred to the USSR as an "evil empire"
+
+### US Economic Superiority: Economic Boom in the United States and Western Europe
+
+- Reagan also had radical ideas for US domestic policy. Like his close ally British Prime Minister Margaret Thatcher, he believed that people and businesses needed to be liberated from government regulation.
+    - 
