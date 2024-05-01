@@ -66,3 +66,52 @@ Ionic half equations:
 Oxidation: $\ce{Mg(s) -> Mg^{2+} (aq) + 2e^-}$
 
 Reduction: $\ce{2H^+(aq) + 2e^- -> H_2(g)}$
+
+*Using ideas about electron transfer, explain why the reaction is a redox reaction.*
+
+Magnesium atom loses <ins>electrons</ins> and is <ins>oxidised</ins> to form $\ce{Mg^{2+}}$ <ins>ions</ins>, while hydrogen <ins>ions</ins> gains electrons and is reduced to $\ce{H_2}$ <ins>molecules</ins> simultaneously.
+
+## Oxidation State Rules
+
+1. Elements that are uncombined with other elements are assigned an oxidation number of 0.
+2. In simple ions, the oxidation number is simply the charge on the ion.
+3. In complex ions, the sum of the oxidation numbers is equivalent to the net charge for polyatomic ions.
+4. The oxidation number of hydrogen in all of its compounds is +1, except in metal hydrides where its oxidation number is -1.
+5. The oxidation number of oxygen in all its compounds is -2, except in peroxides where it is -1.
+6. The oxidation number of Group 1 elements (e.g. sodium) in their compounds is +1, for Group 2 elements (e.g. magnesium) in their compounds is +2, and for aluminium in its compounds is +3.
+7. There are many oxidation numbers for Group 17 elements in their compounds but the usual one is -1.
+8. The sum of the oxidation numbers of all the elements in a compound is zero.
+
+### Explaining Redox Using O.S
+
+> The oxidation state of <ins>chlorine</ins> decreased from 0 in $\ce{Cl_2}$ to -1 in $\ce{KCl}$, hence chlorine was reduced. The oxidation state of <ins>bromine</ins> increased from -1 in $\ce{KBr}$ to 0 in $\ce{Br_2}$, hence bromine was oxidised simultaneously.
+
+## Oxidising and Reducing Agents
+
+In a redox reaction, both oxidation and reduction take place.
+- An __oxidising agent__ (or oxidant) oxidises another substance - and is itself reduced.
+- An __reducing agent__ (or reductant) reduces another substance - and is itself oxidised.
+
+### Example
+
+Identify the oxidising agent and reducing agent in the following reaction:
+
+$$\ce{CuO (s) + H_2 (g) -> Cu (s) + H_2 O (\textit{l})}$$
+
+The oxidation state of __hydrogen__ increased from <ins>0 in $\ce{H_2}$ to +1 in $\ce{H_2 O}$ </ins>. Hence, hydrogen is oxidised. The oxidation state of __copper__ decreased from <ins>+2 in $\ce{CuO}$ to 0 in $\ce{Cu}$.</ins> Therefore, hydrogen is the reducing agent and $\ce{CuO}$ is the oxidising agent.
+
+### Testing of Oxidising Agents and Reducing Agents
+
+#### Acidified potassium manganate(VII) solution
+
+Half equation: $\ce{MnO_4^- (aq) + 8H^+ (aq) + 5e^- -> Mn^{2+} (aq) + H_2 O (\textit{l})}$
+
+Acidified $\ce{KMnO_4}$ solution is a <ins>strong oxidising agent</ins> and it turns from purple to colourless when coming into contact with a reducing agent.
+
+#### Potassium iodide solution
+
+Half equation: $\ce{2I^- (aq) -> I_2 (s) + 2e^-}$
+
+$\ce{KI}$ solution is a <ins>reducing agent</ins> and it turns from colourless to brown when coming into contact with an oxidising agent.
+
+
