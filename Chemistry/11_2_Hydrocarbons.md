@@ -56,8 +56,8 @@ Limewater/aqueous calcium hydroxide can be used to test for carbon dioxide. A wh
 - The products belong to a homologous series - *halogenoalkanes.*
 - The reaction produces a complex mixture of products as multiple substitutions are also possible.
 
-$$\ce{CH_4 + 2Cl ->[Ultraviolet \space light] CH_3Cl + HCl}$$
-$$\ce{CH_3Cl + 2Cl ->[Ultraviolet \space light] CH_2Cl_2 + HCl}$$
+$$\ce{CH_4 + 2Cl ->[UV \space light] CH_3Cl + HCl}$$
+$$\ce{CH_3Cl + 2Cl ->[UV \space light] CH_2Cl_2 + HCl}$$
 
 #### All possible reaction products
 
