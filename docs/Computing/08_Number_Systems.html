@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>08_Number_Systems</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="/Users/nikolawinata/Documents/2024-Notes/pandoc.css" />
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<h1 id="number-systems">Number Systems</h1>
+<ul>
+<li><a href="#denary-number-system">Denary Number System</a>
+<ul>
+<li><a href="#definition">Definition</a></li>
+</ul></li>
+<li><a href="#binary-number-system">Binary Number System</a>
+<ul>
+<li><a href="#definition-1">Definition</a></li>
+</ul></li>
+<li><a href="#notation">Notation</a></li>
+<li><a href="#denary-to-binary">Denary to Binary</a>
+<ul>
+<li><a href="#algorithm-1-dividing-by-2">Algorithm 1: Dividing by 2</a>
+<ul>
+<li><a href="#example-converting-135-to-binary">Example: Converting 135
+to binary</a></li>
+</ul></li>
+<li><a href="#algorithm-2-sum-of-place-values">Algorithm 2: Sum of Place
+Values</a></li>
+</ul></li>
+<li><a href="#hexadecimal-number-system">Hexadecimal Number System</a>
+<ul>
+<li><a href="#definition-2">Definition</a></li>
+<li><a href="#denary-equivalents-of-the-hexadecimal">Denary equivalents
+of the hexadecimal</a></li>
+<li><a href="#example-of-hexadecimal-number">Example of Hexadecimal
+Number</a></li>
+<li><a href="#denary-to-hexadecimal">Denary to Hexadecimal</a>
+<ul>
+<li><a href="#algorithm-1-divide-by-16">Algorithm 1: Divide by
+16</a></li>
+<li><a href="#example">Example</a></li>
+</ul></li>
+<li><a href="#hexadecimal-to-binary-or-vice-versa">Hexadecimal to
+Binary, or Vice Versa</a></li>
+</ul></li>
+<li><a href="#applications-of-number-systems">Applications of Number
+Systems</a>
+<ul>
+<li><a href="#rgb-colour-codes">RGB Colour Codes</a></li>
+<li><a href="#network-addresses">Network Addresses</a>
+<ul>
+<li><a href="#ipv4">IPv4</a></li>
+<li><a href="#ipv6">IPv6</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#mac-address">MAC Address</a></li>
+<li><a href="#ascii-and-unicode">ASCII and Unicode</a>
+<ul>
+<li><a href="#ascii">ASCII</a></li>
+<li><a href="#unicode">Unicode</a></li>
+</ul></li>
+</ul>
+<h2 id="denary-number-system">Denary Number System</h2>
+<h3 id="definition">Definition</h3>
+<p>A number system that is made up of <strong>10 unique
+digits</strong>.</p>
+<ul>
+<li>Uses place values of powers of 10.</li>
+</ul>
+<h2 id="binary-number-system">Binary Number System</h2>
+<h3 id="definition-1">Definition</h3>
+<p>A number system that is made up of <strong>2 unique
+digits</strong>.</p>
+<ul>
+<li>Uses place values of powers of 2.</li>
+</ul>
+<h2 id="notation">Notation</h2>
+<p>To distinguish binary numbers from denary numbers, they can be
+written in any of the following ways:</p>
+<ul>
+<li><span class="math inline">\(1101\)</span></li>
+<li><span class="math inline">\((1101)_2\)</span></li>
+<li><span class="math inline">\(0b1101\)</span></li>
+</ul>
+<p>Leading zeros are sometimes also shown when using binary numbers in
+computer systems to show all 8 binary bits in a byte:</p>
+<p>e.g. <span class="math inline">\(0000 \space  1101\)</span></p>
+<h2 id="denary-to-binary">Denary to Binary</h2>
+<h3 id="algorithm-1-dividing-by-2">Algorithm 1: Dividing by 2</h3>
+<ol type="1">
+<li>Draw a table with three columns - one column for denary numbers, one
+column for the quotients and one column for the remainders.</li>
+<li>Fill in the denary number in the first row.</li>
+<li>Divide the denary number by 2 and fill in its quotient and remainder
+in the same row.</li>
+<li>If the quotient is 0, proceed to step 5. Otherwise, copy the
+quotient to the denary number column of the next row and repeat step
+3.</li>
+<li>The equivalent binary number is the remainder column read from the
+bottom up.</li>
+</ol>
+<h4 id="example-converting-135-to-binary">Example: Converting 135 to
+binary</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Denary</th>
+<th>Quotient</th>
+<th>Remainder</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>135</td>
+<td>67</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>67</td>
+<td>33</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>33</td>
+<td>16</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>8</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math inline">\(\therefore (135)_{10} =
+(10000111)_2\)</span></p>
+<h3 id="algorithm-2-sum-of-place-values">Algorithm 2: Sum of Place
+Values</h3>
+<p>E.g. Convert 135 to binary</p>
+<p><img src="Number_Systems/figure1.png" alt="figure1" /></p>
+<h2 id="hexadecimal-number-system">Hexadecimal Number System</h2>
+<h3 id="definition-2">Definition</h3>
+<p>Number system that is made up of 16 unique digits.</p>
+<h3 id="denary-equivalents-of-the-hexadecimal">Denary equivalents of the
+hexadecimal</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Hexadecimal digit</th>
+<th>Denary equivalent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>7</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>9</td>
+<td>9</td>
+</tr>
+<tr class="odd">
+<td>A</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>11</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>12</td>
+</tr>
+<tr class="even">
+<td>D</td>
+<td>13</td>
+</tr>
+<tr class="odd">
+<td>E</td>
+<td>14</td>
+</tr>
+<tr class="even">
+<td>F</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<h3 id="example-of-hexadecimal-number">Example of Hexadecimal
+Number</h3>
+<p><span class="math display">\[ 1C6A \]</span></p>
+<p><span class="math display">\[1C6A_{16} = 1 \times 16^3 + 12 \times
+16^2 + 6 \times 16^1 + 10 \times 16^0\]</span></p>
+<p>To distinguish hexadecimal numbers from denary numbers, they can be
+written in any of the following ways:</p>
+<ul>
+<li><span class="math inline">\(1C6A_{16}\)</span></li>
+<li><span class="math inline">\((1C6A)_{16}\)</span></li>
+<li><span class="math inline">\(0x1C6A\)</span></li>
+</ul>
+<h3 id="denary-to-hexadecimal">Denary to Hexadecimal</h3>
+<h4 id="algorithm-1-divide-by-16">Algorithm 1: Divide by 16</h4>
+<ol type="1">
+<li>Draw a table with three columns - one column for denary numbers, one
+column for the quotients and one column for the remainders.</li>
+<li>Fill in the denary number in the first row.</li>
+<li>Divide the denary number by 16 and fill in its quotient and
+remainder in the same row.</li>
+<li>If the quotient is 0, proceed to step 5. Otherwise, copy the
+quotient to the denary number column of the next row and repeat step
+3.</li>
+<li>The equivalent denary number is the remainder column read from the
+bottom up.</li>
+</ol>
+<h4 id="example">Example</h4>
+<p>Convert 1899 to hexadecimal</p>
+<table>
+<thead>
+<tr class="header">
+<th>Denary</th>
+<th>Quotient</th>
+<th>Remainder</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1899</td>
+<td>118</td>
+<td><span class="math inline">\(11 = B_{16}\)</span></td>
+</tr>
+<tr class="even">
+<td>118</td>
+<td>7</td>
+<td><span class="math inline">\(6 = 6_{16}\)</span></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>0</td>
+<td><span class="math inline">\(7 = 7_{16}\)</span></td>
+</tr>
+</tbody>
+</table>
+<h3 id="hexadecimal-to-binary-or-vice-versa">Hexadecimal to Binary, or
+Vice Versa</h3>
+<p><img src="Number_Systems/figure2.png" alt="figure2" /></p>
+<h2 id="applications-of-number-systems">Applications of Number
+Systems</h2>
+<h3 id="rgb-colour-codes">RGB Colour Codes</h3>
+<p>RGB is an abbreviation of red, green, and blue, which are the primary
+colours of light and can be combined with varying intensities to create
+other colours.</p>
+<p>The intensity of each colour component is stored as a number, and
+each value is stored in a single byte, corresponding to <span
+class="math inline">\(00000000_2\)</span> to <span
+class="math inline">\(11111111_2\)</span>, <span
+class="math inline">\(00_{16}\)</span> to <span
+class="math inline">\(FF_{16}\)</span>, and 0 to 255 in binary,
+hexadecimal, and decimal respectively.</p>
+<p>When all 3 colour intensities are 0, the result is black. If all
+intensities are at their maximum, the result is white.</p>
+<p>RGB colour codes are displayed in the form of #RRGGBB, where RR, GG
+and BB are 2-digit hexadecimal numbers that represent each component of
+the colour. These codes are used to represent colours in websites,
+typically written in HTML and CSS.</p>
+<h3 id="network-addresses">Network Addresses</h3>
+<p>For computers to communicate/exchange data over a network, they must
+be able to locate each other so that transmitted data can be directed to
+the correct destination.</p>
+<p>This is done by giving each computer a unique name in the form of a
+sequence of bytes called a <strong>network address</strong>.</p>
+<p>The Internet as an example of a computer network, each computer on
+the Internet has an <strong>IP Address</strong>, serving as its network
+address on the internet.</p>
+<p>IP (Internet Protocol) is a standard system of rules used by
+computers on the Internet to communicate with each other. There are 2
+versions of IP used today, IPv4 and IPv6</p>
+<h4 id="ipv4">IPv4</h4>
+<ul>
+<li>An internet protocol that is made up of 4 bytes (32 bits).
+<ul>
+<li>Usually shown as a sequence of 4 denary numbers, one for each byte
+of the address, separated by dots.</li>
+<li>Since the value of a byte can only vary from 0 to 255, none of the 4
+denary numbers can fall out of this range.</li>
+<li>The maximum number of IPv4 addresses is <span
+class="math inline">\(2^{32}\)</span>, or 4.3 billion. With the rapid
+growth of the Internet in the 80s and 90s, the number of IPv4 addresses
+is insufficient.</li>
+</ul></li>
+</ul>
+<h4 id="ipv6">IPv6</h4>
+<ul>
+<li>Usually shown as a sequence of 8 hexadecimal numbers, each number
+being 16 bits. Each group uses 4 hexadecimal digits.</li>
+<li>Hexadecimal is used for representation as using decimal would take
+up a maximum of <span class="math inline">\(3 \times 16 = 48\)</span>,
+which is inconvenient.</li>
+</ul>
+<h2 id="mac-address">MAC Address</h2>
+<ul>
+<li><strong>Media Access Control (MAC) address</strong> - A sequence of
+bytes (usually permanent in nature) that is used to identify a
+particular network interface controller.
+<ul>
+<li>It is a permanent way to locate or identify a specific computer or
+device, as the IP address of a computer may change each time it connects
+to the Internet.</li>
+<li>It is made up of 6 bytes (48 bits), and is shown as a sequence of 6
+hexadecimal numbers, one for each byte of the address. They are
+separated either by colons or hyphens.</li>
+<li>The format for a MAC address is <strong>NN-NN-NN-DD-DD-DD</strong>,
+where <strong>NN-NN-NN</strong> is the manufacturer's identity number;
+and <strong>DD-DD-DD</strong> is the device's serial number.</li>
+</ul></li>
+</ul>
+<h2 id="ascii-and-unicode">ASCII and Unicode</h2>
+<h3 id="ascii">ASCII</h3>
+<ul>
+<li>Stands for the American Standard Code for Information
+Interchange</li>
+<li>Defines how numbers are used to represent common characters that can
+be typed using a keyboard, such as upper-case and lower-case
+letters.</li>
+<li>Exactly seven bits long, so only 128 (= 27) distinct characters can
+be represented.</li>
+</ul>
+<h3 id="unicode">Unicode</h3>
+<ul>
+<li>Similar function to ASCII, but can be used to represent characters
+in other languages such as Tamil and Mandarin, and even emojis.</li>
+<li>The number of bits used to represent each character can vary from 8
+to 32 bits depending on the encoding scheme used.</li>
+<li>Unicode can be used to represent over a million unique characters
+from many different written languages all over the world.</li>
+<li>For backward compatibility, the first 128 characters of Unicode are
+the same as ASCII.</li>
+</ul>
+<h1 id="number-systems-1">Number Systems</h1>
+<ul>
+<li><a href="#denary-number-system">Denary Number System</a>
+<ul>
+<li><a href="#definition">Definition</a></li>
+</ul></li>
+<li><a href="#binary-number-system">Binary Number System</a>
+<ul>
+<li><a href="#definition-1">Definition</a></li>
+</ul></li>
+<li><a href="#notation">Notation</a></li>
+<li><a href="#denary-to-binary">Denary to Binary</a>
+<ul>
+<li><a href="#algorithm-1-dividing-by-2">Algorithm 1: Dividing by 2</a>
+<ul>
+<li><a href="#example-converting-135-to-binary">Example: Converting 135
+to binary</a></li>
+</ul></li>
+<li><a href="#algorithm-2-sum-of-place-values">Algorithm 2: Sum of Place
+Values</a></li>
+</ul></li>
+<li><a href="#hexadecimal-number-system">Hexadecimal Number System</a>
+<ul>
+<li><a href="#definition-2">Definition</a></li>
+<li><a href="#denary-equivalents-of-the-hexadecimal">Denary equivalents
+of the hexadecimal</a></li>
+<li><a href="#example-of-hexadecimal-number">Example of Hexadecimal
+Number</a></li>
+<li><a href="#denary-to-hexadecimal">Denary to Hexadecimal</a>
+<ul>
+<li><a href="#algorithm-1-divide-by-16">Algorithm 1: Divide by
+16</a></li>
+<li><a href="#example">Example</a></li>
+</ul></li>
+<li><a href="#hexadecimal-to-binary-or-vice-versa">Hexadecimal to
+Binary, or Vice Versa</a></li>
+</ul></li>
+<li><a href="#applications-of-number-systems">Applications of Number
+Systems</a>
+<ul>
+<li><a href="#rgb-colour-codes">RGB Colour Codes</a></li>
+<li><a href="#network-addresses">Network Addresses</a>
+<ul>
+<li><a href="#ipv4">IPv4</a></li>
+<li><a href="#ipv6">IPv6</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#mac-address">MAC Address</a></li>
+<li><a href="#ascii-and-unicode">ASCII and Unicode</a>
+<ul>
+<li><a href="#ascii">ASCII</a></li>
+<li><a href="#unicode">Unicode</a></li>
+</ul></li>
+</ul>
+<h2 id="denary-number-system-1">Denary Number System</h2>
+<h3 id="definition-3">Definition</h3>
+<p>A number system that is made up of <strong>10 unique
+digits</strong>.</p>
+<ul>
+<li>Uses place values of powers of 10.</li>
+</ul>
+<h2 id="binary-number-system-1">Binary Number System</h2>
+<h3 id="definition-4">Definition</h3>
+<p>A number system that is made up of <strong>2 unique
+digits</strong>.</p>
+<ul>
+<li>Uses place values of powers of 2.</li>
+</ul>
+<h2 id="notation-1">Notation</h2>
+<p>To distinguish binary numbers from denary numbers, they can be
+written in any of the following ways:</p>
+<ul>
+<li><span class="math inline">\(1101\)</span></li>
+<li><span class="math inline">\((1101)_2\)</span></li>
+<li><span class="math inline">\(0b1101\)</span></li>
+</ul>
+<p>Leading zeros are sometimes also shown when using binary numbers in
+computer systems to show all 8 binary bits in a byte:</p>
+<p>e.g. <span class="math inline">\(0000 \space  1101\)</span></p>
+<h2 id="denary-to-binary-1">Denary to Binary</h2>
+<h3 id="algorithm-1-dividing-by-2-1">Algorithm 1: Dividing by 2</h3>
+<ol type="1">
+<li>Draw a table with three columns - one column for denary numbers, one
+column for the quotients and one column for the remainders.</li>
+<li>Fill in the denary number in the first row.</li>
+<li>Divide the denary number by 2 and fill in its quotient and remainder
+in the same row.</li>
+<li>If the quotient is 0, proceed to step 5. Otherwise, copy the
+quotient to the denary number column of the next row and repeat step
+3.</li>
+<li>The equivalent binary number is the remainder column read from the
+bottom up.</li>
+</ol>
+<h4 id="example-converting-135-to-binary-1">Example: Converting 135 to
+binary</h4>
+<table>
+<thead>
+<tr class="header">
+<th>Denary</th>
+<th>Quotient</th>
+<th>Remainder</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>135</td>
+<td>67</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>67</td>
+<td>33</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>33</td>
+<td>16</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>8</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math inline">\(\therefore (135)_{10} =
+(10000111)_2\)</span></p>
+<h3 id="algorithm-2-sum-of-place-values-1">Algorithm 2: Sum of Place
+Values</h3>
+<p>E.g. Convert 135 to binary</p>
+<p><img src="Number_Systems/figure1.png" alt="figure1" /></p>
+<h2 id="hexadecimal-number-system-1">Hexadecimal Number System</h2>
+<h3 id="definition-5">Definition</h3>
+<p>Number system that is made up of 16 unique digits.</p>
+<h3 id="denary-equivalents-of-the-hexadecimal-1">Denary equivalents of
+the hexadecimal</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Hexadecimal digit</th>
+<th>Denary equivalent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>6</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>7</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>9</td>
+<td>9</td>
+</tr>
+<tr class="odd">
+<td>A</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>11</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>12</td>
+</tr>
+<tr class="even">
+<td>D</td>
+<td>13</td>
+</tr>
+<tr class="odd">
+<td>E</td>
+<td>14</td>
+</tr>
+<tr class="even">
+<td>F</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<h3 id="example-of-hexadecimal-number-1">Example of Hexadecimal
+Number</h3>
+<p><span class="math display">\[ 1C6A \]</span></p>
+<p><span class="math display">\[1C6A_{16} = 1 \times 16^3 + 12 \times
+16^2 + 6 \times 16^1 + 10 \times 16^0\]</span></p>
+<p>To distinguish hexadecimal numbers from denary numbers, they can be
+written in any of the following ways:</p>
+<ul>
+<li><span class="math inline">\(1C6A_{16}\)</span></li>
+<li><span class="math inline">\((1C6A)_{16}\)</span></li>
+<li><span class="math inline">\(0x1C6A\)</span></li>
+</ul>
+<h3 id="denary-to-hexadecimal-1">Denary to Hexadecimal</h3>
+<h4 id="algorithm-1-divide-by-16-1">Algorithm 1: Divide by 16</h4>
+<ol type="1">
+<li>Draw a table with three columns - one column for denary numbers, one
+column for the quotients and one column for the remainders.</li>
+<li>Fill in the denary number in the first row.</li>
+<li>Divide the denary number by 16 and fill in its quotient and
+remainder in the same row.</li>
+<li>If the quotient is 0, proceed to step 5. Otherwise, copy the
+quotient to the denary number column of the next row and repeat step
+3.</li>
+<li>The equivalent denary number is the remainder column read from the
+bottom up.</li>
+</ol>
+<h4 id="example-1">Example</h4>
+<p>Convert 1899 to hexadecimal</p>
+<table>
+<thead>
+<tr class="header">
+<th>Denary</th>
+<th>Quotient</th>
+<th>Remainder</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1899</td>
+<td>118</td>
+<td><span class="math inline">\(11 = B_{16}\)</span></td>
+</tr>
+<tr class="even">
+<td>118</td>
+<td>7</td>
+<td><span class="math inline">\(6 = 6_{16}\)</span></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>0</td>
+<td><span class="math inline">\(7 = 7_{16}\)</span></td>
+</tr>
+</tbody>
+</table>
+<h3 id="hexadecimal-to-binary-or-vice-versa-1">Hexadecimal to Binary, or
+Vice Versa</h3>
+<p><img src="Number_Systems/figure2.png" alt="figure2" /></p>
+<h2 id="applications-of-number-systems-1">Applications of Number
+Systems</h2>
+<h3 id="rgb-colour-codes-1">RGB Colour Codes</h3>
+<p>RGB is an abbreviation of red, green, and blue, which are the primary
+colours of light and can be combined with varying intensities to create
+other colours.</p>
+<p>The intensity of each colour component is stored as a number, and
+each value is stored in a single byte, corresponding to <span
+class="math inline">\(00000000_2\)</span> to <span
+class="math inline">\(11111111_2\)</span>, <span
+class="math inline">\(00_{16}\)</span> to <span
+class="math inline">\(FF_{16}\)</span>, and 0 to 255 in binary,
+hexadecimal, and decimal respectively.</p>
+<p>When all 3 colour intensities are 0, the result is black. If all
+intensities are at their maximum, the result is white.</p>
+<p>RGB colour codes are displayed in the form of #RRGGBB, where RR, GG
+and BB are 2-digit hexadecimal numbers that represent each component of
+the colour. These codes are used to represent colours in websites,
+typically written in HTML and CSS.</p>
+<h3 id="network-addresses-1">Network Addresses</h3>
+<p>For computers to communicate/exchange data over a network, they must
+be able to locate each other so that transmitted data can be directed to
+the correct destination.</p>
+<p>This is done by giving each computer a unique name in the form of a
+sequence of bytes called a <strong>network address</strong>.</p>
+<p>The Internet as an example of a computer network, each computer on
+the Internet has an <strong>IP Address</strong>, serving as its network
+address on the internet.</p>
+<p>IP (Internet Protocol) is a standard system of rules used by
+computers on the Internet to communicate with each other. There are 2
+versions of IP used today, IPv4 and IPv6</p>
+<h4 id="ipv4-1">IPv4</h4>
+<ul>
+<li>An internet protocol that is made up of 4 bytes (32 bits).
+<ul>
+<li>Usually shown as a sequence of 4 denary numbers, one for each byte
+of the address, separated by dots.</li>
+<li>Since the value of a byte can only vary from 0 to 255, none of the 4
+denary numbers can fall out of this range.</li>
+<li>The maximum number of IPv4 addresses is <span
+class="math inline">\(2^{32}\)</span>, or 4.3 billion. With the rapid
+growth of the Internet in the 80s and 90s, the number of IPv4 addresses
+is insufficient.</li>
+</ul></li>
+</ul>
+<h4 id="ipv6-1">IPv6</h4>
+<ul>
+<li>Usually shown as a sequence of 8 hexadecimal numbers, each number
+being 16 bits. Each group uses 4 hexadecimal digits.</li>
+<li>Hexadecimal is used for representation as using decimal would take
+up a maximum of <span class="math inline">\(3 \times 16 = 48\)</span>,
+which is inconvenient.</li>
+</ul>
+<h2 id="mac-address-1">MAC Address</h2>
+<ul>
+<li><strong>Media Access Control (MAC) address</strong> - A sequence of
+bytes (usually permanent in nature) that is used to identify a
+particular network interface controller.
+<ul>
+<li>It is a permanent way to locate or identify a specific computer or
+device, as the IP address of a computer may change each time it connects
+to the Internet.</li>
+<li>It is made up of 6 bytes (48 bits), and is shown as a sequence of 6
+hexadecimal numbers, one for each byte of the address. They are
+separated either by colons or hyphens.</li>
+<li>The format for a MAC address is <strong>NN-NN-NN-DD-DD-DD</strong>,
+where <strong>NN-NN-NN</strong> is the manufacturer's identity number;
+and <strong>DD-DD-DD</strong> is the device's serial number.</li>
+</ul></li>
+</ul>
+<h2 id="ascii-and-unicode-1">ASCII and Unicode</h2>
+<h3 id="ascii-1">ASCII</h3>
+<ul>
+<li>Stands for the American Standard Code for Information
+Interchange</li>
+<li>Defines how numbers are used to represent common characters that can
+be typed using a keyboard, such as upper-case and lower-case
+letters.</li>
+<li>Exactly seven bits long, so only 128 (= 27) distinct characters can
+be represented.</li>
+</ul>
+<h3 id="unicode-1">Unicode</h3>
+<ul>
+<li>Similar function to ASCII, but can be used to represent characters
+in other languages such as Tamil and Mandarin, and even emojis.</li>
+<li>The number of bits used to represent each character can vary from 8
+to 32 bits depending on the encoding scheme used.</li>
+<li>Unicode can be used to represent over a million unique characters
+from many different written languages all over the world.</li>
+<li>For backward compatibility, the first 128 characters of Unicode are
+the same as ASCII.</li>
+</ul>
+</body>
+</html>

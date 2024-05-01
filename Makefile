@@ -1,17 +1,17 @@
 MD_FILES=$(shell find . -name \*.md)
 HTML_FILES=$(MD_FILES:.md=.html)
-BUILD_HTML_FILES=$(HTML_FILES:%=build/%)
+BUILD_HTML_FILES=$(HTML_FILES:%=docs/%)
 CSS_FILE=~/Documents/2024-Notes/pandoc.css
-INDEX_FILE=build/index.md
+INDEX_FILE=docs/index.md
 INDEX_HTML_FILE=$(INDEX_FILE:.md=.html)
 
 all: $(BUILD_HTML_FILES)
 
-build/assets/%: assets/%
+docs/assets/%: assets/%
 	@mkdir -p $$(dirname $@)
 	cp $? $@
 
-build/%.html: %.md $(CSS_FILE)
+docs/%.html: %.md $(CSS_FILE)
 	@mkdir -p $$(dirname $@)
 	pandoc --standalone --mathjax $<  -c $(CSS_FILE) -f gfm -t html5 -o $@ $<
 
