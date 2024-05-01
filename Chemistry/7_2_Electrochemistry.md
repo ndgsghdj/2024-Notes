@@ -1,8 +1,4 @@
----
-title: 7.2 Electrochemistry
-author:
-- Nikola
----
+# Electrochemistry
 
 ## Introduction to Electrochemistry
 
