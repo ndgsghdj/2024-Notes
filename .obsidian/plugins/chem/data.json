@@ -1,0 +1,29 @@
+{
+  "version": "v3",
+  "darkTheme": "dark",
+  "lightTheme": "light",
+  "sample1": "OC1=CC=C(CC2N(CCC3=CC(OC)=C(C(OC4=CC5=C(C=C4OC)CCN(C)C5C6)=C23)OC)C)C=C1OC7=CC=C6C=C7",
+  "sample2": "OC(C(=O)O[C@H]1C[N+]2(CCCOC3=CC=CC=C3)CCC1CC2)(C1=CC=CS1)C1=CC=CS1",
+  "copy": {
+    "scale": 2,
+    "transparent": true,
+    "theme": "default"
+  },
+  "dataview": true,
+  "inlineSmiles": false,
+  "inlineSmilesPrefix": "$smiles=",
+  "core": "smiles-drawer",
+  "commonOptions": {
+    "width": 300,
+    "scale": 1,
+    "unifiedWidth": 300,
+    "compactDrawing": false,
+    "explicitHydrogens": false,
+    "explicitMethyl": false
+  },
+  "smilesDrawerOptions": {
+    "moleculeOptions": {},
+    "reactionOptions": {}
+  },
+  "rdkitOptions": {}
+}

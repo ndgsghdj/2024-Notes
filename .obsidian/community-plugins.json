@@ -1,4 +1,7 @@
 [
   "table-editor-obsidian",
-  "quick-latex"
+  "quick-latex",
+  "dataview",
+  "obsidian-tikzjax",
+  "chem"
 ]

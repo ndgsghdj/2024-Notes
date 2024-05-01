@@ -35,6 +35,12 @@ Electrolytes conduct electricity differently from electrodes such as metals and 
 
 ![figure1](./Electrochemistry/figure1.png)
 
+|                   | Electrolytic Cell                                                                                      | Simple Cell                                                                             |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Source of Energy  | Electrical energy is supplied by an external source (e.g. battery)                                     | Electrical energy is produced through chemical reactions                                |
+| Energy Conversion | Electrical -> Chemical                                                                                 | Chemical -> Electrical                                                                  |
+| Electron Movement | Electrons move from negative terminal of battery to cathode, through electrolyte into anode. | Electrons move from anode to external circuit (voltmeter/bulb e.t.c) into cathode. |
+
 ### Similarities
 
 - Both have positive and negative electrodes
@@ -261,6 +267,37 @@ $$\ce{Cu^{2+} + 2e^- -> Cu(s)}$$
 
 ![figure11](Electrochemistry/figure11.png)
 
+## Applications of Electrolysis
 
+### Metal Purification
+
+- Impure copper can be purified using electrolysis
+- The piece of impure copper is made the anode (+) and the piece of pure copper is made the cathode(-).
+- Electrolyte is an aqueous solution of copper(II) ions.
+
+![figure12](Electrochemistry/figure12.png)
+
+### Electroplating
+
+- Electroplating is coating a thin layer of metal onto an object.
+- This is done to protect the object from corrosion and give the object a more attractive appearance.
+- The plating metal is made the anode (+), and the object to be plated is made the cathode (-)
+- __Electrolyte is an aqueous solution of a salt of the plating metal.__
+
+![figure13](Electrochemistry/figure13.png)
+
+## Hydrogen Fuel Cells
+
+> Suggest why scientists want to make hydrogen from sea water.
+
+To reduce the usage of methane (a fossil fuel) to produce hydrogen from steam reforming. To use non-potable sea water which is present in large quantities, to produce hydrogen instead of more precious fresh water.
+
+> Explain why electrolysis of water has high energy costs.
+
+Electrical energy is constantly supplied to split water to form hydrogen and oxygen gas.
+
+> Write a half equation to show how chlorine is produced from chloride ions.
+
+$$\ce{2Cl^-(aq) -> Cl_2 (g) + 2e^-}$$
 
 
