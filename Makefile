@@ -13,7 +13,7 @@ build/assets/%: assets/%
 
 build/%.html: %.md $(CSS_FILE)
 	@mkdir -p $$(dirname $@)
-	pandoc --standalone $<  -c $(CSS_FILE) -f gfm -t html5 -o $@ $<
+	pandoc --standalone --mathjax $<  -c $(CSS_FILE) -f gfm -t html5 -o $@ $<
 
 $(INDEX_FILE): $(MD_FILES)
 	echo "# Index\n" > $(INDEX_FILE)

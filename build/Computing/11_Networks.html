@@ -20,17 +20,95 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="/Users/nikolawinata/Documents/2024-Notes/pandoc.css" />
 </head>
 <body>
 <h1 id="introduction-to-networking">Introduction to Networking</h1>
+<ul>
+<li><a href="#computer-network">Computer Network</a></li>
+<li><a href="#advantages">Advantages</a></li>
+<li><a href="#disadvantages">Disadvantages</a></li>
+<li><a href="#types-of-computer-networks">Types of Computer Networks</a>
+<ul>
+<li><a href="#geographical-location">Geographical Location</a></li>
+</ul></li>
+<li><a href="#network-protocols">Network Protocols</a></li>
+<li><a href="#osi-physical-layer">OSI Physical Layer</a></li>
+<li><a href="#osi-data-link-layer">OSI Data Link Layer</a></li>
+<li><a href="#osi-network-layer">OSI Network Layer</a>
+<ul>
+<li><a href="#arp">ARP</a>
+<ul>
+<li><a href="#what-is-arp">What is ARP?</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#osi-transport-layer">OSI Transport Layer</a>
+<ul>
+<li><a href="#tcp">TCP</a></li>
+<li><a href="#udp">UDP</a></li>
+</ul></li>
+<li><a href="#osi-session-layer">OSI Session Layer</a></li>
+<li><a href="#osi-presentation-layer">OSI Presentation Layer</a></li>
+<li><a href="#osi-application-layer">OSI Application Layer</a></li>
+<li><a href="#transmission-mediums">Transmission Mediums</a></li>
+<li><a href="#voip">VoIP</a> * <a
+href="#advantages-of-voip-include">Advantages of VoIP include:</a>
+<ul>
+<li><a href="#organisation-client---server-network">Organisation (Client
+- Server Network)</a></li>
+<li><a href="#client-server-network">Client-Server Network</a>
+<ul>
+<li><a href="#advantages-1">Advantages</a></li>
+<li><a href="#disadvantages-1">Disadvantages</a></li>
+</ul></li>
+<li><a href="#peer-to-peer-p2p-network">Peer-To-Peer (P2P) Network</a>
+<ul>
+<li><a href="#advantages-2">Advantages</a></li>
+<li><a href="#disadvantages-2">Disadvantages</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#identifiers">Identifiers</a>
+<ul>
+<li><a href="#identifiers-1">Identifiers</a>
+<ul>
+<li><a href="#ipv4-addresses">IPv4 Addresses</a>
+<ul>
+<li><a href="#example-of-an-ipv4-address">Example of an IPv4
+address</a></li>
+<li><a href="#example-of-ipv6-address">Example of IPv6 address</a></li>
+</ul></li>
+<li><a href="#public-vs-private-ip-addresses">Public vs Private IP
+Addresses</a></li>
+<li><a href="#network-address-translation">Network Address
+Translation</a>
+<ul>
+<li><a href="#example-of-a-mac-address">Example of a MAC
+address</a></li>
+</ul></li>
+<li><a href="#why-have-we-not-run-out-of-ipv4-addresses">Why have we not
+run out of IPv4 Addresses?</a></li>
+<li><a
+href="#why-are-we-still-using-ipv4-when-there-is-a-better-ipv6">Why are
+we still using IPv4 when there is a better IPv6?</a></li>
+<li><a href="#ip-address-in-singapore">IP Address in Singapore</a></li>
+<li><a href="#ip-address-in-usa">IP Address in USA</a></li>
+<li><a href="#port-number">Port Number</a></li>
+<li><a href="#service-set-identifier-ssid">Service Set Identifier
+(SSID)</a>
+<ul>
+<li><a href="#did-you-know">Did you know?</a></li>
+</ul></li>
+<li><a href="#service-set-identifier-ssid-1">Service Set Identifier
+(SSID)</a></li>
+</ul></li>
+</ul></li>
+</ul>
 <h1 id="computer-network">Computer Network</h1>
 <p>A computer network is a system of two or more computers (or devices)
 that are connected together by a transmission medium for the exchange of
 data.</p>
-<h1 id="advantages">Advantages</h1>
+<h2 id="advantages">Advantages</h2>
 <ul>
 <li><strong>Shared Resources</strong>
 <ul>
@@ -58,7 +136,7 @@ backup purposes</li>
 messages and emails for communication</li>
 </ul></li>
 </ul>
-<h1 id="disadvantages">Disadvantages</h1>
+<h2 id="disadvantages">Disadvantages</h2>
 <ul>
 <li>Initial Costs
 <ul>
@@ -177,22 +255,22 @@ been sent correctly.</li>
 <p><img src="Networking/figure10.png" alt="figure10" /></p>
 <p>TCP/IP Protocol includes:</p>
 <ul>
-<li>HTTP - transfers web pages from web servers to the client. All web
-page addresses start with http. An https address is a secure web address
-which has been encrypted. An https address is used for sites holding
-bank details and secure information.</li>
-<li>FTP - used to transfer large files. It is often used for organising
-files on a web server for a website. You can have private access to
-download the documents that you have shared.</li>
-<li>UDP - User Datagram Protocol - Similar to TCP, but because messages
-are sent instead of packets - chunks - it is often faster, allowing for
-gaming or video calls over the internet.</li>
-<li>SMTP - Simple Mail Transfer Protocol - governs the sending of emails
-over a network to a mail server.</li>
-<li>IMAP/POP3 - Internet Message Access Protocol - governs retrieving
-emails from email servers.</li>
-<li>VOIP - is a set of protocols that enables people to have voice
-conversations over the internet.</li>
+<li><strong>HTTP</strong> - transfers web pages from web servers to the
+client. All web page addresses start with http. An https address is a
+secure web address which has been encrypted. An https address is used
+for sites holding bank details and secure information.</li>
+<li><strong>FTP</strong> - used to transfer large files. It is often
+used for organising files on a web server for a website. You can have
+private access to download the documents that you have shared.</li>
+<li><strong>UDP</strong> - User Datagram Protocol - Similar to TCP, but
+because messages are sent instead of packets - chunks - it is often
+faster, allowing for gaming or video calls over the internet.</li>
+<li><strong>SMTP</strong> - Simple Mail Transfer Protocol - governs the
+sending of emails over a network to a mail server.</li>
+<li><strong>IMAP/POP3</strong> - Internet Message Access Protocol -
+governs retrieving emails from email servers.</li>
+<li><strong>VOIP</strong> - is a set of protocols that enables people to
+have voice conversations over the internet.</li>
 </ul>
 <h2 id="tcp">TCP</h2>
 <ul>
@@ -509,10 +587,18 @@ support it.</li>
 running on a network</li>
 <li>All port numbers are assigned in a range from 0 to 65,535.</li>
 </ul>
+<h3 id="service-set-identifier-ssid">Service Set Identifier (SSID)</h3>
+<ul>
+<li>A string of up to 32 bytes that identifies a Wireless Access Point
+(WAP) and all the devices connected to it.</li>
+<li>All wireless devices connected to the same WAP must use the same
+SSID.</li>
+</ul>
 <h4 id="did-you-know">Did you know?</h4>
 <p>You can list all the port numbers that are in use on your computer by
 entering <code>netstat -na</code> in the command prompt.</p>
-<h3 id="service-set-identifier-ssid">Service Set Identifier (SSID)</h3>
+<h3 id="service-set-identifier-ssid-1">Service Set Identifier
+(SSID)</h3>
 <ul>
 <li>A string of up to 32 bytes that identifies a wireless access point
 (WAP) and all the devices connected to it.</li>
@@ -520,11 +606,90 @@ entering <code>netstat -na</code> in the command prompt.</p>
 SSID.</li>
 </ul>
 <h1 id="introduction-to-networking-1">Introduction to Networking</h1>
+<ul>
+<li><a href="#computer-network">Computer Network</a></li>
+<li><a href="#advantages">Advantages</a></li>
+<li><a href="#disadvantages">Disadvantages</a></li>
+<li><a href="#types-of-computer-networks">Types of Computer Networks</a>
+<ul>
+<li><a href="#geographical-location">Geographical Location</a></li>
+</ul></li>
+<li><a href="#network-protocols">Network Protocols</a></li>
+<li><a href="#osi-physical-layer">OSI Physical Layer</a></li>
+<li><a href="#osi-data-link-layer">OSI Data Link Layer</a></li>
+<li><a href="#osi-network-layer">OSI Network Layer</a>
+<ul>
+<li><a href="#arp">ARP</a>
+<ul>
+<li><a href="#what-is-arp">What is ARP?</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#osi-transport-layer">OSI Transport Layer</a>
+<ul>
+<li><a href="#tcp">TCP</a></li>
+<li><a href="#udp">UDP</a></li>
+</ul></li>
+<li><a href="#osi-session-layer">OSI Session Layer</a></li>
+<li><a href="#osi-presentation-layer">OSI Presentation Layer</a></li>
+<li><a href="#osi-application-layer">OSI Application Layer</a></li>
+<li><a href="#transmission-mediums">Transmission Mediums</a></li>
+<li><a href="#voip">VoIP</a> * <a
+href="#advantages-of-voip-include">Advantages of VoIP include:</a>
+<ul>
+<li><a href="#organisation-client---server-network">Organisation (Client
+- Server Network)</a></li>
+<li><a href="#client-server-network">Client-Server Network</a>
+<ul>
+<li><a href="#advantages-1">Advantages</a></li>
+<li><a href="#disadvantages-1">Disadvantages</a></li>
+</ul></li>
+<li><a href="#peer-to-peer-p2p-network">Peer-To-Peer (P2P) Network</a>
+<ul>
+<li><a href="#advantages-2">Advantages</a></li>
+<li><a href="#disadvantages-2">Disadvantages</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#identifiers">Identifiers</a>
+<ul>
+<li><a href="#identifiers-1">Identifiers</a>
+<ul>
+<li><a href="#ipv4-addresses">IPv4 Addresses</a>
+<ul>
+<li><a href="#example-of-an-ipv4-address">Example of an IPv4
+address</a></li>
+<li><a href="#example-of-ipv6-address">Example of IPv6 address</a></li>
+</ul></li>
+<li><a href="#public-vs-private-ip-addresses">Public vs Private IP
+Addresses</a></li>
+<li><a href="#network-address-translation">Network Address
+Translation</a>
+<ul>
+<li><a href="#example-of-a-mac-address">Example of a MAC
+address</a></li>
+</ul></li>
+<li><a href="#why-have-we-not-run-out-of-ipv4-addresses">Why have we not
+run out of IPv4 Addresses?</a></li>
+<li><a
+href="#why-are-we-still-using-ipv4-when-there-is-a-better-ipv6">Why are
+we still using IPv4 when there is a better IPv6?</a></li>
+<li><a href="#ip-address-in-singapore">IP Address in Singapore</a></li>
+<li><a href="#ip-address-in-usa">IP Address in USA</a></li>
+<li><a href="#port-number">Port Number</a></li>
+<li><a href="#service-set-identifier-ssid">Service Set Identifier
+(SSID)</a>
+<ul>
+<li><a href="#did-you-know">Did you know?</a></li>
+</ul></li>
+<li><a href="#service-set-identifier-ssid-1">Service Set Identifier
+(SSID)</a></li>
+</ul></li>
+</ul></li>
+</ul>
 <h1 id="computer-network-1">Computer Network</h1>
 <p>A computer network is a system of two or more computers (or devices)
 that are connected together by a transmission medium for the exchange of
 data.</p>
-<h1 id="advantages-3">Advantages</h1>
+<h2 id="advantages-3">Advantages</h2>
 <ul>
 <li><strong>Shared Resources</strong>
 <ul>
@@ -552,7 +717,7 @@ backup purposes</li>
 messages and emails for communication</li>
 </ul></li>
 </ul>
-<h1 id="disadvantages-3">Disadvantages</h1>
+<h2 id="disadvantages-3">Disadvantages</h2>
 <ul>
 <li>Initial Costs
 <ul>
@@ -671,22 +836,22 @@ been sent correctly.</li>
 <p><img src="Networking/figure10.png" alt="figure10" /></p>
 <p>TCP/IP Protocol includes:</p>
 <ul>
-<li>HTTP - transfers web pages from web servers to the client. All web
-page addresses start with http. An https address is a secure web address
-which has been encrypted. An https address is used for sites holding
-bank details and secure information.</li>
-<li>FTP - used to transfer large files. It is often used for organising
-files on a web server for a website. You can have private access to
-download the documents that you have shared.</li>
-<li>UDP - User Datagram Protocol - Similar to TCP, but because messages
-are sent instead of packets - chunks - it is often faster, allowing for
-gaming or video calls over the internet.</li>
-<li>SMTP - Simple Mail Transfer Protocol - governs the sending of emails
-over a network to a mail server.</li>
-<li>IMAP/POP3 - Internet Message Access Protocol - governs retrieving
-emails from email servers.</li>
-<li>VOIP - is a set of protocols that enables people to have voice
-conversations over the internet.</li>
+<li><strong>HTTP</strong> - transfers web pages from web servers to the
+client. All web page addresses start with http. An https address is a
+secure web address which has been encrypted. An https address is used
+for sites holding bank details and secure information.</li>
+<li><strong>FTP</strong> - used to transfer large files. It is often
+used for organising files on a web server for a website. You can have
+private access to download the documents that you have shared.</li>
+<li><strong>UDP</strong> - User Datagram Protocol - Similar to TCP, but
+because messages are sent instead of packets - chunks - it is often
+faster, allowing for gaming or video calls over the internet.</li>
+<li><strong>SMTP</strong> - Simple Mail Transfer Protocol - governs the
+sending of emails over a network to a mail server.</li>
+<li><strong>IMAP/POP3</strong> - Internet Message Access Protocol -
+governs retrieving emails from email servers.</li>
+<li><strong>VOIP</strong> - is a set of protocols that enables people to
+have voice conversations over the internet.</li>
 </ul>
 <h2 id="tcp-1">TCP</h2>
 <ul>
@@ -1003,10 +1168,18 @@ support it.</li>
 running on a network</li>
 <li>All port numbers are assigned in a range from 0 to 65,535.</li>
 </ul>
+<h3 id="service-set-identifier-ssid-2">Service Set Identifier
+(SSID)</h3>
+<ul>
+<li>A string of up to 32 bytes that identifies a Wireless Access Point
+(WAP) and all the devices connected to it.</li>
+<li>All wireless devices connected to the same WAP must use the same
+SSID.</li>
+</ul>
 <h4 id="did-you-know-1">Did you know?</h4>
 <p>You can list all the port numbers that are in use on your computer by
 entering <code>netstat -na</code> in the command prompt.</p>
-<h3 id="service-set-identifier-ssid-1">Service Set Identifier
+<h3 id="service-set-identifier-ssid-3">Service Set Identifier
 (SSID)</h3>
 <ul>
 <li>A string of up to 32 bytes that identifies a wireless access point

@@ -1,8 +1,4 @@
----
-title: 7.1 Redox Reactions
-author: 
-- Nikola
----
+# Redox Reactions
 
 ## Definitions of Redox
 
