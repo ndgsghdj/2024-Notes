@@ -1,4 +1,7 @@
-def count_combinations(K, N, memo):
+memo = {}
+
+def count_combinations(K, N):
+    global memo
     if K == 0:
         return 1
     if K < 0 or N < 1:
