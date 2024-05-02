@@ -40,6 +40,6 @@ $$\sin^2{\theta} + \cos^2{\theta} = 1$$
 
 $$\tan^2{\theta} + 1 = \sec^2{\theta}$$
 
-$$\cot^2{\theta} + 1 = \cosec^2{\theta}$$
+$$\cot^2{\theta} + 1 = \csc^2{\theta}$$
 
 
