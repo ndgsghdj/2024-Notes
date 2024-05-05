@@ -40,6 +40,7 @@ $$\ce{C_3H_8 + 5O_2 -> 3CO_2 + 4H_2O}$$
 $$\ce{C_3H_8 + 5O_2 -> CO_2 + 2CO + 4H_2O}$$
 $$\ce{2C_3H_8 + 9O_2 -> 4CO_2 + 2CO + 8H_2O}$$
 
+
 > Substance X can be used to detect the presence of water. Identify substance X and describe any changes you would observe if water was present in the test-tube containing X.
 
 Anhydrous copper(II) sulfate can be used to test for water. The white anhydrous copper(II) sulfate will change into blue hydrated copper(II) sulfate upon the addition of water.
