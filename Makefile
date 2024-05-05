@@ -14,7 +14,7 @@ docs/assets/%: assets/%
 docs/%.html: %.md $(CSS_FILE)
 	@mkdir -p $$(dirname $@)
 	cp $(CSS_FILE) docs/
-	pandoc --standalone --mathjax=https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.2 $<  -c ../pandoc.css -f gfm -t html5 -o $@ $<
+	pandoc --standalone --mathjax $<  -c ../pandoc.css -f gfm -t html5 -o $@ $<
 
 .PHONY: all clean
 
