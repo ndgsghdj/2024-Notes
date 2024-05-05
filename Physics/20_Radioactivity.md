@@ -53,7 +53,34 @@ $$\ce{^{A}_{Z}X}$$
 
 ### Types of Nuclear Emission
 
-There are three types of nuclear emission
+There are three types of nuclear emission: __alpha ($\alpha$) particles, beta ($\beta$) particles and gamma ($\gamma$) rays.__ Different nuclear emissions have different compositions, ionising effects and penetrating abilities.
+
+__Ionisation__ refers to the ability to eject electrons from atoms to form positively charged cations. Since the atoms lose electrons, the number of protons is greater than the number of electrons. Thus, ions carry a charge. The nuclei of the same isotope will emit the same type of nuclear radiation. During alpha decay or beta decay, the nucleus changes to that of a different element.
+
+#### Alpha Decay
+
+- When a radioactive nucleus undergoes alpha decay:
+    * it emits an alpha particle (identical to helium nucleus $\ce{^4_2He}$)
+    * the nucleon number A decreases by 4
+    * the proton number Z decreases by 2
+- A __nuclide equation__ involving nuclide notation can be used to represent the changes in the composition of the nucleus. The arrow in the equation means "reacts to form".
+
+Example: Radium-226 (Ra) nucleus emits an alpha particle and decays to radon-222 (Rn).
+
+$$\ce{^{226}_{88}Ra -> ^{222}_{86}Rn + ^4_2He}$$
+
+Note that in a nuclear reaction, the __mass and charge are conserved.__ Hence, before and after the reaction,
+- The total number of neutrons and protons remain constant, and
+- The total relative charge should also be the same (i.e. sum of proton number before and after decay should be the same.)
+
+#### Beta Decay
+
+- When a radioactive nucleus undergoes ß-decay:
+    * it emits
+
+
+
+
 
 
 
