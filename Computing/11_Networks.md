@@ -313,12 +313,48 @@ You can list all the port numbers that are in use on your computer by entering `
 - A string of up to 32 bytes that identifies a wireless access point (WAP) and all the devices connected to it.
 - All wireless devices connected to the same WAP must use the same SSID.
 
+## Network Hardware and their Functions
 
+- Network Interface Card
+- Network Hub
+- Network Bridge
+- Network Switch
+- Router
+- Modem
 
+### Network Interface Controller (NIC)
 
+- Provides the hardware interface to __enable the transfer of data__ between __a device and a network__. An NIC may connect to a network physically or wirelessly.
+- Each NIC also has a unique 48-bit MAC address.
 
+### Network Hub
 
+- Device that transmits received packets (even ones from within the network) to all connected devices.
 
+### Network Bridge
 
+- Device that constructs a single network by connecting two similar networks together.
+- Uses MAC addresses to keep track of devices that are connected to each side of the bridge. This lets the bridge intelligently decide whether it should drop or forward the packets that it receives.
+- Suppose the bridge receives a packet from computer A. The bridge first examines the destination MAC address stored in the packet's header and devices whether to forward or drop the packet.
+
+### Network Switch
+
+- A network bridge that connects multiple similar networks together.
+
+### Router
+
+- Device that forwards packets between separate networks.
+- The networks may use different protocols.
+- In order for a router to forward packets between different networks using Internet protocols, both the device sending the packet and the device receiving the packet must be identified using IP addresses.
+
+![figure15](Networking/figure15.png)
+
+![figure16](Networking/figure16.png)
+
+### Modem
+
+- Device for connecting devices over a long range, usually used by Internet Service Providers (ISPs).
+- But long-range transmission media are typically not designed for transferring digital data (i.e. 0 and 1 bits) that are used by computers. The digital data must be converted to a form suitable for transmission (modulation) and back again (demodulation).
+- __Modem__ = __mo__ dulator + __demo__ dulator
 
 

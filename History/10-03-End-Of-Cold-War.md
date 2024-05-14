@@ -120,8 +120,24 @@
 - After impressive growth rates in the 1950s and 1960s, the Soviet economy began to slow down.
 - The USSR began to experience a steady, long-term decline in the rate of growth.
 
-
 ## Why was the USSR in decline in the 1970s and 1980s?
+
+### Weaknesses of the Soviet Economy: Structural Weaknesses of the Command Economy
+
+#### Examples and Explanation
+
+The Soviet economy had worked relatively well when it consisted of a small number of very large industries, particularly coal, steel and electricity. The government could make decisions about these industries, which could then be implemented. However, as the Soviet economy grew and expanded by the 1970s, the Soviet economy became overwhelmed by the increasing demands. The Soviet government struggled to cope with the many companies making different goods. It acted too
+slowly and made poor decisions. As a result, the USSR began to experience a steady, long-term decline in the rate of growth. For example, output growth for Soviet agriculture dropped from 4.8 percent a year in the 1950s to 1.8 per cent in the 1970s. Similarly, by the late 1970s, industrial output had dropped from a double digit percentage growth to a 3 to 4 percent decline.
+
+#### Link
+
+The structural weaknesses of the command economy has thus translated into the decline of growth in the Soviet economy as the economy grew beyond the ability of the command economy system to efficiently manage, leading to overall Soviet decline.
+
+## Weaknesses of the Soviet economy: External burdens on the economy
+
+The Soviets engaged in numerous proxy wars that were substantial financial burdens. For example, they fought in the Afghan-Soviet War between 24 Dec 1979 to 15 Feb 1989. Soviet troops entered the Afghanistan to maintain the power of the pro-Soviet government there, but they were tied down for the next 10 years by Afghan fighters known as the Mujahideen. The Mujahideen saw themselves as fighting against the communist regime. To make matters worse for the USSR, they knew the territory
+
+
 
 ## Return of Cold War Tensions
 
@@ -134,6 +150,86 @@
 ### US Economic Superiority: Economic Boom in the United States and Western Europe
 
 - Reagan also had radical ideas for US domestic policy. Like his close ally British Prime Minister Margaret Thatcher, he believed that people and businesses needed to be liberated from government regulation.
-    -
+    - They believed people and the free market were better than governments at providing solutions to problems. 
+    - They both believed that government regulations stifled trade and innovation in business and held back economic expansion.
+    - They emphasised that governments should cut taxes.
+        * This would give people an incentive to work harder and start their own businesses since the government would not be taking their hard-earned wealth
+- Both advocated that governments should spend less and limit their involvement in people's lives (such as through welfare or state healthcare) as far as possible.
+- Most historians agree that they contributed to an economic boom in the United States and Western Europe, even if they were not necessarily the main cause.
+
+#### How Big of a Boom Was It?
+
+__Comparison of capitalists and communist economies - 1970 to 1990 Gross Domestic Product__
+
+| Year | USSR  | United States | West Germany    | Japan |
+|------|-------|---------------|-----------------|-------|
+| 1970 | 8886  | 23958         | 17277           | 15484 |
+| 1975 | 9779  | 25956         | 19193           | 18082 |
+| 1980 | 10245 | 29611         | 22497           | 21404 |
+| 1985 | 10692 | 33023         | 24133           | 24437 |
+| 1990 | 10989 | 36982         | (Germany) 25391 | 29949 |
+
+## US Military Superiority: Expanding US Might
+
+- The booming economy gave Reagan and his allies the confidence and the money to champion US values of capitalism and democracy.
+- Reagan believed in taking a tough line with the USSR wherever possible and increasing US defence spending.
+- Examples
+    * He supported anti-communist forces in Afghanistan and Nicaragua
+    * He increased the US defence budget massively.
+        + In his first two weeks in office, he increased the defence budget by $32.6 billion.
+        + New weapons systems such as the B1 nuclear bomber were introduced.
+        + This huge spending left the United States with $4 trillion of debt by the 1980s.
+- In 1982, he gave the go-ahead for the Strategic Defense Initiative (SDI, popularly known as the "Star Wars" programme).
+    * This was a multi-billion dollar project to create a system that could use satellites and lasers to destroy missiles before they hit their targets.
+    * Clearly, such a system could change the nature of war.
+    * The SDI did not develop into a viable weapon
+    * However, it put pressure on the Soviets, who were never sure whether the weapon would become a reality.
+        + The USSR was already finding it increasingly difficult to keep up with the United States, given its stretched. Renewed arms spending would ruin it.
+
+## Gorbachev's Reforms
+
+### Introduction
+
+- In 1985, the USSR elected 54 year old Mikhail Gorbachev to be its leader following the death of Konstantin Chernenko, who led the USSR for less than 14 months after succeeding Yuri Andropov in early 1984.
+- Gorbachev was aware of the terrible problems facing the USSR:
+    * The declining economy
+    * The war in Afghanistan
+    * The disillusionment of the Soviet people
+    * The challenge of the United States under Reagan.
+- Despite this, he believed that the USSR could be transformed with new ideas and new thinking.
+- He did not intend to dismantle communism in the USSR and Eastern Europe, but he did not want to reform it radically.
+- He described his ideas as New Thinking.
+    * Gorbachev's New Thinking in domestic policy took the form of two key reforms: __Glasnost ("openness")__ and __Perestroika ("restructuring")__.
+
+### Glasnost
+
+- Gorbachev called for open debate on government policy and honesty in facing up to problems.
+- Glasnost was not a detailed set of policies, but it did mean radical change.
+    * For example, it would allow open political debate by Communist Party members who disagreed with the government. It would also allow criticism on the government in the media.
+- With openness and reforms, the Soviet people were able to learn about the heinous crimes committed by the Soviet Union in the past
+    * For example, during the Stalinist years in an exhibition called "Week of Conscience" held in November 1988.
+- Unfortunately, Glasnost backfired.
+    * It released much resentment against the communist government.
+    * Glasnost also exposed the shortcomings of the government officials such as their inefficiency and corruption.
+        + This led to decreasing confidence in the party.
+    * The Soviets were also further exposed to aspects of the outside world, and especially the better quality of life in the United States and Western European countries, through popular Western culture.
+- As a result, the positive picture of Soviet life that the government previously presented to the public quickly fell apart.
+    * Many in the Soviet bloc felt deceived and lost confidence in the vision and rule of the communist governments.
+    * Hence, instead of rallying the people behind the reforms of "openness", Glasnost had unintentionally created a platform which unleashed criticism of communist rule that eventually brought about the disintegration of the USSR.
+
+### Perestroika
+
+- Perestroika, also known as "restructuring" in Russian, was the series of political and economic reforms which Glasnost was meant to pave the way for. 
+- Perestroika involved a range of measures.
+    * Managers in companies and industries were encouraged to innovate and try new approaches without first seeking permission from the government. 
+    * Managers were also encouraged to involve workers in discussions and decision making about their businesses.
+    * In 1987, Perestroika allowed market forces to be introduced into the Soviet economy. 
+        + or the first time in 60 years, it was no longer illegal to buy and sell for profit.
+- The intent was to encourage new ideas, to increase efficiency and to fight the problem of corruption
+- Failure as an economic reform
+    * There was no overall increase in output.
+    * Instead, there were chronic problems of unemployment, growth of black markets, as well as shortages in basic necessities.
+        + This was a result of the conflicting methods of cooperative ownership.
+            + Cooperative ownership meant that that private ownership of small businsses was permitted, but the state still retained control over the means of production.
 
 
