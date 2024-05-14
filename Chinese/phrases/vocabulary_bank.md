@@ -72,6 +72,25 @@
 | 独断专行 | du duan zhuan xing | don't care about what other people think    |
 | 惦念     | dian nian          | to constantly have on one's mind            |
 | 嫌弃     | xian qi            | dislike and avoid; cold shoulder            |
-| 偏见 | pian jian | prejudice and bias |
-| 经济来源 | jing ji lai yuan | economic sources of income |
-| 琐事 | suo shi | little things in life |
+| 偏见     | pian jian          | prejudice and bias                          |
+| 经济来源 | jing ji lai yuan   | economic sources of income                  |
+| 琐事     | suo shi            | little things in life                       |
+| 专长     | zhuan chang        | special talent                              |
+| 事事     | shi shi            | 1. Do things </br>2. everything             |
+| 毕竟     | bi jing            | always been                                 |
+| 不致     | bu zhi             | not likely to                               |
+| 纵然     | zong ran           | even if, even though                        |
+| 骤然     | zhou ran           | suddenly                                    |
+| 滥       | lan                | excessive, indiscriminate (same as in 泛滥) |
+| 模棱     | mo leng            | ambiguous                                   |
+| 虚假     | xu jia             | false                                       |
+| 契机     | qi ji              | opportunity                                 |
+| 感悟     | gan wu             | perception                                  |
+| 呵护     | he hu              | to cherish                                  |
+| 乞丐     | qi gai             | beggar                                      |
+| 赤裸裸   | chi luo luo        | naked                                       |
+| 慈悲     | ci bei             | mercy                                       |
+| 肆无忌惮 | si wu ji dan       | to be absolutely restrained                 |
+| 褴褛     | lan lv             | shabby                                      |
+| 革履     | ge lv              | leather shoes                               |
+| 侦探     | zhen tan           | detective                                   |
