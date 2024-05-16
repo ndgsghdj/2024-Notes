@@ -357,4 +357,133 @@ You can list all the port numbers that are in use on your computer by entering `
 - But long-range transmission media are typically not designed for transferring digital data (i.e. 0 and 1 bits) that are used by computers. The digital data must be converted to a form suitable for transmission (modulation) and back again (demodulation).
 - __Modem__ = __mo__ dulator + __demo__ dulator
 
+## Network Topologies
+
+- Bus
+- Ring
+- Star
+- Mesh (+)
+
+![figure17](Networking/figure17.png)
+
+__Topology:__ physical layout of the devices on the network.
+
+- Used for both Client-Server and Peer-to-Peer network organisations.
+- Used for both Wired and Wireless networks.
+
+Common topologies include:
+
+- Bus Topology
+- Ring Topology
+- Ring Topology
+- Star Topology
+- Mesh Topology
+
+### Bus Topology
+
+![figure18](Networking/figure18.png)
+
+#### Advantages
+
+- Easy and cheap to install as it uses less cabling than other network designs.
+- Scalable as new computers can be easily added.
+- Can continue to operate even when one of the computers breaks down.
+- Works well for small networks.
+
+#### Disadvantages
+
+- A break anywhere along the bus may disable the entire network.
+- The size of the network is limited by the capacity and length of the bus.
+- A single bus is unsuitable for networks with many computers; performance slows down as the number of computers increase.
+
+### Ring Topology
+
+- Data passed around in only one direction.
+
+![figure19](Networking/figure19.png)
+
+#### Advantages
+
+- Can operate over larger distances and handle more data than a bus topology.
+- Data packets that are sent between two computers will pass through intermediate computers, hence a central server is not required to manage the network.
+
+#### Disadvantages
+
+- If a computer or cable in the network fails, the entire network may fail as the data cannot be passed on.
+- Adding a new computer to the ring network would mean that the whole communication ring needs to be temporarily interrupted.
+
+### Star Topology
+
+![figure20](Networking/figure20.png)
+
+#### Advantages
+
+- The load on each section of cabling is reduced as each computer uses a separate cable from the rest.
+- If a fault occurs at a computer or a cable, it is easy to isolate the fault and do a replacement without affecting the rest of the network.
+
+#### Disadvantages
+
+- Uses more cabling than the other topologies (besides mesh) and hence costs more.
+- If the central network device fails, the entire network fails (Single Point of Failure).
+
+### Mesh Topology
+
+![figure21](Networking/figure21.png)
+
+![figure22](Networking/figure22.png)
+
+#### Advantages
+
+- Manages high amounts of traffic, because multiple devices can transmit data simultaneously.
+- A failure of one device does not cause a break in the network or transmission of data.
+- Adding additional devices does not disrupt data transmission between other devices.
+
+#### Disadvantages
+
+- The cost to implement is higher than other network topologies, making it a less desirable option.
+- Building and maintaining the topology is difficult and time consuming.
+- The chance of redundant connections is high, which adds to the high costs and potential for reduced efficiency.
+
+![figure23](Networking/figure23.png)
+
+## Task 11.04 Network Topologies
+
+> Jake plans to set up an accountancy consulting business in town. He wants to have a LAN in his office. He has about 100 staff working in the same office while about 20 other staff work from offsite locations such as his clients' offices. The staff needs to share files among themselves and be able to connect to printers. 
+> Most of the data being handles is confidential and dates back from 10 years ago to the present. He also has plans to expand his business in the next five years.
+
+Explain why a client-server network is preferred over a P2P network by considering bandwidth, security and storage issues.
+
+## Error Checking Methods (Networks)
+
+- Packets of data sent over a network can become lost or corrupted during transmission.
+- Noisy Channel: Disturbance in the path when data is carried forwards from sender to receiver.
+- When the data is received at the destination, it needs to be checked for errors. 
+- Note: in the examples in this chapter, we will use packets that are 8 bits long. In reality, the packets are usually larger.
+
+### Parity Check
+
+- Error-checking technique which uses a parity bit to detect errors.
+- This method is used when transmitting ASCII encoded characters.
+
+### Odd Parity System
+
+- All the bits, including the parity bit, will add up to an __odd__ number.
+- E.g. 1001 0010 (Last bit is the parity bit)
+    * If 1011 0010 is received instead, the receiver knows the 
+
+### Checksum
+
+- A calculated value that is used to determine the integrity of transmitted data.
+- Used when transmitting 
+
+## Error Correcting Methods
+
+- Able to detect __AND correct__ errors in transmission, up to a certain number of errors.
+
+
+
+
+
+
+
 
