@@ -43,7 +43,6 @@
 | 憨厚           | han hou                  | honest                                            |
 | 果断           | guo duan                 | decisive                                          |
 | 大公无私       | da gong wu si            | selfless                                          |
-| 磋商           | cuo shang                | to consult                                        |
 | 橱窗           | chu chuang               | display window                                    |
 | 拧             | ning                     | pinch                                             |
 | 抿             | min                      | purse up lips                                     |
@@ -278,3 +277,4 @@
 | 淘汰           | tao tai                  | to wash out                                       |
 | 平庸           | ping yong                | mediocre                                          |
 | 岂             | qi                       | how                                               |
+| 磋商 | cuo shang | negotiating |
