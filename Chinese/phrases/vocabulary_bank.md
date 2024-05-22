@@ -292,40 +292,40 @@
 | 浏览           | liú lǎn                  | to skim over                                       |
 | 润滑剂         | rùn huá jì               | lubricant                                          |
 | 不胜枚举       | bú shèng méi jǔ          | too numerous to mention individually or one by one |
-| 扼腕           | è wàn                    | to wring one's hands                               |
+| 扼腕           | è wàn                    | to wring ones hands                                |
 | 体恤           | tǐ xù                    | to empathize with                                  |
 | 氛围           | fēn wéi                  | ambience                                           |
 | 谦虚           | qiān xū                  | modest                                             |
 | 裨益           | bì yì                    | benefit                                            |
 | 严峻           | yán jùn                  | grim                                               |
 | 扰乱           | rǎo luàn                 | to disturb                                         |
-| 代孕 | dai yun | surrogacy |
-| 甚嚣尘上  | shèn xiāo chén shàng  | a tremendous clamor                                 |
-| 基础      | jī chǔ                | base                                                |
-| 涵盖      | hán gài               | to cover                                            |
-| 报刊      | bào kān               | newspapers and periodicals                          |
-| 书籍      | shū jí                | books                                               |
-| 传播      | chuán bō              | to disseminate                                      |
-| 拨        | bō                    | to push aside with the hand， foot， a stick etc    |
-| 限制      | xiàn zhì              | to restrict                                         |
-| 天涯      | tiān yá               | the other end of the world                          |
-| 屏幕      | píng mù               | screen (TV， computer or movie)                     |
-| 按钮      | àn niǔ                | push button                                         |
-| 庞大      | páng dà               | huge                                                |
-| 真挚      | zhēn zhì            | sincere                                                   |
-| 真挚      | zhēn zhì            | sincere                                                   |
-| 名额      | míng é              | quota                                                     |
-| 链接      | liàn jiē            | link (on a website)                                       |
-| 师傅      | shī fu              | master                                                    |
-| 擅长      | shàn cháng          | to be good at                                             |
-| 裁缝      | cái féng            | tailor                                                    |
-| 编织      | biān zhī            | to weave                                                  |
-| 匠人      | jiàng rén           | craftsman                                                 |
-| 烘焙      | hōng bèi            | to cure by drying over a fire (tea， meat etc)            |
-| 讲述      | jiǎng shù           | to talk about                                             |
-| 黎明      | lí míng             | dawn                                                      |
-| 苏醒      | sū xǐng             | to wake up                                                |
-| 禽        | qín                 | generic term for birds and animals                        |
-| 晚霞      | wǎn xiá             | sunset glow                                               |
-| 添砖加瓦  | tiān zhuān jiā wǎ   | to do one's bit to help                                   |
-| 族裔      | zú yì               | ethnic group                                              |
+| 代孕           | dai yun                  | surrogacy                                          |
+| 甚嚣尘上       | shèn xiāo chén shàng     | a tremendous clamor                                |
+| 基础           | jī chǔ                   | base                                               |
+| 涵盖           | hán gài                  | to cover                                           |
+| 报刊           | bào kān                  | newspapers and periodicals                         |
+| 书籍           | shū jí                   | books                                              |
+| 传播           | chuán bō                 | to disseminate                                     |
+| 拨             | bō                       | to push aside with the hand， foot， a stick etc   |
+| 限制           | xiàn zhì                 | to restrict                                        |
+| 天涯           | tiān yá                  | the other end of the world                         |
+| 屏幕           | píng mù                  | screen (TV， computer or movie)                    |
+| 按钮           | àn niǔ                   | push button                                        |
+| 庞大           | páng dà                  | huge                                               |
+| 真挚           | zhēn zhì                 | sincere                                            |
+| 真挚           | zhēn zhì                 | sincere                                            |
+| 名额           | míng é                   | quota                                              |
+| 链接           | liàn jiē                 | link (on a website)                                |
+| 师傅           | shī fu                   | master                                             |
+| 擅长           | shàn cháng               | to be good at                                      |
+| 裁缝           | cái féng                 | tailor                                             |
+| 编织           | biān zhī                 | to weave                                           |
+| 匠人           | jiàng rén                | craftsman                                          |
+| 烘焙           | hōng bèi                 | to cure by drying over a fire (tea， meat etc)     |
+| 讲述           | jiǎng shù                | to talk about                                      |
+| 黎明           | lí míng                  | dawn                                               |
+| 苏醒           | sū xǐng                  | to wake up                                         |
+| 禽             | qín                      | generic term for birds and animals                 |
+| 晚霞           | wǎn xiá                  | sunset glow                                        |
+| 添砖加瓦       | tiān zhuān jiā wǎ        | to do ones bit to help                             |
+| 族裔           | zú yì                    | ethnic group                                       |
