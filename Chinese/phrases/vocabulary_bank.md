@@ -844,3 +844,11 @@
 | 疾病                   | ji bing                                      | disease                                                                                                                                                    |
 | 食物残渣               | shi wu can zha                               | residues of food                                                                                                                                           |
 | 真相大白               | zhen xiang da bai                            | reveal the truth                                                                                                                                           |
+| 宽松 | kuan song | easygoing |
+| 创新思维 | chuang xin si wei | creative thinking |
+| 缺乏 | que fa | lack |
+| 评估 | ping gu | evaluate |
+| 因人而异 | yin ren er yi | varies from person to person |
+| 理想 | li xiang | desirable |
+| 素养 | su yang | literacy; civility |
+| 好胜心强 | hao sheng xin qiang | competitive |
