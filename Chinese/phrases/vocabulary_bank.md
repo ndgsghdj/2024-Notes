@@ -862,3 +862,6 @@
 | 指日可待                           | zhi ri ke dai                                                    | just around the corner                                                                                                                                     |
 | 集思广益                           | ji si guang yi                                                   | brainstorm ideas                                                                                                                                           |
 | 深具意义                           | shen ju yi yi                                                    | meaningful                                                                                                                                                 |
+| 蚝油 | hao you | oyster sauce |
+| 椭圆 | huo yuan | oval |
+| 绿化带 | lv hua dai | green spaces |
