@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "cssTheme": "Catppuccin",
+  "translucency": false
 }

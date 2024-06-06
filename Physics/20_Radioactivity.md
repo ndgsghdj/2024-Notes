@@ -76,19 +76,13 @@ Note that in a nuclear reaction, the __mass and charge are conserved.__ Hence, b
 #### Beta Decay
 
 - When a radioactive nucleus undergoes ß-decay:
-    * it emits
+    * it emits a ß-particle (an electron); and
+    * the nucleon number A remains the same
+    * the proton number Z increases by 1
 
+### Example
 
-
-
-
-
-
-
-
-
-
-
+$$\ce{^{238}_{92} U -> ^{234}_90 Th + ^4_2He + 2 ^0_0\gamma}$$
 
 
 

@@ -231,5 +231,126 @@ __Comparison of capitalists and communist economies - 1970 to 1990 Gross Domesti
     * Instead, there were chronic problems of unemployment, growth of black markets, as well as shortages in basic necessities.
         + This was a result of the conflicting methods of cooperative ownership.
             + Cooperative ownership meant that that private ownership of small businsses was permitted, but the state still retained control over the means of production.
+        + This meant that small business owners still had to pay high taxes and deal with dishonest officials.
+        + Furthermore, infrastructure, such as roads and storage facilities, for agriculture remained inadequate.
+    * The number of unprofitable enterprises that needed government support increased, while many Soviet citizens lost interest in setting up their own businesses.
 
+### Reduction on Military Spending
 
+- Gorbachev was eager to bring his New Thinking to foreign policy and the role of the military in the USSR. He began to cut spending on defence.
+- After almost 50 years of massive investment and preparations for war with the United States and its allies, the Red Army began to shrink.
+    * Gorbachev was realistic enough to recognise that the USSR could not hope to outspend the United States on nuclear weapons and other military spending.
+- At the same time, Gorbachev brought a new attitude to the USSR's relations with the world.
+    * In his speeches, he repeatedly talked about international trust and cooperation rather than confrontation as the way forward for the USSR.
+- Examples
+    * He announced cuts in arms spending.
+    * In 1988, he began the final withdrawal of Soviet troops from Afghanistan.
+    * In 1990, Gorbachev signed the Treaty of Conventional Armed Forces in Europe (CFE) that established comprehensive limits on key categories of conventional military equipment in Europe.
+        + This allowed the Soviets to reduce the size of its military
+
+### The Reagan-Gorbachev Summits
+
+- In 1983, Reagan wasa shocked to discover that the Soviets had almost launched a nuclear strike against the United States.
+    * A malfunction in the Soviets' early warning system made them think the United States had fired missiles at the USSR.
+    * Reagan was keen to advance nuclear disarmament and to tamp down the strategic arms race.
+- He also observed Gorbachev's reforms with great interest
+- These factors led Gorbachev to make overtures to Soviet leaders and to eventually engage Gorbachev in negotiations with a shared commitment to nuclear abolition.
+- Between 1985 and 1988, Reagan and Gorbachev had five summit meetings.
+    * By the end of these summits they had reached agreements to further reduce their nuclear weapons. 
+    * Reagan had also declared that the no longer thought the USSR was an "evil empire" because of the changes Gorbachev was making.
+
+### "De-ideologisation" of Soviet Foreign Policy
+
+- As part of Gorbachev's commitment towards New Thinking at home and abroad, Soviet foreign policy underwent a change known as "de-ideologisation". 
+- This meant an end to all ideologically driven engagements designed to promote communism globally and change the United States.
+- Gorbachev recognised that in order to successfully reform the Soviet economy, he had to first reduce the large amounts of money being spent overseas in superpower competition with the United States.
+- Examples
+    * Under Gorbachev, the USSR would also no longer intervene in other countries to support communist regimes or takeovers, as it did under former leaders such as Brezhnev.
+        + To demonstrate his commitment towards de-ideologisation, Gorbachev withdrew troops from military engagements in Afghanistan and Angola alongside Soviet support for communist regimes in Cuba and Vietnam.
+    * Next, he was prepared to tell the hard-line communist leaders of Eastern Europe that they had to change as well.
+        + In 1989, Gorbachev called the leaders of the Warsaw Pact countries together.
+            + He explained to them that he was now committed to a policy of non-intervention in the affairs of their countries.
+            + He jokingly referred to this policy as the "Sinatra Doctrine."
+
+#### Sinatra Doctrine
+
+- This policy was named after the singer Frank Sinatra, who was famous for the song "My Way."
+- In other words, Gorbachev was telling Eastern European states that they could and should go their own way.
+- The term was first used by Gorbachev's Foreign Minister, Gennadi Gerasimov.
+- In many ways, the policy was already in effect.
+    * For example, the Polish government had negotiated with the trade union Solidarity to partially allow free elections in 1989 which could include non-communists in government.
+- The policy caused extreme concern among the more hard-line communist leaders.
+    * Most of the Warsaw Pact leaders, including East Germany's Erich Honecker and Romania's Nicolae Ceausescu, were traditional, hard-line communists.
+    * They completely disagreed with Gorbachev's ideas and were sure that the USSR would not really abandon the communist countries of Eastern Europe
+
+## Collapse of Communism in Eastern Europe
+
+- In July 1988, Gorbachev made a speech at the Warsaw Pact summit stating his intention to withdraw large numbers of Soviet troops, tanks and aircraft from other communist states.
+    * He reinforced these intentions in a speech to the Polish parliament soon after.
+- In March 1989, Gorbachev made clear to the Warsaw Pact leaders that the Soviet army would leave Eastern Europe and no longer prop their countries up.
+    * They would have to listen to their people.
+- In the months that followed, there was a sudden and dramatic collapse of communism across Eastern Europe.
+
+### Examples
+
+1. __May: Hungary__
+    - Hungarians began dismantling the barbed wire fence between Hungary and non-communist Austria 
+2. __June-August: Poland__
+    - Solidarity won 99 out of 100 seats in Poland's senate at the June elections.
+    - Protests against communist rule in Poland continued to take place throughout the summer.
+3. __September: Hungary and Czechoslovakia__
+    - Thousands of __East Germans__ on holiday in Hungary and Czechoslovakia refused to go home. They escaped through Austria into West Germany.
+4. __October: East Germany__
+    - Gorbachev visits East Germany and made a key speech urging all East European leaders to reform their countries.
+        * He made it clear that the USSR would not use troops to keep them in power.
+5. __October: Hungary__
+    - Hungary declared itself a democratic republic rather than a communist republic.
+6. __November: East Germany__
+    - The largest demonstration in East Germany's history took place as over one million people demanded for democracy and free elections in East Berlin.
+        * In response, the East German government announced the opening of borders and the lifting of the Berlin Wall on the evening of 9 November.
+    - Even the Berlin Wall, a symbol of the Cold War, and of communist control of Eastern Europe, could not withstand the pressure. On 9 November 1989, the guards abandoned the Berlin Wall and jubilant crowds began to dismantle it.
+7. __November: Czechoslovakia__ 
+    - In Czechoslovakia, huge demonstrations forced the communist leaders to resign, resulting in the opening of its borders with the West.
+    - In June 1990, it held free elections.
+8. __December: Bulgaria and Romania__
+    - Massive demonstrations led to the collapse of the communist regimes in Bulgaria and Romania (and Albania in 1992).
+
+## Collapse of the USSR
+
+- In January 1990, Gorbachev visited the Baltic state of Lithuania, which was part of the USSR.
+- Its leaders made clear that they wanted independence.
+- Gorbachev was, for once, uncompromising. He would not allow this.
+- Nevertheless, in March, Lithuania declared its independence.
+- Almost as soon as he returned from Lithuania in 1990, Gorbachev received a similar demand for independence from the Soviet Republic of Azerbaijan.
+    * He responded by sending troops to end rioting there.
+    * He also sent troops to Lithuania.
+    * But by May-June, the crisis had worsened.
+- Reformers within the USSR demanded an end to the Communist Party's domination of government.
+- In May, Boris Yeltsin was elected the President of the Russian Republic, the largest republic in the USSR.
+    * Yeltsin made it clear that he saw no future for the USSR.
+    * He said that the many republics in the USSR should become independent states.
+- In July, Ukraine declared its state sovereignty.
+- Other republics followed. By the end of 1990, nobody was sure what the USSR meant any longer.
+    * Examples
+        + In January 1991, events in Lithuania turned to bloodshed as Soviet troops opened fire on protesters.
+        + In April, the Republic of Georgia declared its independence.
+- In August 1991, hard-liners and leading military officers attempted a coup to take over the USSR.
+    * The plotters included Gorbachev's Prime Minister, Pavlov, and the head of the armed forces, Dmitry Yazov.
+    * They held Gorbachev prisoner in his holiday home in Crimea.
+    * They sent tanks and troops onto the streets.
+    * Huge crowds gathered in Moscow.
+        + They strongly opposed the military coup, and Yeltsin became the leader of the popular opposition.
+    * Faced with this resistance, the plotters lost faith in themselves and the coup collapsed.
+- A few days later, Gorbachev returned to Moscow. He might have survived the coup, but he had lost his standing as the Soviet leader.
+- He had to admit that the USSR was finished, and he with it.
+- In a televised speech on 25 December 1991, Gorbachev announced his resignation as the president of the USSR and the end of the USSR.
+    * This event also signalled the end of the cold war.
+
+# Conclusion
+
+- The end of the Cold War has been long debated.
+    * Unlike the world wars, the Cold War did not have an official end with a series of peace treaties.
+- Some historians make the case that the Cold War ended in 1985 when Gorbachev came to power.
+- Some argue it ended with the fall of the Berlin War in November 1989.
+- Others put forward that it ended in December 1989, when US President George Bush and Gorbachev met at the Malta Summit and declared the Cold War over.
+- However, to many historians, the collapse of the USSR in 1991 signalled the definitive end of the Cold War.
