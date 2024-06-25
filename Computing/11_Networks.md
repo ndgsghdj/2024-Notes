@@ -126,7 +126,7 @@ TCP/IP (Transmission Control Protocol/Internet Protocol; also known as the inter
 - **Data** - the data of the message
 - **Error Check** - The check to see that the message has been sent correctly.
 
-![figure10](Networking/figure10.png)
+![figure10](11_Networks/figure10.png)
 
 TCP/IP Protocol includes:
 - __HTTP__ - transfers web pages from web servers to the client. All web page addresses start with http. An https address is a secure web address which has been encrypted. An https address is used for sites holding bank details and secure information.
@@ -150,13 +150,13 @@ TCP/IP Protocol includes:
     - Online games
     - VoIP
 
-![figure11](./Networking/figure11.png)
+![figure11](./11_Networks/figure11.png)
 
 The reason why FTP uses only TCP (Transmission Control Protocol) is that TCP provides a __reliable__, connection-oriented, byte-stream service, which is ideal for transferring files.
 
 Additionally, FTP uses TCP's flow control and congestion control mechanisms to ensure that the network is not overloaded with too much traffic.
 
-![figure12](Networking/figure12.png)
+![figure12](11_Networks/figure12.png)
 
 # OSI Session Layer
 **Interhost Communication**
@@ -182,7 +182,7 @@ UDP uses time-sensitive transmissions. It speeds up transmissions by enabling th
 A **wired network** is a network of devices connected by a physical medium, such as cables.
 The Ethernet is the most widely used wired network protocol in LANs and MANs.
 
-![figure1](Networking/figure1.png)
+![figure1](11_Networks/figure1.png)
 
 A **wireless network** is a network of devices in which signals are transmitted without the use of a physical medium. The most common wireless network protocol is Wi-Fi, which uses radio waves to transmit data. 
 
@@ -233,11 +233,11 @@ To get 1m, talk about both Wired and Wireless.
 - More effort is required to access and backup resources as they are stored locally within each computer instead of centrally in a server.
 - Security is an issue as access rights are not administered by a central server
 
-![figure3](Networking/figure3.png)
-![figure13](Networking/figure13.png)
-![figure14](Networking/figure14.png)
-![figure4](Networking/figure4.png)
-![figure5](Networking/figure5.png)
+![figure3](11_Networks/figure3.png)
+![figure13](11_Networks/figure13.png)
+![figure14](11_Networks/figure14.png)
+![figure4](11_Networks/figure4.png)
+![figure5](11_Networks/figure5.png)
 
 | Factor                   | Client-Server                                                                                                            | Peer-to-Peer                                                                                                                                                                                                                                                                  |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -261,10 +261,10 @@ To get 1m, talk about both Wired and Wireless.
 
 #### Example of an IPv4 address
 
-![figure8](Networking/figure8.png)
+![figure8](11_Networks/figure8.png)
 #### Example of IPv6 address
 
-![figure9](Networking/figure9.png)
+![figure9](11_Networks/figure9.png)
 
 ### Public vs Private IP Addresses
 
@@ -276,7 +276,7 @@ To get 1m, talk about both Wired and Wireless.
 
 #### Example of a MAC address
 
-![figure10](Networking/figure10.png)
+![figure10](11_Networks/figure10.png)
 
 
 ### Why have we not run out of IPv4 Addresses?
@@ -347,9 +347,9 @@ You can list all the port numbers that are in use on your computer by entering `
 - The networks may use different protocols.
 - In order for a router to forward packets between different networks using Internet protocols, both the device sending the packet and the device receiving the packet must be identified using IP addresses.
 
-![figure15](Networking/figure15.png)
+![figure15](11_Networks/figure15.png)
 
-![figure16](Networking/figure16.png)
+![figure16](11_Networks/figure16.png)
 
 ### Modem
 
@@ -364,7 +364,7 @@ You can list all the port numbers that are in use on your computer by entering `
 - Star
 - Mesh (+)
 
-![figure17](Networking/figure17.png)
+![figure17](11_Networks/figure17.png)
 
 __Topology:__ physical layout of the devices on the network.
 
@@ -381,7 +381,7 @@ Common topologies include:
 
 ### Bus Topology
 
-![figure18](Networking/figure18.png)
+![figure18](11_Networks/figure18.png)
 
 #### Advantages
 
@@ -400,7 +400,7 @@ Common topologies include:
 
 - Data passed around in only one direction.
 
-![figure19](Networking/figure19.png)
+![figure19](11_Networks/figure19.png)
 
 #### Advantages
 
@@ -414,7 +414,7 @@ Common topologies include:
 
 ### Star Topology
 
-![figure20](Networking/figure20.png)
+![figure20](11_Networks/figure20.png)
 
 #### Advantages
 
@@ -428,9 +428,9 @@ Common topologies include:
 
 ### Mesh Topology
 
-![figure21](Networking/figure21.png)
+![figure21](11_Networks/figure21.png)
 
-![figure22](Networking/figure22.png)
+![figure22](11_Networks/figure22.png)
 
 #### Advantages
 
@@ -444,7 +444,7 @@ Common topologies include:
 - Building and maintaining the topology is difficult and time consuming.
 - The chance of redundant connections is high, which adds to the high costs and potential for reduced efficiency.
 
-![figure23](Networking/figure23.png)
+![figure23](11_Networks/figure23.png)
 
 ## Task 11.04 Network Topologies
 
@@ -469,21 +469,36 @@ Explain why a client-server network is preferred over a P2P network by consideri
 
 - All the bits, including the parity bit, will add up to an __odd__ number.
 - E.g. 1001 0010 (Last bit is the parity bit)
-    * If 1011 0010 is received instead, the receiver knows the 
+    * If 1011 0010 is received instead, the receiver knows that an error has occurred as the sum of bits is not an odd number
+
+### Even Parity System
+
+- All the bits, including the parity bit, will add up to an __even__ number.
+- E.g. 1001 1010 (Last bit is the parity bit)
+    * If 1011 1010 is received instead, the receiver knows that an error has occurred as the sum of bits is not an even number
+
+### Limitations of Parity Checks
+
+- If two bits are transposed, then the computer could be fooled into thinking the data is correct and not corrupted.
+- If two random bits change state then the system could also be fooled.
 
 ### Checksum
 
 - A calculated value that is used to determine the integrity of transmitted data.
-- Used when transmitting 
+- Used when transmitting data using the TCP protocol (along with acknowledgements, which safeguard against data that is lost).
+- Sum of all bytes in the data is calculated
+- If the sum is less than  or equal to $255(2^8 - 1)$, the checksum = sum.
+- Else, the checksum = sum mod 256
+- If the received data does not match the checksum, then the receiver knows an error has occurred.
 
 ## Error Correcting Methods
 
 - Able to detect __AND correct__ errors in transmission, up to a certain number of errors.
 
+### Hamming distance
 
-
-
-
-
-
+- The number of bits that differ between two strings
+- Used to describe up to how many bits a system is error-detecting/error-correcting
+- E.g. '1001  1010' and '1011 1010' have a Hamming distance of 1.
+- E.g. '1000 1111' and '0111 0000' have a Hamming distance of 8.
 

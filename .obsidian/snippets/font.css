@@ -1,7 +1,0 @@
-body, input,
-.markdown-source-view .CodeMirror-line,
-.markdown-source-view .CodeMirror-line-like,
-.view-header-title,
-.markdown-source-view, .markdown-preview-view .markdown-preview-section {
-  font-family: "Fira Code";
-}

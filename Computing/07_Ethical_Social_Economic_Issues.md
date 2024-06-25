@@ -215,8 +215,8 @@ Personal data is sensitive and should not be shared publicly. Some companies may
 
 ## Threats to Privacy and Security
 
-![figure1](Ethical_Social_Economic_Issues/figure1.png)
-![figure2](Ethical_Social_Economic_Issues/figure2.png)
+![figure1](07_Ethical_Social_Economic_Issues/figure1.png)
+![figure2](07_Ethical_Social_Economic_Issues/figure2.png)
 
 ### Defensive Measures Against Privacy and Security Threats
 
@@ -401,5 +401,4 @@ On the negative side, some people may be addicted to computer games or social ne
 Games, animation and media are areas of strong growth in the entertainment industry with new opportunities being opened up by the rise of high-quality virtual reality, augmented reality and motion- tracking technology.
 
 Many businesses are also using monitoring technology and strategies from game design to provide rewards and incentives for work- related achievements.
-
 

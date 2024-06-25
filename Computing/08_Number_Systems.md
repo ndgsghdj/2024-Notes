@@ -198,5 +198,3 @@ IP (Internet Protocol) is a standard system of rules used by computers on the In
 - Unicode can be used to represent over a million unique characters from many different written languages all over the world.
 - For backward compatibility, the first 128 characters of Unicode are the same as ASCII.
 
-
-
