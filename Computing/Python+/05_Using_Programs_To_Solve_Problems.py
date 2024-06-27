@@ -11,3 +11,9 @@ def check_digit(code: str):
         return 0
     else:
         return 10 - int(result[-1])
+
+def validate_code(code: str):
+    if code[-1] != check_digit(code):
+        return False
+    else:
+        return True
