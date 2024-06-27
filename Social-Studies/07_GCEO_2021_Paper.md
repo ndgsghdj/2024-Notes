@@ -2,7 +2,7 @@
 
 ## Background Info
 
-> Sir James Dyson is a British inventor and entrepreneur. Over several decades he has built up a huge business in Britain, specialising in small domestic appliances such as vacuum cleaners and hair dryers, although since 2002 most of his products have been manufactured in Asia. In 2016, the British public voted to leave the European Union (EU), Dyson, who has a strong supporter of leaving, claimed that there would be more business opportunities for British companies. <br/> <br/>However, in January 2019, Dyson announced that he was moving the Headwquarters (HQ) of his business to Singapore. He claimed that he was doing the best for his business in a competitive global market. This moe has been controbersial in Britain. Some view the move as contradicting Dyson's earlier optimism while others feel that he has abandoned British industry.
+> Sir James Dyson is a British inventor and entrepreneur. Over several decades he has built up a huge business in Britain, specialising in small domestic appliances such as vacuum cleaners and hair dryers, although since 2002 most of his products have been manufactured in Asia. In 2016, the British public voted to leave the European Union (EU), Dyson, who has a strong supporter of leaving, claimed that there would be more business opportunities for British companies. <br/> <br/>However, in January 2019, Dyson announced that he was moving the Headquarters (HQ) of his business to Singapore. He claimed that he was doing the best for his business in a competitive global market. This move has been controversial in Britain. Some view the move as contradicting Dyson's earlier optimism while others feel that he has abandoned British industry.
 
 ### Implications of Dyson's Move to SG
 
@@ -62,3 +62,18 @@ __Possible Misinterpretations:__
 - Both sources are <ins>similar</ins> in showing that Dyson's move to SG is a controversial decision
     * C: Decision is likely to be controversial (Correct)
     * D: Dyson washing hands of Britain (Wrong)
+
+## Q4 - Utility
+
+| Agree/Similar | Support/corroborate   |
+|---------------|-----------------------|
+| Same opinion  | Confirm with evidence |
+| Concur        | Check with evidence   |
+| Identical     |                       |
+
+### Utility Logic
+
+__Using reliability to ascertain utility__
+
+- As it is reliable, therefore it is useful
+- As it is not reliable, there it is not useful.

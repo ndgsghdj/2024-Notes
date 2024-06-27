@@ -50,3 +50,24 @@ With the code tested and refined, this is the stage where the program is actuall
 
 A __check digit__ is usually an additional digit or letter added in the end of a sequence of digits that is intended to be read by or entered into a computer manually. The check digit is mathematically related to the original sequence of the digits so that simple input errors would break this relationship and hence be detected. If the check digit is a letter, it would usually need to be converted to a number so that it can be used in the algorithm to check the sequence.
 
+Check digits are generally designed to capture human transcription errors.
+
+### Examples of Check Digits
+
+- __UPC, EAN, GLN, GTIN, numbers administered by GS1.__
+    * The final digit of a Universal Product Code, International Article Number, Global Location Number or Global Trade Item Number is a check digit.
+- __ISBN 10/ ISBN 13__
+    * International Standard Book Number
+
+### Notable Algorithms
+
+- Luhn Algorithm (1954) by IBM Scientists Hans Peter Luhn
+    * Credit Card number
+    * Canadian, Greek, Israeli, South African, Swedish ID.
+- Verhoeff Algorithm (1969) by Dutch Mathematician Jacobus Verhoeff
+    * The first decimal check digit algorithm which detects all single-digit errors, and all transposition errors involving two adjacent digits.
+    * Uses three tables: a multiplication table d, an inverse table inv, and a permutation table p.
+- Damm Algorithm (2004) by H. Michael Damm (PhD Dissertation)
+    * Similar to the Verhoeff algorithm
+    * Does not have the dedicated constructed permutations and its position-specific powers of the Verhoeff scheme.
+
