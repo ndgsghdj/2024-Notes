@@ -13,7 +13,10 @@ def check_digit(code: str):
         return 10 - int(result[-1])
 
 def validate_code(code: str):
-    if code[-1] != check_digit(code):
+    if int(code[-1]) != check_digit(code):
         return False
     else:
         return True
+
+# Singapore NRIC (mod-11)
+

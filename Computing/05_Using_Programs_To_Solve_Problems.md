@@ -66,7 +66,7 @@ Check digits are generally designed to capture human transcription errors.
     * Canadian, Greek, Israeli, South African, Swedish ID.
 - Verhoeff Algorithm (1969) by Dutch Mathematician Jacobus Verhoeff
     * The first decimal check digit algorithm which detects all single-digit errors, and all transposition errors involving two adjacent digits.
-    * Uses three tables: a multiplication table d, an inverse table inv, and a permutation table p.
+    * Uses three tables: a multiplication table _d_, an inverse table _inv_, and a permutation table _p_.
 - Damm Algorithm (2004) by H. Michael Damm (PhD Dissertation)
     * Similar to the Verhoeff algorithm
     * Does not have the dedicated constructed permutations and its position-specific powers of the Verhoeff scheme.
@@ -88,7 +88,7 @@ def check_digit(code: str):
         return 10 - int(result[-1])
 
 def validate_code(code: str):
-    if code[-1] != check_digit(code):
+    if int(code[-1]) != check_digit(code):
         return False
     else:
         return True
