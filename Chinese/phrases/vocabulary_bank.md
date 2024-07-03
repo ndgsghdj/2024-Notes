@@ -1,5 +1,5 @@
 | Phrase                             | Pinyin                                                           | English                                                                                                                                             |
-|------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 佐证                               | zuǒ zhèng                                                        | evidence                                                                                                                                            |
 | 实际                               | Shí jì                                                           | actual                                                                                                                                              |
 | 证据                               | Zhèngjù                                                          | evidence                                                                                                                                            |
@@ -865,3 +865,31 @@
 | 蚝油                               | hao you                                                          | oyster sauce                                                                                                                                        |
 | 椭圆                               | huo yuan                                                         | oval                                                                                                                                                |
 | 绿化带                             | lv hua dai                                                       | green spaces                                                                                                                                        |
+| 应用端                             | ying yong duan                                                   | application                                                                                                                                         |
+| 异步                               | yi bu                                                            | asynchronous                                                                                                                                        |
+| 后端                               | hou duan                                                         | backend                                                                                                                                             |
+| 点击                               | dian ji                                                          | click                                                                                                                                               |
+| 集群                               | ji qun                                                           | cluster                                                                                                                                             |
+| 代码                               | dai ma                                                           | code                                                                                                                                                |
+| 配置                               | pei zhi                                                          | configuration                                                                                                                                       |
+| 数据库                             | shu ju ku                                                        | database                                                                                                                                            |
+| 解耦                               | jie ou                                                           | decouple                                                                                                                                            |
+| 默认                               | mo ren                                                           | default                                                                                                                                             |
+| 狼藉                               | lang2 ji2                                                        | messy                                                                                                                                               |
+| 污秽不堪                           | wu1 hui4 bu4 kan1                                                | filthy                                                                                                                                              |
+| 肆虐                               | si4 nue4                                                         | rampant                                                                                                                                             |
+| 各行各业                           | ge4 hang2 ge4 ye4                                                | all walks of life                                                                                                                                   |
+| 访问控制                           | fang3 wen4 kong1 zhi1                                            | access control                                                                                                                                      |
+| 访问控制列表                       | fang3 wen4 kong1 zhi1 lie4 biao3                                 | access control list                                                                                                                                 |
+| 别名 | bie ming | alias |
+| 接口 | jie kou | API endpoint |
+| 绝对路径 | jue dui lu jing | absolute path |
+| 账户 | zhang hu | account |
+| 新版本上线 | xin ban ben shang xian | app release |
+| 边框 | bian kuang | border |
+| 区块链 | qu kuai lian | blockchain |
+| 构建 | gou jian | build |
+| 打包 | da bao | bundle |
+| 分支 | fen zhi | git branch |
+| 字节 | zi jie | byte |
+| 字节流 | zi jie liu | byte stream |
