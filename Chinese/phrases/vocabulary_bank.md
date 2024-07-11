@@ -881,47 +881,47 @@
 | 各行各业                           | ge4 hang2 ge4 ye4                                                | all walks of life                                                                                                                                   |
 | 访问控制                           | fang3 wen4 kong1 zhi1                                            | access control                                                                                                                                      |
 | 访问控制列表                       | fang3 wen4 kong1 zhi1 lie4 biao3                                 | access control list                                                                                                                                 |
-| 别名 | bie ming | alias |
-| 接口 | jie kou | API endpoint |
-| 绝对路径 | jue dui lu jing | absolute path |
-| 账户 | zhang hu | account |
-| 新版本上线 | xin ban ben shang xian | app release |
-| 边框 | bian kuang | border |
-| 区块链 | qu kuai lian | blockchain |
-| 构建 | gou jian | build |
-| 打包 | da bao | bundle |
-| 分支 | fen zhi | git branch |
-| 字节 | zi jie | byte |
-| 字节流 | zi jie liu | byte stream |
-| 双刃剑 | shuang ren jian | double-edged sword |
-| 多媒体 | duo mei ti | multimedia |
-| 资讯通讯科技 | zi xun tong xun ke ji | ICT |
-| 平板电脑 | ping ban dian nao | tablet |
-| 互联网 | hu lian wang | internet |
-| 日新月异 | ri xin yue yi | changes with each passing day |
-| 事半功倍 | shi ban gong bei | twice the result with half the effort |
-| 本末倒置 | ben mo dao zhi | to do things in the wrong order |
-| 上瘾 | shang yin | addiction |
-| 在线游戏 | zai xian you xi | online games |
-| 社交平台 | she jiao ping tai | social media platform |
-| 即时通讯 | ji shi tong xun | instagram |
-| 推特 | tui te | twitter |
-| 面薄 | mian bo | facebook |
-| 论坛 | lun tan | forum |
-| 博客 | bo ke | blog |
-| 下载 | xia zai | download |
-| 无线网 | wu xian wang | wifi |
-| 视频上载网站 | shi ping shang zai wang zhan | youtube |
-| 手提电脑 | shou ti dian nao | laptop |
-| 低头族 | di tou zu | phubbing, people who look down on phone while walking |
-| 颈椎病 | jing zhui bing | cervical spondylosis |
-| 视力下降 | shi li xia jiang | vision loss |
-| 盯着手机屏幕 | ding zhe shou ji ping mu | be glued to smartphone screens |
-| 普及 | pu ji | widespread |
-| 足不出户 | zu bu chu hu | never leave one's home |
-| 隐忧 | yin you | concerns; underlying worries |
-| 适可而止 | shi ke er zhi | stop before going too far |
-| 虚拟世界 | xv ni shi jie | virtual reality |
-| 网络霸凌 | wang luo ba ling | cyberbullying |
-| 黑客 | hei ke | hacker |
-| 网络安全意识 | wang luo an quan yi shi | cyberwellness knowledge |
+| 别名                               | bie ming                                                         | alias                                                                                                                                               |
+| 接口                               | jie kou                                                          | API endpoint                                                                                                                                        |
+| 绝对路径                           | jue dui lu jing                                                  | absolute path                                                                                                                                       |
+| 账户                               | zhang hu                                                         | account                                                                                                                                             |
+| 新版本上线                         | xin ban ben shang xian                                           | app release                                                                                                                                         |
+| 边框                               | bian kuang                                                       | border                                                                                                                                              |
+| 区块链                             | qu kuai lian                                                     | blockchain                                                                                                                                          |
+| 构建                               | gou jian                                                         | build                                                                                                                                               |
+| 打包                               | da bao                                                           | bundle                                                                                                                                              |
+| 分支                               | fen zhi                                                          | git branch                                                                                                                                          |
+| 字节                               | zi jie                                                           | byte                                                                                                                                                |
+| 字节流                             | zi jie liu                                                       | byte stream                                                                                                                                         |
+| 双刃剑                             | shuang ren jian                                                  | double-edged sword                                                                                                                                  |
+| 多媒体                             | duo mei ti                                                       | multimedia                                                                                                                                          |
+| 资讯通讯科技                       | zi xun tong xun ke ji                                            | ICT                                                                                                                                                 |
+| 平板电脑                           | ping ban dian nao                                                | tablet                                                                                                                                              |
+| 互联网                             | hu lian wang                                                     | internet                                                                                                                                            |
+| 日新月异                           | ri xin yue yi                                                    | changes with each passing day                                                                                                                       |
+| 事半功倍                           | shi ban gong bei                                                 | twice the result with half the effort                                                                                                               |
+| 本末倒置                           | ben mo dao zhi                                                   | to do things in the wrong order                                                                                                                     |
+| 上瘾                               | shang yin                                                        | addiction                                                                                                                                           |
+| 在线游戏                           | zai xian you xi                                                  | online games                                                                                                                                        |
+| 社交平台                           | she jiao ping tai                                                | social media platform                                                                                                                               |
+| 即时通讯                           | ji shi tong xun                                                  | instagram                                                                                                                                           |
+| 推特                               | tui te                                                           | twitter                                                                                                                                             |
+| 面薄                               | mian bo                                                          | facebook                                                                                                                                            |
+| 论坛                               | lun tan                                                          | forum                                                                                                                                               |
+| 博客                               | bo ke                                                            | blog                                                                                                                                                |
+| 下载                               | xia zai                                                          | download                                                                                                                                            |
+| 无线网                             | wu xian wang                                                     | wifi                                                                                                                                                |
+| 视频上载网站                       | shi ping shang zai wang zhan                                     | youtube                                                                                                                                             |
+| 手提电脑                           | shou ti dian nao                                                 | laptop                                                                                                                                              |
+| 低头族                             | di tou zu                                                        | phubbing, people who look down on phone while walking                                                                                               |
+| 颈椎病                             | jing zhui bing                                                   | cervical spondylosis                                                                                                                                |
+| 视力下降                           | shi li xia jiang                                                 | vision loss                                                                                                                                         |
+| 盯着手机屏幕                       | ding zhe shou ji ping mu                                         | be glued to smartphone screens                                                                                                                      |
+| 普及                               | pu ji                                                            | widespread                                                                                                                                          |
+| 足不出户                           | zu bu chu hu                                                     | never leave one's home                                                                                                                              |
+| 隐忧                               | yin you                                                          | concerns; underlying worries                                                                                                                        |
+| 适可而止                           | shi ke er zhi                                                    | stop before going too far                                                                                                                           |
+| 虚拟世界                           | xv ni shi jie                                                    | virtual reality                                                                                                                                     |
+| 网络霸凌                           | wang luo ba ling                                                 | cyberbullying                                                                                                                                       |
+| 黑客                               | hei ke                                                           | hacker                                                                                                                                              |
+| 网络安全意识                       | wang luo an quan yi shi                                          | cyberwellness knowledge                                                                                                                             |
