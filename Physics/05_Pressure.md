@@ -89,3 +89,28 @@ Consider a cuboidal liquid column of density $\rho$, base area $A$ and a depth $
 1. $V = Ah$
 2. $m = \rho \times V \times g = \rho Ahg$
 3. weight, $W = m \times g = \rho Ahg$
+4. Since the column is in equilibrium, by Newton's first law,
+    - Upward force = sum of downward forces
+    - $F = F_0 + W$
+    - $pA = p_0 A + \rho A hg$
+    - Dividing both sides of the equation by $A$
+    - $\frac{pA}{A} = \frac{p_0A}{A} + \frac{\rho A h g}{A}$
+    - $p = p_0 + \rho g h$
+5. The pressure difference between the top surface and the base of the column is caused by the liquid column. Thus,
+6. Pressure due to the liquid column = $p - p_0 = \rho g h$
+
+The pressure due to a liquid column is:
+
+$$p = \rho g h$$
+
+where:
+- $p$ is the pressure due to the liquid column (SI unit: pascal, Pa)
+- $\rho$ is the density of the liquid (SI unit: kg/m^3)
+- $g$ is the gravitational field strength (SI unit: N/kg), and
+- $h$ is the __depth__ (__not depth__) of the liquid column (SI unit: metre, m)
+
+### Note
+
+- The pressure due to the liquid column does __not__ depend on the shape, cross-sectional area and the volume of the container.
+
+
