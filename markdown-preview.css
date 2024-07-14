@@ -16,7 +16,7 @@
     --color-kbd-foreground: #313244;
     --color-markdown-blockquote-border: #dfe2e5;
     --color-markdown-table-border: #dfe2e5;
-    --color-markdown-table-tr-border: #c6cbd1;
+    --color-markdown-table-tr-border: #89b4fa;
     --color-markdown-code-bg: #1b1f230d;
 }
 [data-theme="dark"] {
@@ -31,8 +31,8 @@
     --color-border-tertiary: #6c7086;
     --color-kbd-foreground: #313244;
     --color-markdown-blockquote-border: #dfe2e5;
-    --color-markdown-table-border: #6c7086;
-    --color-markdown-table-tr-border: #c6cbd1;
+    --color-markdown-table-border: #89b4fa;
+    --color-markdown-table-tr-border: #89b4fa;
     --color-markdown-code-bg: #1b1f230d;
 }
 
@@ -284,6 +284,7 @@
     max-height: 100%;
 }
 .markdown-body strong {
+    color: #f38ba8;
     font-weight: bold;
 }
 .markdown-body em {

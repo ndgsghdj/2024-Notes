@@ -261,3 +261,4 @@ __Significant progress was made after World War 1 in several areas:__
 - The League helped millions of refugees to return home after the war.
 - The Health Commission of the League helped to reduce the spread of contagious diseases through international vaccination programmes and helped to reduce fatalities from such diseases.
 - The League also worked to reduce the smuggling of cheap labour, opium and dangerous chemicals across international borders.
+
