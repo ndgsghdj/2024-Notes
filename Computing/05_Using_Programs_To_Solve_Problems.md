@@ -72,7 +72,7 @@ Check digits are generally designed to capture human transcription errors.
     * Does not have the dedicated constructed permutations and its position-specific powers of the Verhoeff scheme.
 
 
-```python
+```python 
 # UPC-A Practice
 
 def check_digit(code: str):

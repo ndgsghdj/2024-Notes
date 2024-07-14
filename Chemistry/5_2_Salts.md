@@ -6,10 +6,10 @@ A salt is an ionic compound that consists of a cation (positive ion) and an anio
 
 ### Reactions that produce salts
 
-- acid + reactive metal -> salt + hydrogen
-- acid + carbonate -> salt + water + carbon dioxide
-- acid + base -> salt + water
-- base + ammonium salt -> salt + water + ammonia gas
+- acid + reactive metal &rarr; salt + hydrogen
+- acid + carbonate &rarr; salt + water + carbon dioxide
+- acid + base &rarr; salt + water
+- base + ammonium salt &rarr; salt + water + ammonia gas
 
 ## Solubility of Salts
 
@@ -119,3 +119,4 @@ A salt is an ionic compound that consists of a cation (positive ion) and an anio
     - The filtrate obtained is salt CB and excess CD
 4. Wash the residue <ins>AD</ins> with distilled water. Dry the residue between sheets of filter paper. 
     - The residue is washed to remove any excess soluble CD and soluble CB.
+
