@@ -151,4 +151,73 @@ __General Reactions as Acids__
 
 - $\ce{2CH_3COOH (aq) + Na_2CO_3(aq) -> 2CH_3COONa (aq) + H_2O (l) + CO_2(g)}$
 - $\ce{2C_3H_7COOH (aq) + CaO (s) -> (C_3H_7COO)_2Ca (aq) + H_2O (l)}$
-- 
+- $\ce{HCOOH (aq) + KOH (aq) -> HCOOK(aq) + H_2O(l)}$
+
+## Esterification - Introduction to Esters
+
+### What are esters?
+
+- Sweet aroma
+- Used in food and perfume industry
+
+### Homologous Series - Esters 
+
+#### Ethyl Ethanoate
+
+$$\ce{CH3-COO-C_2H_5}$$
+
+#### Methyl Propanoate
+
+$$\ce{C_2H_5-COO-CH_3}$$
+
+#### Functional Group
+
+$$\ce{-COO-}$$
+
+#### General Formula
+
+$$\ce{C_nH_{2n}O_2}$$
+$$\ce{C_nH_{2n+2}COO}$$
+
+#### Name
+
+__-yl -anoate__
+
+### Synthesis of Esters
+
+$$\ce{CH_3COOH + CH_3OH <=>[Conc. H_2SO_4 Catalyst] CH_3-COO-CH_3 + H_2O}$$
+
+__Carboxylic acid + alcohol <=> ester + water__
+
+#### Experimental Set-up
+
+- The carboxylic acid and alcohol are heated under __reflux__ in the presence of a __catalyst__ (a few drops of concentrated sulfuric acid).
+
+__Which apparatus is the condenser? purpose?__
+
+- To prevent volatile organic reagents from escaping.
+- __Any vapour will condense on the cool surface of the condenser and flow back into the flask.__
+
+![Experimental Setup](./11_3_Alcohols_and_Carboxylic_Acids/figure1.png)
+
+### Hydrolysis of Esters
+
+- Esters can be __hydrolysed__ (broken down by water) to form original carboxylic acid and alcohol
+- Warm with dilute acid
+
+1. Look out for the $\ce{C-O}$ bond in the functional group of ester
+$$\ce{C_2H_5-CO-||-O-CH_3}$$
+    - methyl propanoate
+2. Separate out the molecule
+$$\ce{C_2H_5COO + O-CH_3}$$
+3. Add $\ce{-O-H}$ to the $\ce{C=O}$, to form an acid. Add $\ce{-O-H}$ to the remaining part of the compound to form an alcohol.
+$$\ce{C_2H_5COOH + H-O-CH_3}$$
+    - propanoic acid + methanol
+
+> [!NOTE]
+> __Why does the use of dilute acid favour the reverse reaction?__
+>
+> Hint: What product is formed in the forward reaction?
+>
+> The presence of water shifts the equilibrium to the left, hence a dilute acid solution would favour the reverse reaction.
+
