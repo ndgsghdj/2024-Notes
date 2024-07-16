@@ -222,3 +222,48 @@ __Impact on environment__
 ##### Ways to Reduce Pollutant
 
 *see methods of reducing unburnt hydrocarbons and nitrogen oxides as they react to produce ground level ozone.*
+
+### Ozone Layer
+
+#### Ozone and its Importance
+
+- Ozone is an important part of the stratosphere
+- Acts as shield, __filtering out some of the harmful ultraviolet radiation__, *reducing the chances of getting skin cancer, genetic mutations and eye damage.*
+
+#### How is Ozone Similar to Oxygen?
+
+- Ozone is an allotrope of oxygen, formed out of 3 oxygen atoms.
+
+#### Important Fact
+
+- In small concentrations, ozone is non-toxic
+- However, in high concentrations (100 ppm), __ozone becomes toxic__
+- Too much ozone can damage the tissues of the respiratory tract.
+
+#### Chlorofluorocarbons
+
+- Chlorofluorocarbons are examples of ozone-depleting substances (ODS)
+- Also known as CFCs, they are compounds that contain the elements carbon, fluorine, and chlorine.
+- __CFCs are generally used in the manufacture of aerosol sprays, blowing agents for foams and packing materials, as solvents, and as refrigerants.__
+
+##### Role of CFCs
+
+CFCs in the atmosphere are decomposed by sunlight to produce chlorine radicals. These chlorine radicals then react with ozone molecules and destroy them by converting them into oxygen molecules.
+
+1. $\ce{CFCl_3 ->[UV light] CFCl_2^+ + Cl^-}$
+2. $\ce{Cl^- + O_3 -> ClO^- + O_2}$
+3. $\ce{ClO^- + O^- -> O_2 + Cl^-}$
+
+### Carbon Cycle
+
+- Describes the process in which carbon atoms continually travel from the atmosphere to the Earth and then back into the atmosphere.
+- This cycle is important for maintaining a stable climate and carbon balance on Earth.
+- Carbon dioxide is __0.03%__ of atmosphere content by volume
+- This represents a huge reservoir of carbon, which is constantly being removed from and returned to the atmosphere by a variety of processes.
+
+| Process that takes in carbon from the atmosphere | Process which gives out carbon to the atmosphere |
+|--------------------------------------------------|--------------------------------------------------|
+| Photosynthesis by plants                         | Respiration by animals                           |
+| Ocean uptake                                     | Respiration by plants                            |
+|                                                  | Combustion of carbon-containing fuels            |
+|                                                  | Bacterial decomposition of organic matter        |
