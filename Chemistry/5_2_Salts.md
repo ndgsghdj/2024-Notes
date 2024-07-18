@@ -32,7 +32,7 @@ A salt is an ionic compound that consists of a cation (positive ion) and an anio
     * $\ce{(NH_4)_3 PO_4}$
     * A fertiliser used to provide plants with the elements nitrogen and phosphorus, essential for the plants' healthy growth.
 - Monosodium Glutamate
-    * $\ce{NaC_5H_8NO_4}
+    * $\ce{NaC_5H_8NO_4}$
     * A sodium salt of glutamic acid which is used as a flavour enhancer in the food industry, and is especially used to enhance the taste of savoury foods.
 - Sodium Fluoride
     - $\ce{NaF}$
