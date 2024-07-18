@@ -502,3 +502,74 @@ Explain why a client-server network is preferred over a P2P network by consideri
 - E.g. '1001  1010' and '1011 1010' have a Hamming distance of 1.
 - E.g. '1000 1111' and '0111 0000' have a Hamming distance of 8.
 
+## Data Communications [+]
+
+### Securing Seven Domains of IT Infrastructure
+
+1. User
+2. Workstation
+3. LAN
+4. LAN to WAN
+5. WAN
+6. Remote Access
+7. System/Application
+
+### User Domain
+
+- People and their devices. Strong passwords, access controls, and training.
+
+### Workstation Domain
+
+- User computers and OS. Software updates, antivirus, and user privileges.
+
+### LAN Domain
+
+- Local network for workstations and servers. Firewalls, intrusion detection, and encryption.
+
+### LAN-to-WAN Domain
+
+- Connection between LAN and WAN. VPNs, firewalls, and encryption.
+
+### WAN Domain
+
+- Wide area network connecting remote sites and internet. Firewalls, intrusion prevention and content filtering.
+
+### Remote Access Domain
+
+- Remote network access. Authentication, access limits, and encryption.
+
+### System/Application Domain
+
+- Servers, apps, and data on the network. Access controls, backups, auditing and monitoring.
+
+### Advantages and Disadvantages of Networks
+
+| Advantages                                                                                            | Disadvantages                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Communication: Share instant messages and emails for communication                                    | Risk of data loss: Data may be lost due to hardware failures or errors, hence regular data backups are needed                                                                   |
+| (Shared) Resources: Make use of shared resources such as printers or files                         | Initial costs: Costly due to the high setup and equipment costs                                                                                                                 |
+| (Shared) Software: Software can be stored on the central server and deployed to other computers.  | Security Risks: As files are shared through a network, there is the risk of virus or worm attacks spreading throughout the network even with just one infected computer |
+| (Shared) Storage: Data files can be stored on a central server for ease of access and backup purposes | Server outage: If the server fails, the network will not be able to function, thus affecting work processes.                                                                |
+
+### CIA Triad
+
+- Confidentiality
+- Integrity
+- Availability
+
+#### Confidentiality
+
+Safeguarding data confidentiality involves special training for those privy to sensitive documents. Training can help familiarise authorised people with risk factors and how to guard against people with risk factors and how to guard against them.
+
+Further aspects of training may include strong passwords and password-related best practices and information about social engineering methods to prevent users from bending data-handling rules with good intentions and potentially disastrous results. Data encryption is another common method of ensuring confidentiality. User IDs and passwords constitute a standard procedure; two-factor authentication (2FA) is becoming the norm.
+
+#### Integrity
+
+These measures include file permissions and user access controls. Version control may be used to prevent erroneous changes or accidental deletion by authorized users from becoming a problem. In addition, organisations must put in some means to detect any changes in data that might occur as a result of non-human-caused events such as an electromagnetic pulse (EMP) or server crash.
+
+Data might include checksums, even cryptographic checksums, for verification of integrity. Backups or redundancies must be available to restore the affected data to its correct state.
+
+#### Availability
+
+This is best ensured by rigorously maintaining all hardware, performing hardware repairs immediately when needed and maintaining a properly functioning operating system (OS) environment that is free of software conflicts. It's also important to keep current with all necessary system upgrades. Providing adequate communication bandwidth and preventing the occurrence of bottlenecks are equally important tactics. Redundancy, failover, RAID - even high-availability clusters - can mitigate serious consequences when hardware issues do occur.
+

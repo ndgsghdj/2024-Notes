@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "translucency": true,
+  "showViewHeader": false,
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "baseFontSize": 16,
+  "nativeMenus": true
+}

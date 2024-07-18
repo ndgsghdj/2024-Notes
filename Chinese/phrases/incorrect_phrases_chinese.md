@@ -1,2 +1,3 @@
+
 | Phrase | Pinyin | Meaning |
 |------|------|---------|
