@@ -73,3 +73,4 @@ $$\ce{C_8H_18 ->[$\ce{Al_2O_3}$ \space catalyst, \space high \space temperature]
 For:
 - production of __smaller molecules with higher demand__ (e.g. ethene, propene, petrol)
 - Produce __hydrogen gas for fuel or for the Haber process__.
+

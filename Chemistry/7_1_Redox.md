@@ -114,4 +114,3 @@ Half equation: $\ce{2I^- (aq) -> I_2 (s) + 2e^-}$
 
 $\ce{KI}$ solution is a <ins>reducing agent</ins> and it turns from colourless to brown when coming into contact with an oxidising agent.
 
-

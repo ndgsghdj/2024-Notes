@@ -48,4 +48,3 @@ Singapore could possibly be a leader in the importing of biofuels and refining t
 - Heavy industry
     * Types of businesses that carry a high capital cost, high barriers to entry and low transportability, e.g. petrochemical industry, oil refining, aerospace and aviation.
 
-

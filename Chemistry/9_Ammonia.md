@@ -92,3 +92,4 @@ Conditions such as temperature and pressure need to be adjusted for reversible r
 
 - Compressing the gas to liquid state allows more ammonia to be stored per volume
 - It also allows for easier storage and transportation of ammonia gas.
+

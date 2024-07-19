@@ -90,4 +90,3 @@ Isomerism is the phenomenon where __compounds (isomers) have the same molecular 
 - Do not have to be of the same homologous series.
 - Different homologous series can have the __same molecular formula.__
 
-

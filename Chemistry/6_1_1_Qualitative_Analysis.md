@@ -142,3 +142,4 @@ As aqueous ammonia dissociates to form ammonium cations and hydroxide anions, th
 | Hydrogen | 'pops' with a lighted splint |
 | Oxygen | Relights a glowing splint |
 | Sulfur Dioxide | Turns aqueous acidified potassium manganate (VII) from purple to colourless. |
+

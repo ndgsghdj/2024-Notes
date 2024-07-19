@@ -296,4 +296,3 @@ Electrical energy is constantly supplied to split water to form hydrogen and oxy
 
 $$\ce{2Cl^-(aq) -> Cl_2 (g) + 2e^-}$$
 
-

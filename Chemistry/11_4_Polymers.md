@@ -11,3 +11,4 @@
 
 - Polymers are made from many __smaller molecules__ called __monomers__
 - Each small unit within the polymer that repeats itself is a __repeating unit__
+
