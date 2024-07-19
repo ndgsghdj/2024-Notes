@@ -149,7 +149,7 @@ __Characteristics of Catalysts__
 
 ### Industrial Catalyst
 
-- Industrial catalysts are usually transition metals and their compounds due ot the ability to have variable oxidation states
+- Industrial catalysts are usually transition metals and their compounds due to the ability to have variable oxidation states
 - By using catalysts, less extreme physical conditions (heat and pressure) are required, saving energy.
 
 | Catalyst                         | Use                                          |
