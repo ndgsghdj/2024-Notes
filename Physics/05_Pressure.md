@@ -113,4 +113,34 @@ where:
 
 - The pressure due to the liquid column does __not__ depend on the shape, cross-sectional area and the volume of the container.
 
+__Pressure with atmospheric pressure in liquid column__
+
+$$p = p_0 + \rho g h$$
+
+## Barometer
+
+A barometer is an instrument that can measure atmospheric pressure.
+
+A long tube is completely filled with mercury. Then, it is inverted into a trough/reservoir that also contains mercury. Some mercury flows into from the tube into the reservoir, whereas the remaining mercury remains in the tube is supported by atmospheric pressure. 
+
+1. __Atmospheric pressure__, $p_0$, acts on the surface of the mercury in the __trough__.
+2. The __vaccuum__ exerts no pressure on the mercury in the tube.
+3. The thick glass tube, which is about 1m long, contains mercury.
+4. At point X, which is at the __same level__ as the surface of the trough, the __mercury__ exerts a __pressure, $p_X$__ , that __equals atmospheric pressure, $p_0$__ .
+5. The __distance__ h of between the mercury levels in the tube and the trough is measured with a metre rule.
+
+### Units of Pressure
+
+- The pascal (Pa) is the SI unit of pressure
+- 1 atm = $1.01 \times 10^5 Pa$
+- 1m Hg (pronounced "one metre of mercury") is the pressure due to a 1-metre deep column of mercury. The density of mercury is 13 600 kg/m^3.
+    * __Note:__ 1m Hg (a unit of pressure) $\ne$ 1m (a unit of length)
+
+## Manometer
+
+A manometer is an instrument used to measure the __difference__ in the pressure of __liquids or gases.__
+
+| $p_{gas} > p_0$            | $p_{gas} < p_0$                                      |
+|----------------------------|------------------------------------------------------|
+| $p_{gas} = p_0 + \rho g h$ | $p_{gas} + \rho g h = p_0 \\ p_gas = p_0 - \rho g h$ |
 
