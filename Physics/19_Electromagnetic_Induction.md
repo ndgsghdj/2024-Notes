@@ -1,4 +1,24 @@
 # Electromagnetic Induction
+
+* [Electricity and Magnetism](#electricity-and-magnetism)
+    * [Laws of Electromagnetic Induction](#laws-of-electromagnetic-induction)
+        * [Faraday's law of electromagnetic induction](#faradays-law-of-electromagnetic-induction)
+        * [Lenz's Law](#lenzs-law)
+    * [Electromagnetic induction when magnetic field strength changes](#electromagnetic-induction-when-magnetic-field-strength-changes)
+    * [Case 1: S moves towards solenoid](#case-1-s-moves-towards-solenoid)
+    * [Case 2: N moves toward solenoid](#case-2-n-moves-toward-solenoid)
+    * [Case 3: S moves away from solenoid](#case-3-s-moves-away-from-solenoid)
+* [Motional e.m.f. induced on a conductor moving through a magnetic field](#motional-emf-induced-on-a-conductor-moving-through-a-magnetic-field)
+* [Alternating Current (a.c.) Generator](#alternating-current-ac-generator)
+    * [Simple Rotating Coil A.C. Generator](#simple-rotating-coil-ac-generator)
+        * [Function of the 2 Slip Rings](#function-of-the-2-slip-rings)
+        * [Graph of e.m.f output against time for a simple rotating coil a.c. generator](#graph-of-emf-output-against-time-for-a-simple-rotating-coil-ac-generator)
+* [Transformers](#transformers)
+    * [Structure of a Transformer](#structure-of-a-transformer)
+        * [Function of the laminated soft iron core](#function-of-the-laminated-soft-iron-core)
+            * [Lamination](#lamination)
+    * [Efficiency of Transformer](#efficiency-of-transformer)
+
 ## Electricity and Magnetism
 
 ### Laws of Electromagnetic Induction
@@ -110,4 +130,45 @@ A transformer is a device that can change a large alternating voltage (with a sm
 - The transformer allows the alternating input voltage, $V_P$, and the alternating output voltage $V_S$ to differ, by having a __different number of turns__ in the __primary and secondary coils__.
 
 $$\frac{V_S}{V_P} = \frac{N_S}{N_P}$$
+
+### Efficiency of Transformer
+
+$$\eta = \frac{P_S}{P_P} \times 100% = \frac{V_SI_S}{V_PI_P} \times 100%$$
+
+| Ideal Transformer                                     | Non-ideal Transformer    |
+|-------------------------------------------------------|--------------------------|
+| efficiency $\eta = 100%$                              | efficiency $\eta < 100%$ |
+| $\frac{V_SI_S}{V_PI_P} = 1$                           |                          |
+| $\frac{I_P}{I_S} = \frac{V_S}{V_P} = \frac{N_S}{N_P}$ |                          |
+
+For a __non-ideal__ transformer, energy is wasted due to:
+1. Energy being transferred to the internal stores of the coils when current flows through them, since the __coils__ have some __resistance__.
+2. Energy being transferred to the internal store of the core when __eddy current__ flows through the core, since the __core__ has some resistance
+3. __leakage__ of __magnetic field__ lines between the primary and secondary coils.
+4. __hysteresis loss__ caused by the __flipping of the magnetic domains__ in the core due to the alternating magnetic field produced by the primary coil. Energy is transferred to the internal store of the core.
+
+### High Voltage Electrical Transmission of Power
+
+![Electrical Transmission of Power without Transformers](./19_Electromagnetic_Induction/no-transformers.png)
+1. Since the length $L_3$ is large, the resistance of the power cables, $R_3 = \frac{\rho_3L_3}{A_3}$ is significant.
+2. Increasing the cross-sectional area $A_3$ of the transmission cables is impractical as thick cables are very expensive, heavy and difficult to suspend
+3. To reduce the power $P_3 = I_3^2R_3$ wasted (transferred electrically to the internal stores of the transmission cables), the current $I_3$ through the transmission cables should be minimised.
+
+![High voltage electrical transmission of power using step-up and step-down transformers](./19_Electromagnetic_Induction/with-transformers.png)
+
+__High voltage__ electrical transmission of power reduces current $I_3$ through the transmission cables, and thus reduces the power $P_3 = I_3^2R_3$ wasted (transferred electrically to the thermal stores of the transmission cables)
+1. Near the power station, transformer X steps up the voltage from $V_1$ to $V_2 > V_1$
+2. Since the output power of the secondary coil of transformer X is $P_2 = V_2I_2$, a small current:
+    - $I_2 = \frac{P_2}{V_2}$
+    - flows through the secondary coil of transformer X
+3. Since the secondary coil of transformer X, the transmission cables and the primary coil of transformer Y are connected in series, the same __small current__ flows through the transmission cables and the primary coil of transformer Y
+$$I_{transmission} = I_2 = I_3 = I_4 = \frac{P_2}{V_2}$$
+4. The power wasted (transferred electrically to the internal stores of the transmission cables)
+$$P_3 = I_3^2R_3 = \left(\frac{P_2}{V_2}\right)^2R_3$$
+is minimised.
+
+5. By the conservation of energy, the more power $P_4 = P_2 - P_3$ is transferred to the primary coil of transformer Y.
+6. In the series circuit, the voltage across the primary coil of transformer Y is $V_4 = V_2 - V_3$
+7. Before consumption, transformer Y steps down the voltage from $V_4$ to $V_5 < V_4$
+8. A.C generators are used in the production of power to be transferred electrically. If __D.C__ generators are used, voltages __cannot__ be __stepped up__ or __down__ by transformers.
 
