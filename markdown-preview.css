@@ -2,6 +2,7 @@
  * github like style
  * https://github.com/iamcco/markdown.css/blob/master/dest/github/markdown.css
  */
+@import url("colors.css");
 
 :root {
     --color-text-primary: #cdd6f4;
@@ -20,20 +21,20 @@
     --color-markdown-code-bg: #1b1f230d;
 }
 [data-theme="dark"] {
-    --color-text-primary: #b4befe;
-    --color-text-tertiary: #a6adc8;
-    --color-text-link: #b4befe;
-    --color-bg-primary: #1e1e2e;
-    --color-bg-secondary: #181825;
-    --color-bg-tertiary: #181825;
-    --color-border-primary: #6c7086;
+    --color-text-primary: var(--color7)
+    --color-text-tertiary: var(--foreground);
+    --color-text-link: var(--color12);
+    --color-bg-primary: var(--background);
+    --color-bg-secondary: var(--background);
+    --color-bg-tertiary: var(--color0);
+    --color-border-primary: var(--color7);
     --color-border-secondary: #6c7086;
     --color-border-tertiary: #6c7086;
     --color-kbd-foreground: #313244;
-    --color-markdown-blockquote-border: #dfe2e5;
-    --color-markdown-table-border: #89b4fa;
-    --color-markdown-table-tr-border: #89b4fa;
-    --color-markdown-code-bg: #181825;
+    --color-markdown-blockquote-border: var(--color0);
+    --color-markdown-table-border: var(--color12);
+    --color-markdown-table-tr-border: var(--color12);
+    --color-markdown-code-bg: var(--color8);
 }
 
 .markdown-body ol ol,
@@ -115,7 +116,7 @@
     margin-bottom: 16px;
 }
 .markdown-body h1 {
-    color: #f38ba8;
+    color: var(--color1);
     margin: 0.67em 0;
     padding-bottom: 0.3em;
     font-size: 2.25em;
@@ -123,23 +124,23 @@
     border-bottom: 1px solid var(--color-border-secondary);
 }
 .markdown-body h2 {
-    color: #f5c2e7;
+    color: var(--color5);
     padding-bottom: 0.3em;
     font-size: 1.75em;
     line-height: 1.225;
     border-bottom: 1px solid var(--color-border-secondary);
 }
 .markdown-body h3 {
-    color: #f2cdcd;
+    color: var(--color3);
     font-size: 1.5em;
     line-height: 1.43;
 }
 .markdown-body h4 {
-    color: #94e2d5;
+    color: var(--color2);
     font-size: 1.25em;
 }
 .markdown-body h5 {
-    color: #89b4fa;
+    color: var(--color4);
     font-size: 1em;
 }
 .markdown-body h6 {
@@ -285,7 +286,7 @@
     max-height: 100%;
 }
 .markdown-body strong {
-    color: #eba0ac;
+    color: var(--color1);
     font-weight: bold;
 }
 .markdown-body em {

@@ -1,3 +1,5 @@
+# Chemistry
+
 # Rate of Reaction
 
 ## Definition: Rate of Reaction
@@ -179,15 +181,29 @@ __Characteristics of Catalysts__
 
 > _Editor's note: wtf is this topic_
 
-## Fractionating Column
+## Introduction to Fuels
+
+- Fossil fuels are formed from decayed plants and animals from millions of years ago.
+- They are mainly organic compounds that contain only carbon and hydrogen, known as __hydrocarbons__
+- Fossil fuels are important as they are the largest sources of energy for powering transport and electrical appliances, which are essential for us to function in our daily lives.
+- When fossil fuels undergo combustion, heat is released as the reaction is an exothermic one. The thermal energy can then be converted to other forms of energy.
+- __Crude oil__ and __natural gas__ are forms of fossil fuel.
+
+## Fractional Distillation of Crude Oil
 
 ![figure1](Fuels_Crude_Oil/figure1.png)
 
-Mixture of crude oil is heated so that __it enters the fractionating column as a *gaseous mixture*__ &rarr; ALL the fractions exist as vapour at the same time and then __separate out by selectively condensing__
+- The different compounds in crude oil have different boiling points.
+- Generally, hydrocarbons with larger relative molecular mass have higher boiling and melting points.
+- As one moves up the fractionating tower, the temperature decreases.
+    * Hydrocarbons boil and rise up the column until they reach the trays that are cool enough for them to condense (into liquids).
+    * The liquids are siphoned off at different levels. Hence, hydrocarbon compounds with the highest boiling points will condense in trays __near the bottom of the fractionating column.__
+        + Note that the liquid siphoned off at each level is called a __fraction__.
+        + Every fraction comprises a __mixture__ of compounds, instead of pure substance.
+- The lightest hydrocarbon (petroleum gas, which has the smallest relative molecular mass), does not condense and is collected at the top of the fractionating tower. It can also be used as a fuel.
 
-__Note:__ During fractional distillation the liquids __DO NOT 'boil' or 'evaporate' one at a time__
-
-> State the relationship between the position of the fractions collected and their respective boiling points.
+> Mixture of crude oil is heated so that __it enters the fractionating column as a *gaseous mixture*__ &rarr; ALL the fractions exist as vapour at the same time and then __separate out by selectively condensing__
+> __Note:__ During fractional distillation the liquids __DO NOT 'boil' or 'evaporate' one at a time__
 
 ## Difference between bioresources and biofuels
 
@@ -225,6 +241,22 @@ Singapore could possibly be a leader in the importing of biofuels and refining t
 - Heavy industry
     * Types of businesses that carry a high capital cost, high barriers to entry and low transportability, e.g. petrochemical industry, oil refining, aerospace and aviation.
 
+## Organisation and Understanding of Biofuel
+
+__Biofuel is a renewable energy source that is derived from plant, algal, or animal biomass.__
+
+__Solid Biofuel:__
+- Wood chips
+
+__Liquid biofuel:__
+- Biodiesel (from vegetable oil)
+- Bioethanol (from sugarcane and corn)
+__Gaseous biofuel__
+- Biogas (from animal waste)
+
+__Bioresources__ are raw materials from human or animal activity that are renewable and biodegradable.
+
+Examples of bioresources are wood chips, vegetable oil, animal fats.
 # Introduction to Organic Chemistry
 
 ## Organic Compounds
@@ -1223,13 +1255,13 @@ As aqueous ammonia dissociates to form ammonium cations and hydroxide anions, th
 
 ### Test for anions
 
-| Anion | Test | Test Result |
-|-|-|-|
-| Carbonate | add dilute acid | effervescence, carbon dioxide produced. |
-| Chloride | Acidify with dilute nitric acid, then add aqueous silver nitrate | white ppt. |
-| Iodide | Acidify with dilute nitric acid, then add aqueous silver nitrate | yellow ppt. |
-| Nitrate | Add aqueous sodium hydroxide, then aluminium foil; warm carefully | ammonia produced |
-| Sulfate | Acidify with dilute nitric acid, then add aqueous barium sulfate | white ppt. |
+| Anion     | Test                                                              | Test Result                             |
+|-----------|-------------------------------------------------------------------|-----------------------------------------|
+| Carbonate | add dilute acid                                                   | effervescence, carbon dioxide produced. |
+| Chloride  | Acidify with dilute nitric acid, then add aqueous silver nitrate  | white ppt.                              |
+| Iodide    | Acidify with dilute nitric acid, then add aqueous silver nitrate  | yellow ppt.                             |
+| Nitrate   | Add aqueous sodium hydroxide, then aluminium foil; warm carefully | ammonia produced                        |
+| Sulfate   | Acidify with dilute nitric acid, then add aqueous barium sulfate  | white ppt.                              |
 
 ### Test for aqueous cations
 
@@ -1245,13 +1277,13 @@ As aqueous ammonia dissociates to form ammonium cations and hydroxide anions, th
 
 ### Test for gases
 
-| Gas | Test and Test Result |
-|-----|----------------------|
-| Ammonia | Turns damp red litmus paper blue |
-| Carbon dioxide | Gives white ppt. with limewater (ppt. dissolves with excess $\ce{CO_2}$ ) | 
-| Chlorine | Bleaches damp litmus paper |
-| Hydrogen | 'pops' with a lighted splint |
-| Oxygen | Relights a glowing splint |
+| Gas            | Test and Test Result                                                         |
+|----------------|------------------------------------------------------------------------------|
+| Ammonia        | Turns damp red litmus paper blue                                             |
+| Carbon dioxide | Gives white ppt. with limewater (ppt. dissolves with excess $\ce{CO_2}$ )    |
+| Chlorine       | Bleaches damp litmus paper                                                   |
+| Hydrogen       | 'pops' with a lighted splint                                                 |
+| Oxygen         | Relights a glowing splint                                                    |
 | Sulfur Dioxide | Turns aqueous acidified potassium manganate (VII) from purple to colourless. |
 
 # Redox Reactions
@@ -1667,6 +1699,56 @@ Electrical energy is constantly supplied to split water to form hydrogen and oxy
 > Write a half equation to show how chlorine is produced from chloride ions.
 
 $$\ce{2Cl^-(aq) -> Cl_2 (g) + 2e^-}$$
+
+# Periodic Table
+
+## Group 1 Elements
+
+- Elements of Group 1 of the Periodic Table are also known as __alkali metals.__
+### Properties
+
+1. Group 1 metals have __lower__ density than other metals
+2. Densities of Group 1 metals __increase__ down the group
+3. Group 1 metals have __lower__ melting points compared to other metals.
+4. Melting points of Group 1 metals __decrease__ down the group
+5. Group 1 metals can be cut by a knife and are __softer__ compared to other metals.
+
+### Chemical Properties
+
+1. Group 1 metals react in presence of __water (moisture from air)__
+2. Group 1 metals react with water to form metal hydroxides and hydrogen gas.
+3. The reactivity of Group 1 metals increase down the group.
+    - Down the group, the number of electron shells increase, resulting in an __increase in the size of atoms.__ The valence electron will be __located further from the positively charged nucleus.__ Less energy is absorbed to overcome the __weaker electrostatic forces of attraction.__
+
+## Group 17 Elements
+
+Elements in Group 17 of the Periodic Table are also known as __halogens__
+
+### Properties
+
+1. Group 17 elements exist as __diatomic__ molecules.
+2. The colour of Group 17 elements gets __more intense__ down the group.
+3. Boiling points of Group 17 elements __increase__ down the group.
+    - Down the group, there is an __increase in the atomic radius of the elements__ due to the increase in number of electron shells.
+    - With a larger atomic radius, the __intermolecular forces of attraction between molecules increases.__
+    - Hence __more energy__ is __absorbed__ to overcome the stronger intermolecular forces between halogen molecules.
+
+### Chemical Properties
+
+1. Halogens react __violently__ with __reactive__ metals to form a __salt__
+    - $\ce{2Na (s) + Cl_2 (g) -> 2NaCl(s)}$
+2. __Halogen displacement according to reactivity__
+3. Halogens react to gain electrons and form __anions__
+4. The reactivity of halogens decreases down Group 17
+
+#### Halogen Displacement According to Reactivity
+
+|          | Potassium Chloride                                                 | Potassium Bromide                                 | Potassium Iodide                |
+|----------|--------------------------------------------------------------------|---------------------------------------------------|---------------------------------|
+| Chlorine |                                                                    | Colourless solution turns reddish-brown           | Colourless solution turns brown |
+| Bromine  | Reddish-brown bromine solution remains reddish-brown. No solution. |                                                   | Colourless solution turns brown |
+| Iodine   | Brown iodine solution remains brown. No solution.                  | Brown iodine solution remains brown. No reaction. |
+
 
 # Reactivity Series
 

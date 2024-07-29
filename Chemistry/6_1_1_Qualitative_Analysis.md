@@ -112,13 +112,13 @@ As aqueous ammonia dissociates to form ammonium cations and hydroxide anions, th
 
 ### Test for anions
 
-| Anion | Test | Test Result |
-|-|-|-|
-| Carbonate | add dilute acid | effervescence, carbon dioxide produced. |
-| Chloride | Acidify with dilute nitric acid, then add aqueous silver nitrate | white ppt. |
-| Iodide | Acidify with dilute nitric acid, then add aqueous silver nitrate | yellow ppt. |
-| Nitrate | Add aqueous sodium hydroxide, then aluminium foil; warm carefully | ammonia produced |
-| Sulfate | Acidify with dilute nitric acid, then add aqueous barium sulfate | white ppt. |
+| Anion     | Test                                                              | Test Result                             |
+|-----------|-------------------------------------------------------------------|-----------------------------------------|
+| Carbonate | add dilute acid                                                   | effervescence, carbon dioxide produced. |
+| Chloride  | Acidify with dilute nitric acid, then add aqueous silver nitrate  | white ppt.                              |
+| Iodide    | Acidify with dilute nitric acid, then add aqueous silver nitrate  | yellow ppt.                             |
+| Nitrate   | Add aqueous sodium hydroxide, then aluminium foil; warm carefully | ammonia produced                        |
+| Sulfate   | Acidify with dilute nitric acid, then add aqueous barium sulfate  | white ppt.                              |
 
 ### Test for aqueous cations
 
@@ -134,12 +134,12 @@ As aqueous ammonia dissociates to form ammonium cations and hydroxide anions, th
 
 ### Test for gases
 
-| Gas | Test and Test Result |
-|-----|----------------------|
-| Ammonia | Turns damp red litmus paper blue |
-| Carbon dioxide | Gives white ppt. with limewater (ppt. dissolves with excess $\ce{CO_2}$ ) | 
-| Chlorine | Bleaches damp litmus paper |
-| Hydrogen | 'pops' with a lighted splint |
-| Oxygen | Relights a glowing splint |
+| Gas            | Test and Test Result                                                         |
+|----------------|------------------------------------------------------------------------------|
+| Ammonia        | Turns damp red litmus paper blue                                             |
+| Carbon dioxide | Gives white ppt. with limewater (ppt. dissolves with excess $\ce{CO_2}$ )    |
+| Chlorine       | Bleaches damp litmus paper                                                   |
+| Hydrogen       | 'pops' with a lighted splint                                                 |
+| Oxygen         | Relights a glowing splint                                                    |
 | Sulfur Dioxide | Turns aqueous acidified potassium manganate (VII) from purple to colourless. |
 

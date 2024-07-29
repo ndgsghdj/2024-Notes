@@ -1,0 +1,35 @@
+# Light
+
+## Reflection
+
+### Laws of Reflection
+
+1. The first law of reflection states that the __incident ray,__ __reflected ray__, and the __normal__ at the point of incidence all lie in the __same plane__.
+2. The second law of reflection states that the __angle of incidence, $i$__ is __equal__ to the __angle of reflection, $r$__.
+
+### Characteristics of an Image Formed by a Plane Mirror
+
+1. It is __laterally inverted.__
+2. It is the __same shape__ and __same size__ as the object
+3. It is __upright__
+4. It is __virtual__
+    - A virtual image __cannot be formed on a screen__
+    - (Real) light rays do not meet at the image position.
+5. Its __image distance__ from the mirror is the __same__ as the __object distance__ from the mirror.
+
+### Types of Reflection
+
+- For __both__ regular and irregular surfaces, the laws of reflection apply to each ray.
+
+#### Regular Reflection
+
+- On __smooth surfaces__, reflection is __regular__.
+- Parallel incident rays have the same angles of incidence and refraction.
+- The __reflected rays__ travel in the same direction.
+
+#### Irregular (Diffuse) Reflection
+
+- On __rough / irregular surfaces, __reflection is __diffused__. (Sometimes, the roughness may not be detectable by the naked eye.)
+- The normal at different points of the surface are not parallel to one another.
+- Thus, even if the incident rays are parallel, they have different angles of incidence and reflection. The __reflected rays__ travel in __different directions__.
+- The overall diffused image is made up of many image points at different locations.
