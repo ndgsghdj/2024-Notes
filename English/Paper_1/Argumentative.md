@@ -1,12 +1,58 @@
 # Argumentative Essay Questions
 
-* [Dos](#dos)
-    * [Planning](#planning)
-* [Requirements](#requirements)
-* [Examples](#examples)
-    * [Question 1: "Technology has given youths more opportunities than ever." Do you agree? Why or why not?](#question-1-technology-has-given-youths-more-opportunities-than-ever-do-you-agree-why-or-why-not)
-        * [Break Down](#break-down)
-        * [Mistakes](#mistakes)
+## Analysing the Question
+
+- __Purpose:__ To understand the points that you must address for your readers to be convinced of your stand.
+- __Effect:__ Convinced by the writer's point of view as identified points are addressed by logical, relevant, credible and well-elaborated ideas supported with ideas.
+
+Read the essay prompt twice before identifying:
+- The TASK words, which define __what you have to do__
+- The TOPIC words, which define __what you should focus on__
+- The CONTEXTUAL words, which define __the limits of your discussion__
+
+These three sets of keywords enable you to stay on task, i.e., organised and relevant.
+
+> "How far would you agree?"
+> Show extent of your agreement; argument must be balanced
+
+## Brainstorming
+
+### Equality of Opportunity vs Equality of Outcome
+
+- Equality of Opportunity
+    * Everybody gets the opportunity
+    * Not everybody might have the same resources
+- Equality of Outcome
+    * Everybody gets the same outcome
+    * Not fair to those who work hard, not meritocratic
+- Equality ≠ Equity
+
+### STEEEP
+
+- Social
+- Technological
+- Economical
+- Environmental
+- Educational
+- Political
+
+### Developing a Paragraph
+
+Consists of:
+- Idea
+    * __Why__ you are taking your stand and shows them the direction of your argument.
+- Analysis
+    * Explain how or why your __idea__ works / Evaluate how your reasoning connects your idea and evidence in a logical manner.
+- Evidence
+    * Concrete examples to __substantiate__ your claim.
+- Elevation
+    * Expand on your evidence and explain how it is true not just on a micro-level but macro level
+- Link
+    * This last sentence connects your whole paragraph __back to your main thesis.__ How does your paragraph support your thesis?
+
+#### A Proposed Framework for Persuasive Paragraphs
+
+![Figure1](./figure1.png)
 
 ## Dos
 
@@ -47,13 +93,6 @@
         + Social networking avenues
     * Advocacy
         + Campaign for social change
-
-__STEEP__
-- Social
-- Technological
-- Economical
-- Environmental
-- Political
 
 __Loaded Words__
 - "more"

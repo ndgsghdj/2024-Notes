@@ -1,0 +1,32 @@
+## The SS (Schutzstaffel)
+
+
+- To maintain control of Germany, Hitler and the Nazis employed the SS
+    - They were highly trained and fiercely loyal to Hitler
+    - Destroyed opposition and carried out racial policies
+    - Had various subdivisions that assisted in maintaining Nazi control
+        - The Sicherheitsdienst (SD)
+            - Monitored political opponents
+            - Countered attempts to infiltrate the Nazi Party
+        - Secret State Police (Geheime Staatspolizei/Gestapo)
+            - Could arrest citizens and send them to concentration camp without trial
+            - Among the most feared organisations in Nazi Germany
+            - By 1939, ~160,000 people were sent to Concentration Camps by the Gestapo
+        - 
+- Such camps were set up to “correct” opponents of the regime
+    - Prisoners…
+        - Were forced to do hard labour
+        - Given limited food
+        - Suffered harsh discipline, beatings and random executions
+    - Opponents consisted of…
+        - Jews
+        - Socialists
+        - Communists
+        - Trade Unionists
+        - Churchmen
+        - Critics of the Nazi Regime, etc.
+- In total, between **1933 and 1939, 1.3 million Germans, 1/2 million Roma, political prisoners, Jehovah’s Witnesses, homosexuals, as well as WW2 POWs** spent at least some time in such camps
+- The concentration camps were not the same as the death camps during WW2
+    - However by the late 1930s, deaths in the camps were increasingly common
+        - Very few came out of the camps alive.
+
