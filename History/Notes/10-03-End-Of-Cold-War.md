@@ -1,6 +1,7 @@
 # End of the Cold War
 
 ## Introduction
+
 - Through the 1950s and 1960s, the Cold War was characterised by a series of crises and confrontations.
     - In that time, the United States and the USSR never quite took that fatal step of fighting a direct war with each other.
     - However, both sides - and indeed the rest of the world - lived in constant fear of this possibility, especially one that involved nuclear weapons
@@ -15,6 +16,7 @@
 - Internal political rivalries in the United States led several presidents, especially Jimmy Carter and Ronald Reagan, to adopt tougher approaches towards the USSR.
 
 ## Rise and Fall of the Detente
+
 - In the late 1960s and early 1970s, US President Richard Nixon and Soviet leader Leonid Brezhnev seemed willing to consider the possibility of having a less hostile relationship.
 - Both men were concerned about the risk of a direct conflict and the financial cost of their rivalry.
     - They wanted to invest more in their own economies and the welfare of their people.
@@ -23,7 +25,9 @@
     - However, some historians view detente motivated more by the superpowers' desire to achieve their aims in less costly and risky ways.
 
 ### Reasons for Detente
+
 #### Leaders' considerations motivating detente
+
 1. Mutual fear of triggering a nuclear war
     - Nixon and Brezhnev were concerned that another crisis like the Cuban Missile Crisis could trigger a nuclear war.
 2. Soviet fear of being isolated
@@ -37,7 +41,9 @@
         - Example: Remaining competitive in the Nuclear Arms Race.
 
 #### Examples of Detente in Action
+
 ##### Summit Meetings
+
 - They began visiting each other's countries and meeting to discuss important issues such as nuclear weapons, conflicts around the world, trade and technology
 - The meetings were known as __summit meetings__, as they involved the leaders of the countries.
 - Examples:
@@ -54,6 +60,7 @@
         - Nixon went to Moscow again to discuss ways to strengthen collaboration in many areas, especially in the economic aspects, as well as for further disarmament and a possible SALT II
 
 #### Ping Pong Diplomacy
+
 - Ping-pong diplomacy refers to the use of table tennis (ping-pong), a sport that China is good in, to improve relations between the United States and China. 
 - On 6 April 1971, the United States and Chinese table tennis teams played against each other at the world championships in Japan.
     - As the Chinese were interested in building better relations with the United States, they invited the US team to visit China.
@@ -61,6 +68,7 @@
     - This was widely perceived as an important step in reduc States. It paved the way for Nixon's visit to China in February 1972 and the eventual establishment of diplomatic relations between the United States and China in 1979.
 
 #### Strategic Arms Limitation Talks (SALT)
+
 - SALT refers to the high-level bilateral conferences and treaties involving the United States and the USSR in the 1970s. 
     - The main concern of these conferences was the limitation of arms in a bid to reduce tensions and the prospects of a military conflict.
 - The first round of SALT began in Helsinki, Finland, on 17 November 1969.

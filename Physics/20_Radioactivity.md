@@ -42,8 +42,8 @@ $$\ce{^{A}_{Z}X}$$
 - __Nuclear decay__ is also known as radioactive decay or radioactivity.
 - Nuclear decay is a random process by which an unstable atomic nucleus loses its energy by emission of electromagnetic radiation or particle(s).
 - The radiation emitted by a radioactive nucleus is *spontaneous* and *random* in direction.
-- Spontaneous decay means that the decay is not affected by environmental changes (e.g. temperature and pressure.)
-- Random decay means that the decay cannot be predicted which particular nucleus will decay next.
+    * Spontaneous decay means that the decay is not affected by environmental changes (e.g. temperature and pressure.)
+    * Random decay means that the decay cannot be predicted which particular nucleus will decay next.
 - A material containing unstable nuclei is considered radioactive.
 - The instability of the atomic nuclei is because the nuclear forces within the nuclei are not enough to bind the nucleons together.
 - Since the direction of the emissions and the time between emissions cannot be predicted, hence it is:
@@ -149,14 +149,14 @@ Natural background radiation accounts for about 80% of the radiation that we are
 
 ### Nuclear Fission
 
-- __Nuclear fissoin__ is a process in which a __parent nucleus__ splits (usually into two __daughter nuclei__) and releases a huge amount of energy.
+- __Nuclear fission__ is a process in which a __parent nucleus__ splits (usually into two __daughter nuclei__) and releases a huge amount of energy.
 - The original parent nucleus becomes nucleus of two different elements.
 - The daughter nuclei may be stable or may decay further
 - There may be several possible fission products and it is important to check that the total number of nucleons and the total relative charge (proton number Z) before and after the reaction are the same.
 
 ### Nuclear Fusion
 
-- __Nuclear fusion__ is a process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amoutn of energy.
+- __Nuclear fusion__ is a process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy.
 - Two atoms join to become another bigger atom of a different element.
 
 ## Energy Changes During Nuclear Processes
@@ -283,3 +283,11 @@ If we are present at a site where there may have been a radioactive incident, we
     - Store radioactive mateirals in a selaed container that will absorb hte radiation from the source (e.g. lead box)
     - This prevents the nuclear radiation from penetrating through the container and escaping into the air
     - Label the container with radioactive sign and keep in a secure place that is not accessible by anyone.
+
+## Summary
+
+| Property           | Alpha          | Beta                 | Gamma                   |
+|--------------------|----------------|----------------------|-------------------------|
+| Ionising Effect    | Highest        | Middle               | Lowest                  |
+| Penetrating Effect | Lowest (Paper) | Middle (Aluminium)   | Highest (Lead concrete) |
+| Representation     | $\ce{^4_2He}$  | $\ce{^0_{-1} \beta}$ | $\ce{_0^0\gamma}$       |

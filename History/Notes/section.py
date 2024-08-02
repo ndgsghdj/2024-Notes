@@ -1,5 +1,6 @@
 import re
 import os
+import sys
 
 def split_markdown_file(input_file):
     # Read the content of the input file
@@ -41,7 +42,7 @@ def split_markdown_file(input_file):
         combined_sections.append(current_section)
 
     # Create an output directory
-    output_dir = 'markdown_sections'
+    output_dir = f"Events/{input_file}".split(".")[0]
     os.makedirs(output_dir, exist_ok=True)
 
     # Write each section to its own Markdown file
@@ -53,4 +54,5 @@ def split_markdown_file(input_file):
     print(f"Markdown file split into {len(combined_sections)} sections.")
 
 # Replace 'your_markdown_file.md' with the path to your Markdown file
-split_markdown_file('history.md')
+
+split_markdown_file(sys.argv[1])

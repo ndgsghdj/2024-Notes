@@ -1,4 +1,5 @@
 # Assertion Skills
+
 ## Key Understanding
 
 1. Unpack the question issue
@@ -106,6 +107,13 @@ The overall health of the American population would increase as illnesses are ad
 3. [ VERY RISKY ] Balanced conclusion on the assertion statement (Why each view is valid. Explain why using provenance and association)
     - Very strictly marked during O Levels
 
+## Bonus Analysis
+
+- Bring in own contextual knowledge
+    * Information that cannot be found in any of the sources but adds on to what the source tells you
+- evaluate reliability, utility and sufficiency of source
+    * HLA: quite difficult to accomplish
+
 ## LORMS
 
 | LORMS | Description                      | Mark |
@@ -148,4 +156,21 @@ The overall health of the American population would increase as illnesses are ad
 - Authority
 - Resources
 
+## How many paragraphs?
+
+- 4, alternated.
+    * A + Bonus, DA, A, DA
+        + Time constraint: A + Bonus, DA
+
+## Example Response
+
+### Agree
+
+- Evidence: "The commitments (of companies) are voluntary..."
+- Extension: Because IT companies do not want to lose user who feel controlled or watched, so they are usually reluctant to collaborate with governments. As a result, it makes it even harder to curb the spread of extremist views.
+- Because promises of IT companies to take down extremist content is optional and not mandatory, so it is very challenging to get IT companies to take full responsibility for the content they allow on their platforms. As a result, it may lead to potential further spread of extremist views.
+
+### Disagree
+
+- Evidence: "The Christchurch Call to Action"
 

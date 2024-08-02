@@ -170,7 +170,7 @@ $$\ce{S(s) + O_2 (g) -> SO_2 (g)}$$
 
 __How is acid rain formed?__
 
-1. $\ce{2SO_2 (g) + 2H_2O (l) -> 2H_2SO_4 (aq)}
+1. $\ce{2SO_2 (g) + 2H_2O (l) -> 2H_2SO_4 (aq)}$
 2. __or__ $\ce{SO_2 + H_2O -> H_2SO_3}$
 3. $\ce{2H_2SO_3 + O_2 -> 2H_2SO_4}$
 
