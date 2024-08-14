@@ -1,8 +1,6 @@
 ## Aftermath and Conclusion
 
-
 ### Communist Victory
-
 
 - With the withdrawal of the United states and the surrender of the South Vietnamese government, North Vietnamese forces declared victory in Saigon, which was subsequently renamed to Ho Chi Minh City.
 - Finally, after 30 years of constant conflict, the struggle for control of Vietnam had been settled.
@@ -15,7 +13,6 @@
         + The communist state aligned itself closely with the USSR, from which it continued to receive aid in order to secure and control the new nation.
 
 ### The Cost to Vietnam
-
 
 - An estimated over two million Vietnamese perished in the war, and another three million were wounded.
 - The use of chemical weapons by the United States also created health problems for subsequent generations of Vietnamese

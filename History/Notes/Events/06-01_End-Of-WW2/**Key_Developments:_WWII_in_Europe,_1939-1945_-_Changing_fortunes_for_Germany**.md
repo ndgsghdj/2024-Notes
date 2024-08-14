@@ -1,6 +1,5 @@
 ## **Key Developments: WWII in Europe, 1939-1945 - Changing fortunes for Germany**
 
-
 - In June 1941, Germany declared war on the USSR.
     - The USSR proved to be a formidable foe, pressuring the Germans from the Eastern Front
         - In military terms, a front refers to the area of conflict between opposing armies engaged in battle.

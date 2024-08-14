@@ -1,6 +1,5 @@
 ## Rearmament and the Move to a War Economy
 
-
 - 1935: Reintroduction of conscription
 - 1936: Four-year plan under Goering
     - Ready Germany for war in 4 years

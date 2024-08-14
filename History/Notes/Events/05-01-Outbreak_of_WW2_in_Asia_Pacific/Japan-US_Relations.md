@@ -1,8 +1,6 @@
 ## Japan-US Relations
 
-
 ### **Different Considerations of the United States about Japan’s Potential Threat**
-
 
 **Sources of tension**
 
@@ -24,7 +22,6 @@
 
 ### **US Economic War on Japan**
 
-
 - The 1937 invasion of China prompted the US government to take a progressively harder line on Japan.
     - President Roosevelt was worried about Japan’s growing ambitions and wanted to keep its expansion in check.
     - Thus, he announced a series of financial and economic measures designed to halt Japan’s aggressive foreign policy.
@@ -42,7 +39,6 @@
 
 ### **Japan’s Dilemma over the United States**
 
-
 - The US demands were completely unacceptable to the Japanese.
     - It would mean Japan could be bullied and intimidated by the United States.
     - But the only alternative seemed to be a conflict with the United States.
@@ -51,7 +47,6 @@
         - Accounts from the time show the different perspectives of leading Japanese politicians and military commanders with regard to engaging the United States in a war.
 
 ### Japan’s Response
-
 
 **Background**
 

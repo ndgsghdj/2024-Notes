@@ -1,15 +1,12 @@
 ## Return of Cold War Tensions
 
-
 ### Introduction
-
 
 - Ronald Reagan, American President from 1981-1989 brought a return to escalated Cold War tensions.
 - Reagan had a straightforward and aggressive approach towards the USSR - essentially, the USSR was wrong, and the United States and its allies were right.
     - In one speech, he referred to the USSR as an "evil empire"
 
 ### US Economic Superiority: Economic Boom in the United States and Western Europe
-
 
 - Reagan also had radical ideas for US domestic policy. Like his close ally British Prime Minister Margaret Thatcher, he believed that people and businesses needed to be liberated from government regulation.
     - They believed people and the free market were better than governments at providing solutions to problems. 
@@ -20,7 +17,6 @@
 - Most historians agree that they contributed to an economic boom in the United States and Western Europe, even if they were not necessarily the main cause.
 
 #### How Big of a Boom Was It?
-
 
 __Comparison of capitalists and communist economies - 1970 to 1990 Gross Domestic Product__
 

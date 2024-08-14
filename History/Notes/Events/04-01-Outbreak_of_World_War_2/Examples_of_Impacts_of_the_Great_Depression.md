@@ -1,6 +1,5 @@
 ### Examples of Impacts of the Great Depression
 
-
 **USA**
 
 - Top priority - sort out US economy

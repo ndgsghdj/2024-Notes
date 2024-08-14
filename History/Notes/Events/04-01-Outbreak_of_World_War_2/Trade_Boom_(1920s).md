@@ -1,6 +1,5 @@
 ### Trade Boom (1920s)
 
-
 World trade boomed in the 1920s.
 
 - This brought prosperity and reduced international tensions

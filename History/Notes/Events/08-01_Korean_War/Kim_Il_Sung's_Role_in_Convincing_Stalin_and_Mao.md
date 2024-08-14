@@ -1,6 +1,5 @@
 ## Kim Il Sung's Role in Convincing Stalin and Mao
 
-
 - Stalin and Mao probably would not have acted in Korea without the actions of Kim.
     * Through determination and skill, Kim gained Stalin and Mao's support.
     * This can be seen from documents that emerged after the collapse of the USSR.

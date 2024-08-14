@@ -1,8 +1,6 @@
 ## Continuing Tensions, 1949-1955
 
-
 ### The USSR and its Atomic Bomb
-
 
 - In August 1949, the USSR successfully exploded its first atomic bomb.
 - This meant that there was atomic parity with the United States
@@ -12,14 +10,12 @@
 
 ### Communist Victory in China
 
-
 - The Chinese Communist Party (CCP) defeated the Guomindang (GMD) in the Chinese Civil War, leading to a communist China in October 1949.
 - While the United States was concerned about the implications of China turning communist, the Soviets were delighted.
 - In February 1950, the two communist powers signed the Sino-Soviet Treaty of Friendship, Alliance and Mutual Assistance.
 - The emergence of a new communist power that strengthened the communist bloc led by the Soviet Union heightened tensions between the United States and the Soviet Union.
 
 ### Outbreak of Korean War
-
 
 - The Korean War was fought between North Korea and South Korea from 1950 to 1953.
     * The war began on 25 June 1950 when North Korea invaded South Korea following years of hostilities between the two countries.
@@ -28,14 +24,12 @@
 
 #### Impact
 
-
 - The Korean War was one of the first instances of a military conflict in the Cold War where both superpowers clashed but did not fight each other directly.
 - The war led to the militarisation of NATO.
 - This in turn led to the creation of the __Warsaw Pact__.
 - The Korean War thus contributed towards the escalation of military tensions in Europe.
 
 ### The Warsaw Pact, 1955
-
 
 - In 1955, West Germany was invited to join NATO, and rearmed.
     * This proved to be too much for the USSR.
@@ -47,11 +41,9 @@
 
 #### Impact - Entrenched Soviet Rule in Eastern Europe
 
-
 - The Warsaw Pact entrenched Soviet rule in Eastern Europe Soviet troops, rather than the respective governments, were the ones that dealt with protests and uprisings in Eastern Europe.
 
 ##### Example
-
 
 - On 4 November 1956, a nation-wide revolt in Hungary was forcefully quelled by Soviet tanks and troops.
     * Thousands were killed and injured, and nearly a quarter-million Hungarians fled its shores.

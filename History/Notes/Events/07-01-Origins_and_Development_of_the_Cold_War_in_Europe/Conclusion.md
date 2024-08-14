@@ -1,6 +1,5 @@
 ## Conclusion
 
-
 - The events of 1947 to 1955 showed that bi-polarity had emerged as the post-war order.
     * The behaviours of the United States and the USSR showed that the two sides found it hard to see eye to eye on any issue as they did not trust each other.
     * Neither could accept that the other had a valid case or was acting responsibly or morally.

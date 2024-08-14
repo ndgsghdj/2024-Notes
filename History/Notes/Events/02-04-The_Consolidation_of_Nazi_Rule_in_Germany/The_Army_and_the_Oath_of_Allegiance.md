@@ -1,6 +1,5 @@
 ## The Army and the Oath of Allegiance
 
-
 - On 2 August 1934, shortly after the Night of Long Knives, Hindenburg died.
 
 **Why was Hindenburg’s Death Important?**

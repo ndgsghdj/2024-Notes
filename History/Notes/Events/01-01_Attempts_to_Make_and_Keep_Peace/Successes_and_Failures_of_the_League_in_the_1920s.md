@@ -15,7 +15,6 @@
 
 #### 1924: The Dawes Plan
 
-
 - Represented by USA, Britain, Italy and France
 - helped Germany's economy
     * Restructured Germany reparations

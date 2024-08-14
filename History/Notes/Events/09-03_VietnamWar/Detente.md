@@ -1,11 +1,9 @@
 ## Detente
 
-
 - These failures influenced the United States into trying to improve its relations with the communist world.
 - The United States sought greater understanding with the USSR in this period which was known as detente ("reduction of tension")
 
 ### Examples
-
 
 - In 1972, the United States and the USSR signed the Anti-Ballistic Military Treaty to reduce nuclear weapons.
     * This was the result of a series of successful bilateral negotiations known as the Strategic Arms Limitation Talks.

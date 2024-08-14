@@ -1,6 +1,5 @@
 ## Invasion of Poland
 
-
 - Hitler’s interest in the Polish Corridor and Danzig was due to…
     - Large German population in the area
     - Desire for a transportation line across the Polish Corridor that separated East Prussia from the rest of Germany

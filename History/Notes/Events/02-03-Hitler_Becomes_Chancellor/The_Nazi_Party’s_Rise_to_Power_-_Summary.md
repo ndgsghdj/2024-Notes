@@ -1,6 +1,5 @@
 ## The Nazi Party’s Rise to Power - Summary
 
-
 There are three key factors leading to the Nazi Party’s rise to power:
 
 1. Weaknesses of the Weimar Republic

@@ -1,6 +1,5 @@
 ## The Night of the Long Knives
 
-
 - By 1934, Hitler began to see the SA, particularly its leader, Ernst Röhm, as a threat
     - Röhm was an ally of Hitler
         - Hitler had asked him to lead SA in 1930

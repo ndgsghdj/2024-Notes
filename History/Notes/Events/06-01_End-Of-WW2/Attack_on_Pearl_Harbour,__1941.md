@@ -1,6 +1,5 @@
 ## Attack on Pearl Harbour,  1941
 
-
 - Japan attacked Pearl Harbour in 1941:
     - It was a devastating attack that ended in near total success for the Japanese
     - US intelligence failed to warn the US forces, and Japanese planes from aircraft carriers achieved almost complete surprise against the American forces.

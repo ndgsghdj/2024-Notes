@@ -1,8 +1,6 @@
 ## Impact of the Banking Crisis of 1927
 
-
 ### Background
-
 
 - In 1926, Emperor Showa / Emperor Hirohito became Emperor
 - Many of Japan’s political, economic and social problems continued and worsened

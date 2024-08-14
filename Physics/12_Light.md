@@ -33,3 +33,12 @@
 - The normal at different points of the surface are not parallel to one another.
 - Thus, even if the incident rays are parallel, they have different angles of incidence and reflection. The __reflected rays__ travel in __different directions__.
 - The overall diffused image is made up of many image points at different locations.
+
+## Refraction
+
+- __Refraction__ is the __bending__ of light as it travels from one optical medium to another with a __different refractive index__.
+- Refraction is caused by a __change in the speed of light__ as light travels from one medium to another medium.
+- __Normal__ is an imaginary straight line that is perpendicular to the surface of the medium.
+- __Angle of incidence ($i$)__ is the __angle __between the __incident ray__ and the __normal__
+- __Angle of refraction ($r$)__ is the __angle__ between the __refracted ray__ and the __normal__
+- The __incident ray__, the __refracted ray__, and the __normal at the point of incidence__ all lies in the __same plane__.

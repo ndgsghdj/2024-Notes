@@ -1,6 +1,5 @@
 ## Battle of Britain
 
-
 - Having defeated France, Hitler turned his attention to Britain.
 - The German air force (Luftwaffe) carried out large-scale attacks against Britain’s RAF to achieve air superiority.
 - This lasted from September 1940 to May 1941, although bombing continued throughout the war.

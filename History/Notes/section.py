@@ -8,7 +8,7 @@ def split_markdown_file(input_file):
         content = file.read()
 
     # Regular expression to find headers (ignoring # headers)
-    header_regex = re.compile(r'^(#{2,6})\s+(.*)', re.MULTILINE)
+    header_regex = re.compile(r'^(#{3,6})\s+(.*)', re.MULTILINE)
 
     # Find all headers in the content
     headers = header_regex.findall(content)
@@ -36,7 +36,7 @@ def split_markdown_file(input_file):
                 current_section = (header, title, text)
                 current_level = level
             else:
-                current_section = (current_section[0], current_section[1], current_section[2] + header + ' ' + sections[i+1] + '\n' + text)
+                current_section = (current_section[0], current_section[1], current_section[2] + header + ' ' + sections[i+1] + text)
 
     if current_section is not None:
         combined_sections.append(current_section)
@@ -49,7 +49,7 @@ def split_markdown_file(input_file):
     for i, (header, title, text) in enumerate(combined_sections):
         output_file = os.path.join(output_dir, f'{title}.md')
         with open(output_file, 'w') as file:
-            file.write(header + ' ' + title.replace('_', ' ') + '\n' + text)
+            file.write(header + ' ' + title.replace('_', ' ') + text)
 
     print(f"Markdown file split into {len(combined_sections)} sections.")
 

@@ -1,6 +1,5 @@
 ## Challenges in the Countryside
 
-
 - Industrial growth led to increased living standards for most Japanese
     - E.g. Access to cheaper and better goods; improved services and infrastructure
     - However, the countryside did not enjoy such benefits as urbanites

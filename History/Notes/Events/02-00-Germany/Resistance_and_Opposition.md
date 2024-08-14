@@ -1,8 +1,6 @@
 ## Resistance and Opposition
 
-
 ### Political Opposition
-
 
 Some socialists and communists remained active who…
 
@@ -11,7 +9,6 @@ Some socialists and communists remained active who…
 - E.g. in 1936, the Gestapo claimed that it broke up 1,000 opposition meetings
 
 ### Military Resistance
-
 
 Some aristocratic and conservative military officers who opposed the Nazi regime
 
@@ -22,7 +19,6 @@ Some aristocratic and conservative military officers who opposed the Nazi regime
     - E.g. the failed July 1944 Bomb Plot
 
 ### Refusal to Conform
-
 
 Some simply refused to accept Nazi ideals
 

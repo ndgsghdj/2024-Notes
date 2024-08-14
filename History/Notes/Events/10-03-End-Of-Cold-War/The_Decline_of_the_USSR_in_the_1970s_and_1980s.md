@@ -1,8 +1,6 @@
 ## The Decline of the USSR in the 1970s and 1980s
 
-
 ### Introduction: Soviet Economy before the 1970s
-
 
 - The Soviet command economy was based on the idea that the state was in the best position to make decisions about the economy.
     * The state decided which areas of the economy should receive investment and be developed.
@@ -16,7 +14,6 @@
         + In the 1950s and 1960s, it saw continued economic growth. The Soviets had guaranteed jobs, good healthcare, a place to live and free education to the university level.
 
 ### Weaknesses of the Soviet Economy
-
 
 - After impressive growth rates in the 1950s and 1960s, the Soviet economy began to slow down.
 - The USSR began to experience a steady, long-term decline in the rate of growth.

@@ -1,6 +1,5 @@
 ## The First Indochina War
 
-
 - When WWII ended in 1945, the French and the Allied forces moved to re-occupy Vietnam and accept the surrender of Japanese soldiers in Vietnam.
 - The French came back wanting to rule Vietnam again, but quickly faced serious resistance.
     * To the Viet Minh, they had not fought the Japanese only to hand power back to the French.
@@ -17,13 +16,11 @@
 
 ### China
 
-
 - Communist China started to support the Viet Minh by:
     * Supplying food, medical supplies and Soviet-made weapons.
     * Mao also supported Ho's forces with military advisors and training.
 
 ### Stalemate and French Defeat
-
 
 - In response to the growing strength of the Viet Minh, the French launched a propaganda campaign warning people that the Viet Minh was simply the agent of communist China and the USSR.
 - The First Indochina War began to escalate, and larger battles were fought.
@@ -33,7 +30,6 @@
     * A French-backed South
 
 ### American Influence
-
 
 - After WWII, it had to make the choice between supporting the colonial ambitions of France, and supporting the largely communist Viet Minh.
 - Hoping to win the sympathies of anti-colonial United States, Ho cleverly kept quiet about wanting a communist Vietnam, and instead portrayed it as a struggle against French colonial rule.
@@ -46,7 +42,6 @@
 - Meanwhile, the French set up a non-communist government in the south of Vietnam, headed by former Emperor Bao Dai to win local support.
 
 ### French Defeat
-
 
 - As the war dragged on to the early 1950s, the French attempted to lure the Viet Minh out into open battle against strongly defended bases where French superiority in firepower could be used.
     * One such French base was __Dien Bien Phu__

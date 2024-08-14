@@ -1,6 +1,5 @@
 ## Collapse of Communism in Eastern Europe
 
-
 - In July 1988, Gorbachev made a speech at the Warsaw Pact summit stating his intention to withdraw large numbers of Soviet troops, tanks and aircraft from other communist states.
     * He reinforced these intentions in a speech to the Polish parliament soon after.
 - In March 1989, Gorbachev made clear to the Warsaw Pact leaders that the Soviet army would leave Eastern Europe and no longer prop their countries up.
@@ -8,7 +7,6 @@
 - In the months that followed, there was a sudden and dramatic collapse of communism across Eastern Europe.
 
 ### Examples
-
 
 1. __May: Hungary__
     - Hungarians began dismantling the barbed wire fence between Hungary and non-communist Austria 

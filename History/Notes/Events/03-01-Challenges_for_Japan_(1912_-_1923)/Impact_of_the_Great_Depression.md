@@ -1,8 +1,6 @@
 ## Impact of the Great Depression
 
-
 ### On Farmers
-
 
 - As exports fell, it led to reduced demand for farmers’ produce
 - On average, incomes of the farmers fell 43% between 1929-1931
@@ -15,7 +13,6 @@
 
 ### On Small Business Owners
 
-
 - Small business owners = owners of shops, restaurants, small factories, etc.
 - They struggled to attract customers
     - E.g. 1930: 2x as many small business closures as an average year.
@@ -25,7 +22,6 @@
 
 ### Unemployment
 
-
 - Caused mass unemployment
     - E.g. Between 1930 and 1932, ~15-20% of Japan’s workforce lost their jobs
 - Difficulty of the unemployed were made harder by Japan’s labour laws
@@ -34,7 +30,6 @@
 
 ### Fear of Communism
 
-
 - With increasing unemployment, workers began attracted to communism
     - However, the Japanese Communist Party was very small
 - Nevertheless, the government feared the threat of communism
@@ -42,7 +37,6 @@
         - It was close to Japan, with Japanese colonies in Korea and Manchuria directly bordering the Communist state
 
 ### Growing Distrust in Government
-
 
 - Due to combined effects of the existing economic problems and the Great Depression, the Japanese believed that the civilian government only cared about the elites (banks, landowners, zaibatsu)
 - A strong feeling of distrust towards the civilian politicians

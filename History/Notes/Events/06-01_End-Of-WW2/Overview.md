@@ -1,6 +1,5 @@
 ## Overview
 
-
 1. July 1937: Japan launched  a full-scale invasion of China, occupying cities such as Shanghai, Wuhan and Nanjing, after the Marco Polo Bridge Incident
 2. September 1940: Occupation of French Indochina by the Japanese after the fall of France. 
 3. December 1941: Japan disabled much of the US fleet at Pearl Harbour when it launched a surprise attack.

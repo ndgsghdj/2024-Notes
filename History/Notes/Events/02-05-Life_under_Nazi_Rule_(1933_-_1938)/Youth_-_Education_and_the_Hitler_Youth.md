@@ -1,6 +1,5 @@
 ## Youth - Education and the Hitler Youth
 
-
 - Hitler was especially keen to win over the minds of young people
 - Education was carefully controlled
     - Teachers were tightly regulated
@@ -42,7 +41,6 @@
         - All of which was backed up by indoctrination in anti-Semitism and Nazi ideology
 
 ### Impact
-
 
 - Inspired in many German youths…
     - Complete loyalty to Hitler and the Nazis

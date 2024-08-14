@@ -1,8 +1,6 @@
 ## Manchuria
 
-
 ### Background
-
 
 - Another discontented group in the military was the Kwantung Army stationed in Manchuria
     * It had been created in 1906 to protect Japan's Manchurian assets.

@@ -1,6 +1,5 @@
 ## The End of Democracy in Germany
 
-
 - Other factors that signaled the end of democracy in Germany
     - Trade unions taken over by the Nazis
     - Press, radio and cinema placed under total Nazi control

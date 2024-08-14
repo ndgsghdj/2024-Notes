@@ -1,10 +1,8 @@
 ## Emergence of Authoritarian Regimes
 
-
 - Partially saw as a result of the Great Depression, the 1930s saw the rise of the Nazis in Germany and the Fascists in Italy
 
 ### Germany
-
 
 - The already weak Germany was destabilised by the Depression
     - Helped the Nazis rise to power
@@ -14,7 +12,6 @@
     - Destroy communism not only in Germany but wherever else it could be found.
 
 ### Italy
-
 
 - Mussolini used the Depression as an excuse to tighten his control over the country
     - Took over banks and industries
@@ -27,12 +24,10 @@
 
 ### Failure of Disarmament
 
-
 - One of the key aims of the League was to encourage countries to reduce their armaments.
 - From as early as the 1920s, the League, along with other prominent state actors, led international talks to promote disarmament among all countries.
 
 ### Washington Naval Conference, 1921
-
 
 - Negotiated outside the League to limit the size and number of warships held by Britain, France, Japan, and the United States.
 - Organized by the United States, which was not a League member.
@@ -45,7 +40,6 @@
 
 ### Locarno Treaties, 1925
 
-
 - Negotiated outside the League among Britain, Germany, France, Italy, Belgium, Poland, and Czechoslovakia.
 - Germany accepted its western borders, including the demilitarization of the Rhineland.
 - Weimar government agreed to settle any disputes with the above-mentioned countries through the League.
@@ -53,12 +47,10 @@
 
 ### League Commission to prepare for World Disarmament Conference, 1926
 
-
 - Britain and France refused to cooperate.
 - Failure.
 
 ### Kellogg-Briand Pact, 1928
-
 
 - Negotiated outside the League among 15 countries, including the United States, France, Germany, Britain, Italy, and Japan.
 - Agreement that force should not be used to settle disputes.
@@ -66,7 +58,6 @@
 - Failure.
 
 ### The World Disarmament Conference, 1932-1934
-
 
 - Overall progress on disarmament was limited in the 1920s.
 - By the early 1930s, increasing tensions in the world made world leaders more focused on and open to an arms race.
@@ -76,7 +67,6 @@
     - Dealing with Germany.
 
 ### Limiting Offensive Weapons
-
 
 - The Conference concentrated on trying to control the destructive power of offensive weapons.
 - Resolutions were produced to prohibit the bombing of civilian populations and chemical warfare, as well as limit the size of artillery and the tonnage of tanks.
@@ -88,7 +78,6 @@
     - For example, Italy demanded to have a navy the same size as that of France.
 
 ### Dealing with Germany
-
 
 - The biggest issue at the Conference was what to do with Germany, which had been in the League for six years.
 - Most countries shared the view that the terms set out in the Treaty of Versailles should be fairer to Germany, particularly the terms limiting the size of Germany's military.
@@ -110,7 +99,6 @@
 
 ### The Conference Reconvenes
 
-
 - Although the Conference had broken up, the League's officials continued to work behind the scenes with Germany and the other powers.
 - In December 1932, the other powers agreed to discuss equality for Germany.
     - **Germany agreed to return to discussions and the Disarmament Conference reconvened in February 1933.**
@@ -123,11 +111,9 @@
 
 ### The Abyssinian Crisis, 1934-1936
 
-
 - In 1935, the Italian dictator, Benito Mussolini, invaded Abyssinia (present-day Ethiopia).
 
 ### Background: Fascist Italy
-
 
 - Italy had been under the control of the Fascists led by Mussolini since 1922.
     - He had long held ambitions to build an Italian empire, to bring back the glory days of the Roman Empire.
@@ -136,7 +122,6 @@
         - **With this alliance, Mussolini became more aggressive with Italy's foreign policies.**
 
 ### The Crisis Begins
-
 
 - In 1896, Italian troops tried to invade Abyssinia but were defeated by a poorly equipped army of tribesmen.
     - Mussolini wanted revenge for this humiliating defeat.
@@ -150,7 +135,6 @@
         - However, they chose not to do so.
 
 ### The Development of the Abyssinian Crisis
-
 
 - In January 1935, Mussolini agreed to negotiate with the League over Abyssinia.
     - At the same time, he began moving his armed forces into Italian bases in Eritrea (in Africa) next to Abyssinia.
@@ -175,7 +159,6 @@
 
 ### The League of Nations' Loss of Credibility
 
-
 - As the year wore on, there was public outcry in Britain against Mussolini.
     - Under pressure, the British Foreign Secretary, Samuel Hoare, made a speech to the League supporting collective security and the rights of small nations.
 - Britain and France were anxious not to upset Mussolini because they saw him as a potential ally against Hitler's Germany.
@@ -190,7 +173,6 @@
 - **Both Hoare and Laval were sacked and the plan was dropped.**
 
 ### Outcome
-
 
 - **The Abyssinian Crisis damaged the global confidence in the League for good.**
     - The leak of the Hoare-Laval Pact details damaged its reputation.
@@ -221,7 +203,6 @@
 
 ### Hitler’s Aims and Beliefs
 
-
 - Nazi Party solutions to Germany’s economic problems:
     - A massive rearmament programme
     - State control of industry and state investment in projects (e.g., road-building)
@@ -233,7 +214,6 @@
     - Enforce militarism (have the military dominate all aspects of the state)
 
 ### Germany’s Increasing Aggression, 1933-1937
-
 
 - 1933: Leaving the League of Nations
 - 1933-1935: Secret rearmament, no longer hidden by 1935
@@ -270,7 +250,6 @@
     - This marked the creation of the Axis Alliance
 
 ### Factors Affecting Britain and France’s Decision-Making in the 1930s
-
 
 - **US isolationism in the 1920s and 1930s**
     - They could not count on US support against Hitler

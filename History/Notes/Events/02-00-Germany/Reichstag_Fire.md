@@ -1,6 +1,5 @@
 ## Reichstag Fire
 
-
 On 27 February 1933, the Reichstag building was burnt down.
 
 - This was in the middle of the campaigning for the 1933 elections
@@ -11,7 +10,6 @@ On 27 February 1933, the Reichstag building was burnt down.
     - He thus persuaded Hindenburg to pass an emergency law, the Decree for the Protection of People and State
 
 ### The Decree for the Protection of People and State
-
 
 - Gave Hitler sweeping powers
 - Removed freedoms promised by the Weimar Republic

@@ -1,6 +1,5 @@
 ## The US Shifts Its Position on Korea
 
-
 - Due to their growing fears about the spread of communism, by April 1950, the US defensive perimeter was effectively expanding.
 - The United States was changing its position to oppose any attempt to spread communism in Asia.
     * This was outlined by the US State Department in a top-secret report known as National Security Council Paper No. 68 (NSC-68)

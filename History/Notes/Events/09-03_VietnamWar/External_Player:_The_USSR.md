@@ -1,6 +1,5 @@
 ## External Player: The USSR
 
-
 - However, in the mid-1960s, the Soviets began to show more interest in Vietnam.
     * Due to the Sino-Soviet Split, the USSR was also in contest with China over leadership of the communist world.
     * Showing support for another communist state which was standing up to the United States was important in asserting the USSR's leadership.

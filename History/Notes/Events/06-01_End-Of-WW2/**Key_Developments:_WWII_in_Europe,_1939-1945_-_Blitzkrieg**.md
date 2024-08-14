@@ -1,6 +1,5 @@
 ## **Key Developments: WWII in Europe, 1939-1945 - Blitzkrieg**
 
-
 - Germany quickly extended its control into Europe in the early phases of the war
     - E.g. Shortly after occupying Poland, Germany invaded and occupied Norway, Finland, Belgium, the Netherlands and France by 1940.
 - This was largely due to its successful use of blitzkrieg, which means “lightning war”.

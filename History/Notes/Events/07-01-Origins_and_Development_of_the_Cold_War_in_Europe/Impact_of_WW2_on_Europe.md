@@ -1,14 +1,11 @@
 ## Impact of WW2 on Europe
 
-
 ### Introduction: At the end of WW2
-
 
 - The United States and the USSR played important roles in defeating Germany in WW2.
 - This cooperation was symbolised by __Elbe Day__.
 
 #### Elbe Day
-
 
 - On 25 April 1945, a US Army patrol moved into Torgau, a small German town on near Berlin on the banks of the River Elbe.
 - Germany was close to defeat in WW2 by then. 
@@ -21,11 +18,9 @@
 
 ### Impact of WW2 on Europe: Europe in Ruins
 
-
 - By the time Germany surrendered in May 1945, much of Europe was a devastated war zone.
 
 #### Examples
-
 
 | Type           | Description                                                                                                                                       |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,14 +35,12 @@ This thus contributed to the outbreak of the cold war.
 
 #### Situation in Eastern Europe
 
-
 - Even more dire
     * Violence between ethnic groups where people killed one another for ethnic reasons.
     * Massive resistance in some areas towards USSR, which had come in and imposed themselves on the region.
 - The situation in Eastern Europe would contribute to Cold War tensions as disagreements between the USA and the USSR over how to deal with these problems will arise.
 
 ### Decline of Western European Powers
-
 
 - In 1939, there were three great European powers:
     * Britain
@@ -61,7 +54,6 @@ In a post-war Europe, Britain, France, and Germany were no longer dominant playe
 - This created a power vacuum that the USA and the USSR moved to fill, creating competition and tension between the two superpowers that contributed to the cold war.
 
 ### Emergence of New Superpowers
-
 
 - In contrast, both the United States and the USSR emerged from the war as superpowers.
 

@@ -1,8 +1,6 @@
 ## Occupation of the Ruhr and Hyperinflation
 
-
 ### The Occupation of the Ruhr
-
 
 - In January 1923, Germany failed to make one of its reparation payments
 - In response, France and Belgium occupied the Ruhr (Germany’s most important and valuable industrial region) and forcibly took what was owed to them in the form of raw materials and goods
@@ -14,7 +12,6 @@
 
 ### Hyperinflation
 
-
 - It affected the middle-class most harshly
 - Gave the Weimar Republic’s opponents another problem to blame on it
     - Many tied it to the Treaty of Versailles
@@ -22,13 +19,11 @@
 
 ### Resolution
 
-
 - Gustav Stresemann (new Chancellor) negotiated the reorganisation of reparations (Dawes Plan, 1924 and Young Plan, 1929)
 - In November 1925, he replaced the German mark with the Rentenmark
 - These measures reduced German debt and ended hyperinflation
 
 ### Why was this the biggest weakness of the Weimar Republic
-
 
 - It undermined support for the Weimar Republic among the German middle-class
 - The hardships it brought about made the Germans lose confidence in the Weimar Republic’s ability to cope with future economic crises

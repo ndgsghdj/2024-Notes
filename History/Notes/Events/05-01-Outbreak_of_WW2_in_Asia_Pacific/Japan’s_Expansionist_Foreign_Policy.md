@@ -1,8 +1,6 @@
 ## Japan’s Expansionist Foreign Policy
 
-
 ### Rise of Japanese Militarism
-
 
 - Tensions between civilian politicians and military leaders worsened as the ultranationalist military commanders (which many of them were) grew in influence thanks to the military victories in the early 1900s
 - Ultranationalist military commanders believed…
@@ -13,7 +11,6 @@
 - By 1936, the military was effectively in control of Japan
 
 ### Japan and the Western Powers
-
 
 - From the Meiji period till the 1930s, Japan had used propaganda to encourage…
     - A strong sense of nationalist pride
@@ -46,7 +43,6 @@
             - Gain resources for a potential fight against the USSR
 
 ### The Great Depression and Japan’s Search for Self-Sufficiency
-
 
 - The Great Depression damaged Japan’s economy due to its heavy reliance on foreign trade, which led to major political implications
     - The terrible unemployment and the other effects of the Depression increased the pressure on the civilian politicians

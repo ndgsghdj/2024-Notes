@@ -1,6 +1,5 @@
 ## Economic Recovery - Germany’s Finances
 
-
 - In 1933…
     - Worst of the Great Depression had passed
     - ~5 million unemployed

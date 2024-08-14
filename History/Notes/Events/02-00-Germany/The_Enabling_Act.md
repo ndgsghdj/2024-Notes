@@ -1,6 +1,5 @@
 ## The Enabling Act
 
-
 Hitler now had a majority
 
 - But not quite the 2/3 majority needed to change the constitution

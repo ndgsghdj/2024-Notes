@@ -1,20 +1,15 @@
 ## Development of the Cold War, 1947-1955
 
-
 ### Introduction
-
 
 - In this period, as their rivalry intensified, the United States and the USSR made a series of moves and countermoves, which increasingly contributed to a bipolar world.
 - Bi-polarity in the Cold War context is often used to describe the division of Europe and the world during the Cold War, where the superpowers established competing blocs and spheres of influences
 
 ### The Truman Doctrine and Containment
 
-
 #### Developments in Turkey and Greece
 
-
 ##### Greece
-
 
 - It was occupied by the Germans in WWII.
 - After the war, it was run by the British until a new government could be set up.
@@ -26,14 +21,12 @@
 
 ##### Turkey
 
-
 - After WW2, Stalin tried to gain influence in Turkey. He wanted to get access to the __Turkish Straits__ so Soviet ships could sail from the Black Sea to the Mediterranean Sea
 - Truman's Concerns:
     * Turkey became an ally of the USSR, Stalin might use it as a stepping stone to spread communist influence in the Middle East.
     * Turkey was important to the United States because of its oil reserves
 
 ##### Back in USA
-
 
 - To gain support in the United States, Truman exaggerated the scale of the threat in Greece and Turkey.
     * American newspapers, which supported Truman's policy of increasing US involvement in international affairs, aided his affairs.
@@ -50,7 +43,6 @@ __Increasing Tensions Between the United States and the USSR__
     * Sure enough, the announcement of the Truman Doctrine alarmed Stalin.
 
 ### The Marshall Plan
-
 
 Truman wanted to use the United States' mighty economic power to prevent the spread of communism.
 - He ordered US Secretary of State, George Marshall, to come up with a plan for economic aid.
@@ -70,7 +62,6 @@ __The Marshall Plan__
 
 #### Impact
 
-
 - In economic terms, it brought a massive boost to Western Europe and brought about speedy recovery for the countries
     * E.g. Britain and France benefited, and so did war-ravaged West Germany, to the extent that West Germany enjoyed an "economic miracle" by the early 1950s.
 - It helped to bind the United States and its allies closer together against communism.
@@ -79,9 +70,7 @@ __The Marshall Plan__
 
 #### Cominform and Comecon
 
-
 ##### Stalin's reaction to the Marshall Plan
-
 
 - Stalin was appalled and angered by the Marshall Plan.
     - It seemed to him that the United States was trying to control Western Europe in the same way that the USSR was controlling Eastern Europe.
@@ -98,7 +87,6 @@ __The Marshall Plan__
 
 ##### Cominform
 
-
 - Set up in 1947, the Cominform published propaganda that would unite the communist states in Europe and ensured that satellite states implement a Soviet-style communism and trade mainly  with other Cominform countries.
 - The members in Cominform included the leaders of the communist parties in Eastern Europe.
 - Stalin used Cominform to tighten his control over the satellite states and ensure that the United States could not gain any political influence in them.
@@ -109,7 +97,6 @@ __The Marshall Plan__
     * There was a bitter, long-lasting feud between Tito and Stalin.
 
 ##### Comecon
-
 
 - Set up in 1949 in response to the Marshall Plan
     * Stalin wanted to make sure the satellite states were free from any kind of control or influence from the United States.

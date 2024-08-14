@@ -1,8 +1,6 @@
 ## Background
 
-
 ### Challenges to Hitler as Chancellor
-
 
 - The Socialist SPD and Communist KPD
     - Were ideologically opposed to Hitler and the Nazis
@@ -16,7 +14,6 @@
     - Held more loyalty and respect among the German people
 
 ### Determination to Establish a Dictatorship
-
 
 - Sought to have the Nazi party gain a 2/3 majority in the Reichstag
     - This would allow him to change the constitution and thus grant him dictatorial powers.

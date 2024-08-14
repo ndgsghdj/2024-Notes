@@ -1,6 +1,5 @@
 ## Living Standards in Nazi Germany
 
-
 - Big businesses benefitted
     - No longer had to worry about trade unions and strikes
     - Companies like Siemens, Mercedes and Volkswagen made massive profits due to government contracts

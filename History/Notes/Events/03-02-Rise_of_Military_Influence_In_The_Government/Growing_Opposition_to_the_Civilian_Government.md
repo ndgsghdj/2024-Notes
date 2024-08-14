@@ -1,6 +1,5 @@
 ## Growing Opposition to the Civilian Government
 
-
 - By the 1930s, a network of ultranationalistic and anti-democratic activists began to form and grow
     * Included junior military oficers
     * Likely had secret backing of senior military commanders
@@ -15,31 +14,25 @@
 
 ### Showa Restoration 
 
-
 Ultranationalist groups that wanted to remove all aspects of democratic government and restore direct rule to the Emperor
 
 #### Sakurakai
-
 
 Secret society established by officers from the Imperial Army. It wanted to set up a militaristic state, via a coup d'etat if necessary.
 
 #### Kodoha (Imperial Way Faction)
 
-
 A faction in the Imperial Japanese Army that wanted to set up a militarist government that promoted expansionistic ideals.
 
 #### Ketsumeidan (League of Blood)
-
 
 It wanted to overthrow the political and economic elites through assassination. It was responsible for the 1932 League of Blood incident.
 
 ### Assassinations
 
-
 These groups began to resort to assassinations to achieve their goals.
 
 #### Assassinations in 1930s Japan
-
 
 __November 1930__
 
@@ -66,7 +59,6 @@ Created a sense of instability
 Things that came to a head in 1932 with the 1932 with the May 15 Incident.
 
 ### May 15 Incident, 1932
-
 
 - On 15 May, 1932, a group of naval officers from the League of Blood and other activists assassinated PM Inukai Tsuyoshi 
     * Inukai had angered extremists by:

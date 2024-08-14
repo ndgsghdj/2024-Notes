@@ -1,6 +1,5 @@
 ## Damage to US Cold War Foreign Policy
 
-
 | Impact of the Vietnam War      | Description                                                                                                                                                                                                                                                                                                                                                                                                     |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | A bankrupt ideology            | The campaign against communism was portrayed by the United States as a moral crusade. However, </br> - The Vietnam War had demonstrated that the ideology of the West was not morally superior. </br> - The atrocities committed by US soldiers and the use of chemical weapons had damaged its reputation                                                                                                |

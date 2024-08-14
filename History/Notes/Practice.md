@@ -1,0 +1,3 @@
+# Glasnost
+
+In 1985, the USSR elected 54-year-old Mikhail Gorbachev as their leader. Gorbachev was aware of the terrible problems the USSR was facing and introduced a series of radical measures in a bid to reform it. One of these measures is the policy of Glasnost. Gorbachev called for open debate on government policy and honesty in facing up to these issues. With openness and reform, Soviet citizens were able to learn about the heinous crimes committed by the Soviet Union in the past. For example, during the Stalinist years, in an exhibition called the "Week of Conscience" held in November 1988.

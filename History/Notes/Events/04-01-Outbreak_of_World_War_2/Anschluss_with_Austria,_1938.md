@@ -1,15 +1,12 @@
 ## Anschluss with Austria, 1938
 
-
 ### Background
-
 
 - Hitler moved to unite the Germans of Austria with Germany
     - This was specifically forbidden by the TOV
     - Many Austrians wanted to be part of Hitler’s new and successful Germany
 
 ### What happened?
-
 
 - In 1938, Hitler encouraged the Austrian Nazi Party to create disorder and agitate for union between Germany and Austria/Anschluss
 - Proceeded to convince Austrian Chancellor, Kurt Schuschnigg, that only German troops could restore order
@@ -21,7 +18,6 @@
         - This was the result of voter intimidation and fraud
 
 ### Consequences
-
 
 - Germany’s size and stature strengthened
     - Absorbed Austria’s population, industry, and natural resources

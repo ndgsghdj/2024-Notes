@@ -1,8 +1,6 @@
 ## Gorbachev's Reforms
 
-
 ### Introduction
-
 
 - In 1985, the USSR elected 54 year old Mikhail Gorbachev to be its leader following the death of Konstantin Chernenko, who led the USSR for less than 14 months after succeeding Yuri Andropov in early 1984.
 - Gorbachev was aware of the terrible problems facing the USSR:
@@ -16,7 +14,6 @@
     * Gorbachev's New Thinking in domestic policy took the form of two key reforms: __Glasnost ("openness")__ and __Perestroika ("restructuring")__.
 
 ### Glasnost
-
 
 - Gorbachev called for open debate on government policy and honesty in facing up to problems.
 - Glasnost was not a detailed set of policies, but it did mean radical change.
@@ -33,7 +30,6 @@
     * Hence, instead of rallying the people behind the reforms of "openness", Glasnost had unintentionally created a platform which unleashed criticism of communist rule that eventually brought about the disintegration of the USSR.
 
 ### Perestroika
-
 
 - Perestroika, also known as "restructuring" in Russian, was the series of political and economic reforms which Glasnost was meant to pave the way for. 
 - Perestroika involved a range of measures.
@@ -53,7 +49,6 @@
 
 ### Reduction on Military Spending
 
-
 - Gorbachev was eager to bring his New Thinking to foreign policy and the role of the military in the USSR. He began to cut spending on defence.
 - After almost 50 years of massive investment and preparations for war with the United States and its allies, the Red Army began to shrink.
     * Gorbachev was realistic enough to recognise that the USSR could not hope to outspend the United States on nuclear weapons and other military spending.
@@ -67,7 +62,6 @@
 
 ### The Reagan-Gorbachev Summits
 
-
 - In 1983, Reagan wasa shocked to discover that the Soviets had almost launched a nuclear strike against the United States.
     * A malfunction in the Soviets' early warning system made them think the United States had fired missiles at the USSR.
     * Reagan was keen to advance nuclear disarmament and to tamp down the strategic arms race.
@@ -78,7 +72,6 @@
     * Reagan had also declared that the no longer thought the USSR was an "evil empire" because of the changes Gorbachev was making.
 
 ### "De-ideologisation" of Soviet Foreign Policy
-
 
 - As part of Gorbachev's commitment towards New Thinking at home and abroad, Soviet foreign policy underwent a change known as "de-ideologisation". 
 - This meant an end to all ideologically driven engagements designed to promote communism globally and change the United States.
@@ -92,7 +85,6 @@
             + He jokingly referred to this policy as the "Sinatra Doctrine."
 
 #### Sinatra Doctrine
-
 
 - This policy was named after the singer Frank Sinatra, who was famous for the song "My Way."
 - In other words, Gorbachev was telling Eastern European states that they could and should go their own way.

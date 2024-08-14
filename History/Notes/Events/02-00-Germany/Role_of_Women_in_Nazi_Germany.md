@@ -1,14 +1,11 @@
 ## Role of Women in Nazi Germany
 
-
 ### In the Weimar Republic, women…
-
 
 - Had the right to vote
 - Equal in areas of marriage and civic matters
 
 ### Hitler’s Beliefs of Women’s Roles
-
 
 Hitler believed a woman’s role is:
 
@@ -33,7 +30,6 @@ To force women to adhere to this belief, the Nazi regime…
 
 ### Reaction of German Women
 
-
 Most women actually agreed with Hitler’s views even though it meant that women’s rights were restricted. E.g.
 
 - Women employed as teachers, lawyers, doctors and civil servants were sacked
@@ -44,7 +40,6 @@ Most women actually agreed with Hitler’s views even though it meant that women
 - No smoking - un-German behaviour
 
 ### Impact
-
 
 - Boost in birth rate and pregnancies outside marriage
 - During WW2…

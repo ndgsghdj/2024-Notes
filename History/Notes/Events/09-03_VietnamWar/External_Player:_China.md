@@ -1,6 +1,5 @@
 ## External Player: China
 
-
 - After the communist victory in China in 1949, Mao saw the United States as his greatest threat.
     * He was especially concerned about a possible invasion by US allies, backed by US forces.
     * Mao believed that if Vietnam became a non-communist country that was allied with the United States, China was potentially vulnerable to attack from South Korea, Vietnam and the GMD government in Taiwan.

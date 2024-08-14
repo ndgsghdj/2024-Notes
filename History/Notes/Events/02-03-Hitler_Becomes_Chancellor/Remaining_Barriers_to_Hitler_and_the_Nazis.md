@@ -1,6 +1,5 @@
 ## Remaining Barriers to Hitler and the Nazis
 
-
 - Between 1929 and 1932, the Nazis’ support and representation in the Reichstag had increased massively
 - However, Presdient Hindenburg remained a barrier to Hitler and the Nazis’ ascent to power
     - He was a national hero and well respected by the people because he was the senior commander in WW1

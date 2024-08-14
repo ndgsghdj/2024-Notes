@@ -1,6 +1,5 @@
 ## Vietnam before WW2
 
-
 - The modern state of Vietnam was part of the French-ruled area known as Indochina
     - It was conquered and controlled by the French Empire progressively between 1862 and 1904.
 - As part of French rule…

@@ -1,6 +1,5 @@
 ## Economic Recovery - Unemployment
 
-
 - Reorganised German finances to facilitate a huge work creation programme
     - The **Reich Labour Service** sent men on public works projects and conservation programmes
     - E.g.

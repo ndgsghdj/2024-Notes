@@ -130,9 +130,9 @@ Check digits are generally designed to capture human transcription errors.
     * Does not have the dedicated constructed permutations and its position-specific powers of the Verhoeff scheme.
 
 
-```python
 # UPC-A Practice
 
+```python
 def check_digit(code: str):
     result = 0
     sum_odd = sum([int(k) for k in code if code.index(k) % 2 == 0])

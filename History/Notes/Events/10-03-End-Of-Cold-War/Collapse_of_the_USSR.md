@@ -1,6 +1,5 @@
 ## Collapse of the USSR
 
-
 - In January 1990, Gorbachev visited the Baltic state of Lithuania, which was part of the USSR.
 - Its leaders made clear that they wanted independence.
 - Gorbachev was, for once, uncompromising. He would not allow this.

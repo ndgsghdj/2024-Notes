@@ -1,6 +1,5 @@
 ## Hitler’s Concerns
 
-
 - Hitler wanted to reclaim the Polish Corridor ([Further reading](https://www.britannica.com/place/Polish-Corridor)) and the city of Danzig
     - Confident that the Polish forces could be defeated
 - Hitler thought Britain and France would not go to war over Poland

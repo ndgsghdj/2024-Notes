@@ -1,10 +1,8 @@
 ## The Geneva Conference, 1954
 
-
 - After the defeat of Dien Bien Phu, the French government and public lost interest in retaining Vietnam as a colony as the cost of the conflict outweighed the benefits.
 
 ### The Geneva Conference
-
 
 - An international conference, attended by France, the Viet Minh, the USSR, China, the United States, and Britain, was held in Geneva, Switzerland.
 - The Viet Minh demanded the recognition of the Democratic Republic of Vietnam and the removal of French troops.

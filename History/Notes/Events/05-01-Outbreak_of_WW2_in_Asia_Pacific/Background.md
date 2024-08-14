@@ -1,8 +1,6 @@
 ## Background
 
-
 ### Asia and the Western Powers
-
 
 - From about 1700, the Western European powers (especially Britain, France, and the Netherlands) embarked on a phase of colonisation in Asia
 - By the mid-1800s…
@@ -11,7 +9,6 @@
     - They and the USA began eyeing China for its untapped economic potential
 
 ### The Modernisation of Japan
-
 
 - To avoid being exploited like other Asian countries, Japan began a programme of modernisation in 1868 known as the Meiji Restoration
     - Introduced a new Meiji Constitution
@@ -43,7 +40,6 @@
 
 ### Japan’s Ambition
 
-
 - Japan wanted to be an equal with the Western powers that had empires
 - As a result, **ultranationalism** began to grow within Japan
     - Examples
@@ -57,7 +53,6 @@
 - As a result of its limitations, many ultranationalists argued that Japan had to expand to get access to the raw materials that a modern nation needed
 
 ### Divide between Civilian Politicians and Military Leaders
-
 
 - From the early to mid-1920s, the more moderate civilian politicians was in control
     - They preferred to advance Japanese interests by peaceful means (e.g. trade and int’l cooperation)

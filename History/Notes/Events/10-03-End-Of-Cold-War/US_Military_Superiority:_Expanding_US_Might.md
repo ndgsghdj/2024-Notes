@@ -1,6 +1,5 @@
 ## US Military Superiority: Expanding US Might
 
-
 - The booming economy gave Reagan and his allies the confidence and the money to champion US values of capitalism and democracy.
 - Reagan believed in taking a tough line with the USSR wherever possible and increasing US defence spending.
 - Examples

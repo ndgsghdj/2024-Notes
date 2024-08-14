@@ -1,8 +1,6 @@
 ## **The Attack on Pearl Harbor**
 
-
 ### Rationale
-
 
 - Even with the increased output of Manchuria, Korea and all its other territories, Japan could not challenge the power of the United States outright.
 - In September 1940, Japan signed the Tripartite Pact, which made it an ally of Germany and Italy.
@@ -14,11 +12,9 @@
 
 ### The Attack
 
-
 On the morning of 7 December 1941, some 300 planes took off from Japanese aircraft carriers to launch their attack on Pearl Harbor.
 
 ### Aftermath
-
 
 - While the attack caused widespread destruction, Japan failed to destroy…
     - American repair shops

@@ -1,8 +1,6 @@
 ## Outbreak of the Vietnam War
 
-
 ### Gulf of Tonkin Incident
-
 
 - By August 1964, North and South Vietnam were already in a de facto state of conflict.
 - On __2 August 1964, __North Vietnamese patrol boats attacked the USS Maddox, a US destroyer, in the Gulf of Tonkin.

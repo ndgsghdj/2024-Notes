@@ -1,6 +1,5 @@
 ## Introduction
 
-
 - Through the 1950s and 1960s, the Cold War was characterised by a series of crises and confrontations.
     - In that time, the United States and the USSR never quite took that fatal step of fighting a direct war with each other.
     - However, both sides - and indeed the rest of the world - lived in constant fear of this possibility, especially one that involved nuclear weapons

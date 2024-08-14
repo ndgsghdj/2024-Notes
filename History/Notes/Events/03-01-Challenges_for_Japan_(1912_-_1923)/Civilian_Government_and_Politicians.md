@@ -1,6 +1,5 @@
 ## Civilian Government and Politicians
 
-
 - Divided by emergence of political parties
     - E.g. Seiyukai and Minseito were political rivals which wrestled for power and influence in the government.
 - Division between the parties made it difficult for the PM to gain support for their decisions
@@ -13,11 +12,9 @@ Although the Japanese economy made remarkable advances in the early 1900s, it re
 
 ### World War 1, 1914 - 1918
 
-
 Without competition from European countries involved in the war, Japanese exports benefitted (e.g. Overseas sales of Japanese cotton cloth rose by 185%)
 
 ### Inflation and Unemployment in Japan in the 1920s
-
 
 However, by the early 1920s…
 

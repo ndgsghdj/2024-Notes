@@ -1,8 +1,6 @@
 ## The Division of Korea into North and South
 
-
 ### Aftermath of WW2
-
 
 - Following the end of WW2, in towns and villages, locals formed political committees to maintain order and to replace the Japanese government and the Korean officials who had served the Japanese.
 - It would have been very difficult to unite the country.
@@ -12,7 +10,6 @@
     * In 1947, the United Nations called for free elections to be held in Korea to establish a government for a unified Korea.
 
 ### North Korea and the USSR
-
 
 - In the North, the Soviets were happy to allow __Kim Il Sung__ to establish control through the political committees and his loyal followers.
     * He had been trained in the USSR and had fought alongside the Chinese communists against the Japanese.
@@ -26,7 +23,6 @@
 
 ### South Korea and the United States
 
-
 - In May 1948, 80 percent of the eligible population took part in a national election in the area south of the 38th parallel.
     * The United States backed __Syngman Rhee__ for the position of president as Rhee had campaigned for Korean independence during the Japanese Occupation.
     * However, he had not lived in Korea for some time. The United states favoured Rhee primarily because he was deeply anti-communist, a fluent English speaker and a graduate from prestigious universities in the United States.
@@ -38,12 +34,10 @@
 
 ### Tensions between North Korea and South Korea
 
-
 - From 1945 to 1948, relations between North and South Korea were hostile but relatively quiet.
     * Kim and Rhee disliked each other intensely.
 
 #### Kim
-
 
 - Tried several times to persuade Stalin to support an attempt to reunify Korea.
 - However, Stalin took little interest.
@@ -52,14 +46,12 @@
 
 #### Rhee
 
-
 - Was also eager to force the issue of Korean reunification.
 - While Rhee had the backing of the united States.
     * Truman refused to provide South Korea with large supplies of weapons for fear that they would be used to attack North Korea.
 - Even so, he initiated border clashes to capture territories in the North.
 
 #### Skirmishes in the lead-up to the Korean War
-
 
 - In July 1949, South Korean warships attacked North Korea's military installations near Taedong River, sinking most of North Korea's west coast fleet.
 - From 1949 onwards, fierce fighting broke out frequently around the 38th parallel.
@@ -69,7 +61,6 @@
     * A civil war between North and South to reunify the country was a very real possibility.
 
 ### US and Soviet Disinterest in Korea
-
 
 - At that time, it seemed unlikely that Korea would play a significant role in the development of the Cold War.
     * The Americans had decided that Korea lay outside their "defensive perimeter" in the Asia-Pacific

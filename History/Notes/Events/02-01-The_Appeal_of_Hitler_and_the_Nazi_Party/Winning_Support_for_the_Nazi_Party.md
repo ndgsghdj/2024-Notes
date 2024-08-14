@@ -1,6 +1,5 @@
 ## Winning Support for the Nazi Party
 
-
 Hitler was charming and persuasive
 
 - He was a powerful and confident speaker

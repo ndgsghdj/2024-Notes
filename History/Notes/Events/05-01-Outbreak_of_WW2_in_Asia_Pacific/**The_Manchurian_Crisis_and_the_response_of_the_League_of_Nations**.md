@@ -1,8 +1,6 @@
 ## **The Manchurian Crisis and the response of the League of Nations**
 
-
 ### Japanese Public Opinion
-
 
 - With the changes in domestic politics, worsening relations with the Western powers and the economic problems, Japan began to see building an empire as a means to protect their economy.
     - For the great majority of these commanders and politicians, the obvious place for Japan to expand was through the conquest of China’s territory, particularly in Manchuria.
@@ -15,7 +13,6 @@
 
 ### Instability in China
 
-
 - This view of extending control to Manchuria was strengthened by what was happening in China.
     - At that point in time, China was ruled by the Chinese Nationalist Party, also known as Guomindang (GMD, also known as Kuomintang) under Chiang Kai-shek.
         - Chiang faced serious threats to his rule. On the borders with Manchuria, many local warlords did not fully accept his authority.
@@ -24,7 +21,6 @@
         - China’s troubles and instability seemed to provide the perfect opportunity for Japan
 
 ### Conquest of Manchuria
-
 
 - These views became reality in **September 1931**. Ishiwara’s (a ultranationalist colonel in the Kwantung Army, who believed Japan should rule Manchuria) forces blew up part of a railway track at Mukden (known as the Mukden Incident).
 - Japan blamed the explosion on the Chinese government and used it as an excuse to take over Manchuria.
@@ -36,7 +32,6 @@
         - This signalled that the army, not the government, was assuming control of Japanese foreign policy.
 
 ### Response of the League of Nations
-
 
 - When Japan invaded Manchuria, China appealed to the League of Nations for international support.
     - In October 1931, the League’s Council passed a resolution by 13 votes to 1 calling on Japan to withdraw its troops.
@@ -59,7 +54,6 @@
     - The USSR even sold a railway line in northern Manchuria to the Japanese.
 
 ### Consequences of the Manchurian Crisis
-
 
 **International Relations**
 

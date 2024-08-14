@@ -1,6 +1,5 @@
 ## Background - Korea in the Early 20th Century
 
-
 - For much of its history, the Korean Peninsula was controlled by neighbouring countries like China and Japan, partly because of its strategic position in East Asia.
     * In the late 19th and early 20th centuries, aggressively extending its control over the region.
         + In 1905, Korea became a protectorate of Japan
@@ -16,7 +15,6 @@
         + With differing aims and ambitions for an independent Korea, the different groups were deeply divided.
 
 ### Example
-
 
 - One resistance group, led by Kim il Sung, was particularly important. Kim was a deeply committed communist who had been trained in political and military thinking in the USSR. His forces fought a tenacious guerilla war against the Japanese until they were forced to flee to communist-controlled areas in China in 1939.
     * This struggle proved to be important later as it helped Kim gain the support of the North Koreans after the war.

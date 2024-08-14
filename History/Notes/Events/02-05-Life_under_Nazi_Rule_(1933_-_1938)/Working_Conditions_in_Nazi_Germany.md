@@ -1,6 +1,5 @@
 ## Working Conditions in Nazi Germany
 
-
 Lower unemployment brought about by Nazi policies
 
 - Boosted their support among workers
@@ -25,7 +24,6 @@ Lower unemployment brought about by Nazi policies
         - But no worker ever received one by 1939 when the war ended all car production
 
 ### Impact
-
 
 Workers lost…
 

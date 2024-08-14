@@ -1,6 +1,5 @@
 ## Hitler’s Rise to Chancellor
 
-
 In June 1932, Hindenburg appoints Franz von Papen as chancellor
 
 - Hindenburg had wanted a chancellor who had the support of the Reichstag

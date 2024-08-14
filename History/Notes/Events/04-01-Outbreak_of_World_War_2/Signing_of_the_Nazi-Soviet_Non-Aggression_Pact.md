@@ -1,6 +1,5 @@
 ## Signing of the Nazi-Soviet Non-Aggression Pact
 
-
 - Stalin continued to attempt to negotiate an alliance with Britain and France in the first half of 1939
 - However, at the same time, Stalin was also negotiating an alliance with Germany
 - **On 23 August 1939, the USSR and Germany signed the Nazi-Soviet Pact**

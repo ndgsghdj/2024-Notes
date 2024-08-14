@@ -1,6 +1,5 @@
 ## Gleichschaltung (Coordination)
 
-
 - A response to how the civil service, judiciary, the army and other groups had undermined the Weimar Republic
 - To prevent this and consolidate his power, Hitler introduced the Gleichschaltung (Coordination) process
     - This involved bringing all aspects of the Nazi under Nazi control

@@ -1,6 +1,5 @@
 ## The Rise in Communism
 
-
 Many workers began to feel that the Weimar Republic was not managing the economic crisis well and failed them
 
 - The political parties

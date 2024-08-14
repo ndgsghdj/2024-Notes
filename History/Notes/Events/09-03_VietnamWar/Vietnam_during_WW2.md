@@ -1,6 +1,5 @@
 ## Vietnam during WW2
 
-
 - After WWII broke out in Europe in 1939, France was defeated by Germany a year later in 1940.
 - Japan, which was an ally of Germany, wanted access to French Indochina for its resources and strategic position.
     - As a result, Japanese forces invaded the northern region of French Indochina in September 1940 before coming to an armistice and agreement with the French Indochina colonial government.

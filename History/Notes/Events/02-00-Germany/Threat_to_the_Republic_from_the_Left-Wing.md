@@ -1,8 +1,6 @@
 ## Threat to the Republic from the Left-Wing
 
-
 ### The Spartacist Uprising, 1919
-
 
 One such group were the Spartacists: communists with similar beliefs as the Russian bolsheviks.
 

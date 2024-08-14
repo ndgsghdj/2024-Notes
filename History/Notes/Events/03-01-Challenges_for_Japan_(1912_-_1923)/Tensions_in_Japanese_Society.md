@@ -1,10 +1,8 @@
 ## Tensions in Japanese Society
 
-
 - The rapid economic and social changes of the Meiji period caused a number of societal divisions
 
 ### Rich-poor divide
-
 
 - Government support of the zaibatsu
     - Built cooperation and trust between the government and big businesses
@@ -12,14 +10,12 @@
 
 ### Rural-urban divide
 
-
 - Richest landlords did not work on the farms and made up only ~2-3% of the population, but lived on rent from tenant farmers
 - Landlords lived in luxury in sharp contrast to the poverty of the tenant farmers
 - Unhappiness of the poor led to uprisings such as the **Rice Riots of 1918**
     - These riots were led by angry workers and triggered by sudden increase in commodities, especially rice.
 
 ### Changing role of women
-
 
 Traditionalists who worried about Japan losing its identity, one common complaint was that young women were abandoning their traditional roles.
 

@@ -1,6 +1,5 @@
 ## Persecution of Minorities
 
-
 Anyone not belonging to the Aryan race were persecuted
 
 - They persecuted members of other races and minority groups (e.g. Roma/gypsies), homosexuals and the mentally ill

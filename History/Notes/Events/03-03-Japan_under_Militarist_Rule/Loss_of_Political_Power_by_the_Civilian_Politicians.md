@@ -1,6 +1,5 @@
 ## Loss of Political Power by the Civilian Politicians
 
-
 - The growing influence of the military caused the civilian politicians’ power to diminish. The Japanese people supported the military officers and their expansionist plans.
 - In July 1937, Prince Konoe Fuminaro was appointed as Prime Minister. In the same month that he was appointed, the military led an invasion into China.
 - In October 1937, he also permitted the formation of a Cabinet Planning Office made up of mostly military officers. Japan’s finances was now controlled by a military rather than a civilian politician.

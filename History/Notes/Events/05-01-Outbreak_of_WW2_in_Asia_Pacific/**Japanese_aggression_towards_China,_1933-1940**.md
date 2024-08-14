@@ -1,8 +1,6 @@
 ## **Japanese aggression towards China, 1933-1940**
 
-
 ### **Extension of Japanese Influence in the Region**
-
 
 - Encouraged by the success of Manchuria, Japan soon sought to extend its power and influence in the region.
 - The death of GMD founder Sun Yat-sen in 1925 escalated the conflict between the GMD and the CCP.
@@ -24,7 +22,6 @@
 8. **1939-1940:** Stalemate sets in
 
 ### **The Impact of World War II in Europe on Asia and the Pacific**
-
 
 - In 1939, war broke out in Europe as well in response to the German invasion of Poland.
     - **Britain, France and the Netherlands all had vast territories in Southeast Asia but were not able to defend them while fighting Germany.**

@@ -1,6 +1,5 @@
 ## Hitler becomes Leader of the Nazi Party
 
-
 In July 1921, Hitler overthrew Drexler and becomes leader of the Nazi party
 
 - Appointed allies to key roles

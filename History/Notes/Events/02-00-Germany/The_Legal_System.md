@@ -1,6 +1,5 @@
 ## The Legal System
 
-
 - Judges
     - Had to belong to the Nazi-approved Nationalist Socialist League for the Maintenance of the Law
         - Created self-imposed control

@@ -1,6 +1,5 @@
 ## Threat to the Republic from the Right Wing (e.g. the Kapp Putsch, 1920)
 
-
 The German right-wing during the Weimar Republic consisted of people from all classes of society such as:
 
 - Poor workers and farmers

@@ -1,6 +1,5 @@
 ## Conclusion
 
-
 - By the mid 1930s, Japan had come under an authoritarian rule with the military completely in control of the government.
     - It had tightened its control over Japan’s politics, economy and society.
     - National pride was championed through military successes and education.

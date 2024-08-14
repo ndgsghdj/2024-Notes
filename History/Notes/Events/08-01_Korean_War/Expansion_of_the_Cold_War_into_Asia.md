@@ -1,15 +1,12 @@
 ## Expansion of the Cold War into Asia
 
-
 ### Expansion of Communism in China
-
 
 - Following the end of WWII, the Chinese Civil War resumed as Mao Zedong's Chinese Communist Party (CCP) fought against Chiang Kai-Shek's GMD for control over China.
     * The CCP was victorious and China became a communist state in October 1949.
     * The United States was concerned about the implications of China turning communist.
 
 #### Reasons for American Concerns
-
 
 - It had made significant investments in the GMD
     * E.g. Between 1946 and 1949, it pumped US$2 billion in aid into China largely to the GMD.

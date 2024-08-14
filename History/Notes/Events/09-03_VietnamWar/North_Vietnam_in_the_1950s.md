@@ -1,6 +1,5 @@
 ## North Vietnam in the 1950s
 
-
 - __Immediately after the Geneva Conference__, Ho worked quickly to consoildate his hold on North Vietnam.
     * In the early months of the regime, thousands fled from North Vietnam in fear of communist rule.
     * At the same time, many Viet Minh soldiers and supporters in South Vietnam fled northwards.

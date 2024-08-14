@@ -1,19 +1,15 @@
 ## Background
 
-
 ### Civilian Politicians
-
 
 - By the 1920s, the civilian politicians lost their strong position within the government as they lost the trust of the people due to their failure to deal with challenges in the 1920s.
 
 ### Military
 
-
 - Its victories allowed it to prominence and popularity
 - This prompted them to act on its own disregarding the civilian politicians in the government.
 
 ### Discontent from the Military
-
 
 - In the 1920s, there was a growing feeling among some Japanese military officers that political parties and the zaibatsu were corrupt
     * They believed they were not interested in serving Japan but themselves.
@@ -23,7 +19,6 @@
         + Felt that the politicians favored the zaibatsu rather than the military.
 
 ### Naval Restrictions
-
 
 - Washington Naval Conference, 1922
     * In 1922, Japan signed agreements with Britain, France and the USA at the Washington Naval Conference to limit the total number of warships built.

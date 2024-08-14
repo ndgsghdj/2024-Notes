@@ -1,6 +1,5 @@
 ## The SS (Schutzstaffel)
 
-
 - To maintain control of Germany, Hitler and the Nazis employed the SS
     - They were highly trained and fiercely loyal to Hitler
     - Destroyed opposition and carried out racial policies

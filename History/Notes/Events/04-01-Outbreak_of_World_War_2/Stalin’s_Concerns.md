@@ -1,6 +1,5 @@
 ## Stalin’s Concerns
 
-
 - Stalin's concerns over Hitler had grown over the 1930s.
 - The USSR took steps to balance out Hitler’s growing power:
     - In 1934, they joined the League of Nations (LON).

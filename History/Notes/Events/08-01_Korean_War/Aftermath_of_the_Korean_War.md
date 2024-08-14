@@ -1,8 +1,6 @@
 ## Aftermath of the Korean War
 
-
 ### Aftermath
-
 
 - The war was devastating for Korea and its people
     * Examples
@@ -21,12 +19,10 @@
 
 ### Impact of the Korean War on Korea
 
-
 - The armistice in July 1953 =/= official peace treaty
 - There were two main issues influencing the talks
 
 #### Prisoner of Wars
-
 
 - 90,000 South Korean POWs and 8,000 UN POWs
 - 100,000 North Korean POWs
@@ -39,7 +35,6 @@
 
 #### The Border Between North and South Korea
 
-
 - The communists wanted the division of Korea to be at the 38th parallel.
 - The United Nations and South Korea disagreed.
     * They wanted the division to be along the battle lines established between the two sides.
@@ -50,12 +45,10 @@
 
 ### Impact of the Korean War on US Foreign Policy
 
-
 - The Korean War was the 1st military conflict in the Cold War
     * Before this, Cold War confrontations had been fought through political methods, the media and propaganda (including the Berlin Blockade)
 
 #### Proxy Wars
-
 
 - Korea was the __first proxy war__
 - Proxy wars are conflicts when the two superpowers - the United States and the USSR - but where they do not fight directly against each other.
@@ -66,7 +59,6 @@
 - This marked the beginnings of a new type of competition between the superpowers that served to escalate tensions.
 
 #### Creation of Alliances and Escalation of Tensions
-
 
 - The Korean War prompted the United States to become freshly determined to pursue its policy of containment in Asia.
     * South Korea, Japan and Taiwan became central to US policy in Asia.
@@ -85,7 +77,6 @@
 
 #### Increase in Military Power
 
-
 - As a result of the Korean War, the United States intensified its military power to enforce its policy of containment by military means, if necessary.
 - __Increase in American Military Power__
     * __Before 1950, __the United States had been fighting the Cold War primarily through political activity and the media and thus was scaling down its forces.
@@ -97,7 +88,6 @@
 - The increase of American military power alarmed the USSR, escalating tensions.
 
 ### Conclusion
-
 
 - The Korean War was one of the most destructive conflicts in the world
     * Millions of casualties and many major cities were destroyed.

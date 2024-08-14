@@ -1,6 +1,5 @@
 ## Stalin Shifts His Position on Korea
 
-
 - Before 1950, Stalin was not interested in helping Kim.
 - However, this changed as both superpowers sought to expand their global influence, especially in the Asia-Pacific region.
     * Having control and influence over Korea would provide the USSR with a platform to spread communist ideology and also to counterbalance the United States' influence in Japan.

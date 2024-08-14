@@ -1,6 +1,5 @@
 ## External Player: The USA
 
-
 - The United States was convinced that China and the USSR was planning to spread communism to countries in Asia.
     * Due to __domino theory__, it believed that if Vietnam fell under the control of China and the USSR, other countries would also fall under Communism like a row of dominoes.
 The United States was so determined to resist communism that it would support anti-communist governments, including Diem's.

@@ -1,6 +1,5 @@
 ## Decline of Detente
 
-
 - In 1977, after the USSR's invasion of Afghanistan in 1979, then US President Jimmy Carter in 1977 abandoned detente and took a much more aggressive approach towards the USSR.
 - At the same time, Brezhnev began to think the USSR was not gaining much from detente either.
 - Both sides began to criticise each other's actions again and accused the other of breaking their promises.

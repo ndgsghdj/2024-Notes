@@ -1,6 +1,5 @@
 ## **Fall of France**
 
-
 - In May 1940, the Germans attacked France.
     - The French had a larger army and air force
     - They were further supported by the British Expeditionary Force and Royal Air Force (RAF).

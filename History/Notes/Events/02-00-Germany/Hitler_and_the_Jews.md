@@ -1,6 +1,5 @@
 ## Hitler and the Jews
 
-
 Hitler hated the Jews
 
 - In his years of poverty in Vienna before WW1, he obsessed over the fact that Jews ran many of the most successful businesses

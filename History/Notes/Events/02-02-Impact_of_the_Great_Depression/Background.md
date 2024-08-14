@@ -1,6 +1,5 @@
 ## Background
 
-
 - In 1923 - 1929, the Weimar Republic enjoyed a golden age
 - However, in October 1929, the US economy crashed. As a result..
     - US bankers and businessmen asked German banks to repay their loans and removed their investments in Germany

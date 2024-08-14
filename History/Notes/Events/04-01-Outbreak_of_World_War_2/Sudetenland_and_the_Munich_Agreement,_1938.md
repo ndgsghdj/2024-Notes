@@ -1,8 +1,6 @@
 ## Sudetenland and the Munich Agreement, 1938
 
-
 ### Background
-
 
 - Czechoslovakia’s leader, Edvard Beneš, was horrified by the Anschluss
     - Feared his country would be Hitler’s next target
@@ -15,7 +13,6 @@
     - Threatened to invade Czechoslovakia if it did not hand over Sudetenland
 
 ### Munich Agreement, September 1938
-
 
 - Beneš was prepared to fight the Germans
     - He had a modern army
@@ -51,7 +48,6 @@
     - The next morning, Chamberlain and Hitler published a joint declaration in which Chamberlain claimed that the Agreement would bring “peace for our time”
 
 ### Reactions
-
 
 - +ve
     - Media (newspapers, newsreels, etc.) presented the Agreement prevented war

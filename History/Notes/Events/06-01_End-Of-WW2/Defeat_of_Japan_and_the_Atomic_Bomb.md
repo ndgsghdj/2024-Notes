@@ -1,8 +1,6 @@
 ## Defeat of Japan and the Atomic Bomb
 
-
 ### Island-hopping
-
 
 - After the battle of Midway, the United States and its allies gradually drove the Japanese back across the Pacific from the territories they had taken. They used a strategy known as **island-hopping**
     - The US island-hopping strategy led to several key victories between 1942 and 1945, such as in the battle to regain the Philippines, which continued to weaken the Japanese military
@@ -16,7 +14,6 @@
     - Although Japan was being pushed back, it came at great cost for the Allies
 
 ### The Atomic Bombings, August 1945
-
 
 - By May 1945, the United States was confident of winning the war eventually.
     - Nonetheless, after Roosevelt’s death in April 1945, the new president, Harry Truman, was faced with the prospect of a year or more of heavy casualties. US troops would have to beat back the Japanese island by island, and then invade Japan itself.

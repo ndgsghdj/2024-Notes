@@ -1,6 +1,5 @@
 ## Conclusion
 
-
 - The Vietnam War's importance and influence can still be felt today.
     * Whenever the United States became involved in a situation outside its borders, there was a constant fear of "another Vietnam"
     * When the USSR invaded Afghanistan in 1979, many commented that this was the USSR's version of Vietnam.

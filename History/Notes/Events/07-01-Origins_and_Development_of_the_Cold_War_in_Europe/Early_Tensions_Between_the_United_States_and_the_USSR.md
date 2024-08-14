@@ -1,8 +1,6 @@
 ## Early Tensions Between the United States and the USSR
 
-
 ### Early Tensions: Competing Ideologies
-
 
 Considering the history between the two countries and differences in ideology, it was surprising that there was even a wartime alliance between the United States and the USSR.
 
@@ -17,7 +15,6 @@ On the other hand, the USSR believed that the United States was acting selfishly
 #### Differences in Ideology
 
 
-
 | Beliefs                         | USA                                                                                                                                                                                                                                                                                                                                                                                          | USSR                                                                                                                                                                                                                                                                                                                                                                |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Democracy                       | - To spread democracy and ensure that individuals have the right to choose their own government </br> - To create a world where individual liberty in areas such as freedom of speech, religious freedom, freedom of assembly and the right to own property are protected. </br> - To sustain the capitalist world economy and prevent other countries from being communist. | - To destroy capitalism through class struggles and communist revolutions </br> - To create an ideal and utopian world where all people are equal, with all property and work shared equally among the people.                                                                                                                                                |
@@ -29,11 +26,9 @@ Such perceptions resulted in mistrust and tensions between them, as well as comp
 
 ### Early Tensions: History of Suspicion and Mistrust before 1939
 
-
 The United States and the USSR had a history of suspicion and mistrust going back to 1917, when Russia became a communist country.
 
 #### Examples
-
 
 - The USSR's vision called for worldwide communist revolutions to overthrow capitalist states. The United States and Western European democratic countries were alarmed, fearing that communism would spread in their countries and cause similar revolutions.
 - At the Paris Peace Conference in 1919, it was decided that Germany would not be broken up. The British and Americans were worried about the possibility of Russia becoming a communist country. They thought Germany could be a barrier to communism, highlighting their suspicion towards Russia.
@@ -47,13 +42,11 @@ This history of suspicion and mistrust between the USA and the USSR since the la
 
 ### Early Tensions: "Marriage of Convenience"
 
-
 - Given the history of suspicion between the United States and the USSR, most historians believe the wartime alliance between Britain, the United States and the USSR was a "marriage of convenience".
 - Britain, the United States and the USSR had formed their wartime alliance to win WWII by joining forces against a common enemy, Germany.
 - However, tensions grew within the alliance even during the war
 
 #### Example
-
 
 - By August 1942, the Soviet troops had been fighting against a German invasion for more than a year. One of Stalin's major concerns was the immense pressure that his troops faced because of Germany's continuous attacks. He urged the United States and Britain to quickly open a second front in France to relieve this pressure and end the war as quickly as possible.
     * However, the United States and Britain only agreed to open the second front through Operation Overlord in 1944, when they met a year earlier in 1943 during the Tehran Conference in Iran.

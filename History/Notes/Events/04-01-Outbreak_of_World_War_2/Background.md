@@ -1,6 +1,5 @@
 ## Background
 
-
 Instead of “getting tough” on Hitler in the 1930s, Britain and France adopted a policy known as appeasement, which involved giving in to Hitler's demands.
 
 - In 1937, the new British PM, Neville Chamberlain, continued to pursue a policy of appeasement towards Hitler.

@@ -1,6 +1,5 @@
 ## Unpopularity of the Republic due to the Treaty of Versailles
 
-
 Majority of Germans believed the Germany army ended WW1 undefeated. 
 
 - They were not told if the war continued that Germany would be invaded.

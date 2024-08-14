@@ -1,6 +1,5 @@
 ## Invasion of Czechoslovakia, March 1939
 
-
 - In October 1938, Hitler moved his troops into the Sudetenland
     - Aimed it was the end of his demands
 - On 15 March 1939, German troops took over the rest of Czechoslovakia

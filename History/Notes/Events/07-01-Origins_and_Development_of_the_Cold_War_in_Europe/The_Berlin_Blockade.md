@@ -1,8 +1,6 @@
 ## The Berlin Blockade
 
-
 ### Escalation of Tensions
-
 
 - The brewing tensions between the United States and the USSR would lead to a big clash over the issue of what to do with Germany.
 - Germany was divided into four zones of occupation after the war. Berlin, situated within the Soviet Zone, was also divided into four zones.
@@ -29,9 +27,7 @@
 
 ### Consequences
 
-
 #### The Creation of East Germany, 1949
-
 
 - In May 1949, soon after the blockade, Truman announced that the British, French and US zones would be united to create the __Federal Republic of Germany,__ or __West Germany.__
 - Soon afterwards, in October 1949, Stalin announced that the Soviet zone would become the __German Democratic Republic, or East Germany.__
@@ -40,7 +36,6 @@
     * The Berlin Wall became one of the key symbols of the Cold War, separating the communist East and democratic West
 
 #### The Creation of NATO, 1949
-
 
 - At the height of the Berlin Blockade, the Western powers met in Washington D.C. and signed the agreement to work together.
     * This resulted in the __North Atlantic Treaty Organisation (NATO)__ in April 1949.

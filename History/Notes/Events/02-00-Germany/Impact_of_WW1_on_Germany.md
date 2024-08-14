@@ -1,6 +1,5 @@
 ## Impact of WW1 on Germany
 
-
 - By 1918, Germany was facing defeat
 - In 1918, 300,000 Germans died from malnutrition
     - British Royal Navy blockaded supplies

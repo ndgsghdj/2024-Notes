@@ -1,6 +1,5 @@
 ## Change and Continuity
 
-
 > To what extent did foreign relations between the United States and the USSR change between 1922 and 1945?
 
 On the surface, it seemed like the foreign relations changed for the better and relations improved quite suddenly overnight during the wartime alliance.

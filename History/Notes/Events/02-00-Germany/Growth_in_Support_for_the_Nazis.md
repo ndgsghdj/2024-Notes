@@ -1,6 +1,5 @@
 ## Growth in Support for the Nazis
 
-
 While the communists gained supporters from the economic crisis, the Nazis gained even more
 
 - By 1933, membership rose to >800,000

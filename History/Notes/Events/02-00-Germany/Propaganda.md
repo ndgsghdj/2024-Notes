@@ -1,6 +1,5 @@
 ## Propaganda
 
-
 The Nazis had a very effective propaganda machine
 
 - Minister of Enlightenment and Propaganda, Joseph Goebbels
@@ -37,7 +36,6 @@ The Nazis had a very effective propaganda machine
             - Such activities created the impression that the state was everywhere
 
 ### Censorship
-
 
 The Nazi propaganda also imposed heavy censorship by limiting German access to information and ideas
 

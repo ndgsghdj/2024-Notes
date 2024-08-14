@@ -65,7 +65,3 @@ Minh in a guerilla campaign which eventually wore down the Japanese.
 
 The lack of local support within its empire meant that the Japanese could not effectively extract the resources it needed from the territories it controlled. That said lack of support also often led to outright resistance also drained Japanese military forces as they would be required to be redeployed to suppress such forces. This thus caused the Japanese empire to be put at a disadvantage, contributing to its defeat by the Allies.
 
-
-
-
-

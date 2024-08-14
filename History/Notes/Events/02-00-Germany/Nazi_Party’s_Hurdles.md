@@ -1,6 +1,5 @@
 ## Nazi Party’s Hurdles
 
-
 - Nazis were less successful in winning support in the towns
     - Most industrial workers supported the SPD or the communists
 
