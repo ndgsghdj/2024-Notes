@@ -92,7 +92,7 @@ Based on the table, each gas has its own boiling point and __through fractional 
 ##### Relevant Chemical Equations
 
 __Chemical equations in catalytic converters:__
-- $\ce{2NO (g) + 2CO (g) -> 2CO_2 (g) N_2 (g)}$
+- $\ce{2NO (g) + 2CO (g) -> 2CO_2 (g) + N_2 (g)}$
 - $\ce{2CO (g) + O_2 (g) -> 2CO_2 (g)}$
 
 #### Oxides of Nitrogen - $\ce{NO, NO2}$

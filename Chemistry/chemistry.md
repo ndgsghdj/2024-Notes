@@ -325,7 +325,7 @@ As aqueous ammonia dissociates to form ammonium cations and hydroxide anions, th
 
 |    | Experimental Procedure                                                   | Chemical Formula                             | Ionic Equation                                   |
 |----|--------------------------------------------------------------------------|----------------------------------------------|--------------------------------------------------|
-| 1) | Add 2-3 drops of aqueous sodium hydroxide to copper(II) nitrate solution | $\ce{Cu(NO_3)_2 (aq) + NaOH (aq)}$           | $\ce{Cu^{2+} (aq) + 2OH^- (aq) -> Cu(OH)_2 (s) } |
+| 1) | Add 2-3 drops of aqueous sodium hydroxide to copper(II) nitrate solution | $\ce{Cu(NO_3)_2 (aq) + NaOH (aq)}$           | $\ce{Cu^{2+} (aq) + 2OH^- (aq) -> Cu(OH)_2 (s) }$ |
 | 2) | Add 2-3 drops of aqueous sodium hydroxide to iron(III) nitrate solution. | $\ce{Fe(NO_3)_3 (aq) + NaOH (aq)}$           | $\ce{Fe^{3+} (aq) + 3OH^- (aq) -> Fe(OH)_3 (s)}$ |
 | 3) | Add 2-3 drops of aqueous sodium hydroxide to zinc nitrate solution       | $\ce{Zn(NO_3)_2 (aq) + NaOH (aq)}$           | $\ce{Zn^{2+} (aq) + 2OH^- (aq) -> Zn(OH)_2 (s)}$ |
 | 4) | Add 2-3 drops of __aqueous ammonia__ to aluminium nitrate solution       | $\ce{Al(NO_3)_2 (aq) + NH_3 (g) + H_2O (l)}$ | $\ce{Al^{3+} + 3OH^- (aq) -> Al(OH)_3 (s)}$      |

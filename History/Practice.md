@@ -65,3 +65,8 @@ Minh in a guerilla campaign which eventually wore down the Japanese.
 
 The lack of local support within its empire meant that the Japanese could not effectively extract the resources it needed from the territories it controlled. That said lack of support also often led to outright resistance also drained Japanese military forces as they would be required to be redeployed to suppress such forces. This thus caused the Japanese empire to be put at a disadvantage, contributing to its defeat by the Allies.
 
+# Germany
+
+## The Success of Nazi Political Campaigns
+
+Joseph Goebbels, who was in charge of Nazi propaganda by 1929, made effective use of leaflets, newspapers and radio broadcasts to spread the Nazi message. It blamed Germany's problems on the Treaty of Versailles, particularly the reparations, as well as the Weimar politicians for being too selfish and divided to do what was needed to get people back to work. It promised to rebuild the German military, which would create millions of jobs and expressed sympathy and support for workers, such as in the Nazi 25 Points. It also offered culprits to blame for the problems, particularly the Jews. 

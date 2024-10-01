@@ -2740,7 +2740,7 @@ These groups began to resort to assassinations to achieve their goals.
 
 __November 1930__
 
-- A right wing fanatic that Prime Minister Hamaguchi Osachi
+- Prime Minister Hamaguchi Osachi assassinated by right wing fanatic Sagoya Tomeo due to his acceptance of the 1930 London Naval Treaty terms.
 
 __February 1932__
 
