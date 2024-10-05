@@ -7,7 +7,7 @@ chemistry.pdf: $(BUILD_PDF_FILES)
 		gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=$@ -dBATCH $^
 build/%.pdf: %.md
 		@mkdir -p $$(dirname $@)
-		pandoc -V geometry:margin=1in -c ~/Documents/2024-Notes/markdown.css -f gfm -t html -o $@ $?
+		pandoc -f latex+raw_tex -L mhchem.lua -c ~/Documents/2024-Notes/pandoc.css -f gfm -t html -o $@ $?
 
 .PHONY: clean
 

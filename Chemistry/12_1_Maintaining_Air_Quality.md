@@ -1,5 +1,7 @@
 # Maintaining Air Quality
 
+${toc}
+
 ## Composition of Air
 
 ### Composition (by volume) of Air
@@ -250,7 +252,7 @@ __Impact on environment__
 
 CFCs in the atmosphere are decomposed by sunlight to produce chlorine radicals. These chlorine radicals then react with ozone molecules and destroy them by converting them into oxygen molecules.
 
-1. $\ce{CFCl_3 ->[UV light] CFCl_2^+ + Cl^-}$
+1. $\ce{CFCl_3 -> CFCl_2^+ + Cl^-}$ with UV light.
 2. $\ce{Cl^- + O_3 -> ClO^- + O_2}$
 3. $\ce{ClO^- + O^- -> O_2 + Cl^-}$
 

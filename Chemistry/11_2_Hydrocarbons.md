@@ -13,10 +13,10 @@
     * $\ce{C_4H_9OH -> C_4H_8 + H_2O}$
 - Condensation
     * Two molecules combine with the removal of water or some other small molecule.
-    * $\ce{CH_3COOH + CH_3 OH ->[Conc. \space H_2SO_4 \space Catalyst] CH_3COOCH_3 + H_2O}$
+    * $\ce{CH_3COOH + CH_3 OH -> CH_3COOCH_3 + H_2O}$ with concentrated $\ce{H_2SO_4}$ catalyst.
 - Hydrolysis
     * Water reacted with a molecule, causing the reactant molecule to break down into smaller molecules
-    * $\ce{CH_3COOCH_3 + H_2O ->[dilute \space acid/alkali \space catalyst] CH_3COOH + CH_3OH}$
+    * $\ce{CH_3COOCH_3 + H_2O -> CH_3COOH + CH_3OH}$ with dilute acid/alkali catalyst.
 
 ## Alkanes
 
@@ -57,8 +57,9 @@ Limewater/aqueous calcium hydroxide can be used to test for carbon dioxide. A wh
 - The products belong to a homologous series - *halogenoalkanes.*
 - The reaction produces a complex mixture of products as multiple substitutions are also possible.
 
-$$\ce{CH_4 + 2Cl ->[UV \space light] CH_3Cl + HCl}$$
-$$\ce{CH_3Cl + 2Cl ->[UV \space light] CH_2Cl_2 + HCl}$$
+$$\ce{CH_4 + 2Cl -> CH_3Cl + HCl}$$ 
+$$\ce{CH_3Cl + 2Cl -> CH_2Cl_2 + HCl}$$
+with UV light
 
 #### All possible reaction products
 
@@ -68,7 +69,7 @@ $$\ce{CH_3Cl + 2Cl ->[UV \space light] CH_2Cl_2 + HCl}$$
 
 Under __high temperatures__ and in the presence of __$\ce{Al_2O_3}$ catalyst__, long chain alkanes can be broken down to smaller alkenes + alkanes/hydrogen gas
 
-$$\ce{C_8H_18 ->[$\ce{Al_2O_3}$ \space catalyst, \space high \space temperature] C_6H_14 + C_2H_4}$$
+$$\ce{C_8H_18 -> C_6H_14 + C_2H_4}$$ with $\ce{Al_2O_3}$ catalyst, high temperature
 
 For:
 - production of __smaller molecules with higher demand__ (e.g. ethene, propene, petrol)

@@ -26,7 +26,7 @@ $$\ce{C_n H_{2n+1} OH}$$
 
 #### Balanced Chemical Equation
 
-$$\ce{C_6 H_{12} O_6 (aq) ->[yeast] 2C_2H_5OH (aq) + 2CO_2 (g)}$$
+$$\ce{C_6 H_{12} O_6 (aq) -> 2C_2H_5OH (aq) + 2CO_2 (g)}$$ with yeast.
 
 #### Essential Conditions
 
@@ -70,7 +70,7 @@ $$\ce{C_2H_5OH (l) + 3O_2 (g) -> 2CO_2 (g) + 3H_2O(g)}$$
 
 ### Oxidation
 
-$$\ce{C_3H_7OH ->[acidified\space KMnO_4] C_2H_5COOH}$$
+$$\ce{C_3H_7OH -> C_2H_5COOH}$$ with acidified $\ce{KMnO_4}$
 
 What is the proof that the alcohol has been oxidised?
 - Oxygen atom has been added to propanol to form propanoic acid.
@@ -81,7 +81,7 @@ What happens if wine is left exposed to air?
 
 ### Dehydration
 
-$$\ce{C_3H_7OH ->[conc.\space H_3PO_4\space catalyst] C_3H_6 + H_2O}$$
+$$\ce{C_3H_7OH -> C_3H_6 + H_2O}$$ with concentrated $\ce{H_3PO_4}$ catalyst
 
 #### As a solvent
 
@@ -125,7 +125,7 @@ $$\ce{C_n H_{2n+1} COOH}$$
 
 1. Heat alcohol with acidified $\ce{KMnO_4}$ solution
 
-$$\ce{C_3H_7OH ->[acidified\space KMnO_4] C_3H_5COOH}$$
+$$\ce{C_3H_7OH -> C_3H_5COOH}$$ with acidified $\ce{KMnO_4}$
 
 #### Physical Properties of Carboxylic Acids
 
@@ -185,7 +185,7 @@ __-yl -anoate__
 
 ### Synthesis of Esters
 
-$$\ce{CH_3COOH + CH_3OH <=>[Conc. H_2SO_4 Catalyst] CH_3-COO-CH_3 + H_2O}$$
+$$\ce{CH_3COOH + CH_3OH <=> CH_3-COO-CH_3 + H_2O}$$ with concentrated $H_2SO_4$ catalyst.
 
 __Carboxylic acid + alcohol <=> ester + water__
 

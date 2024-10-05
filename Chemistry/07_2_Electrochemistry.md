@@ -82,7 +82,7 @@ When the ionic compound is __molten__ or when it is __dissolved in water__, the 
 
 | Electrolyte                            | Ions Present                   | Electrodes                                                                                                                         |
 | -------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| molten sodium chloride, $\ce{NaCl(l)}$ | $\ce{Na^+ (l),\space Cl^-(l)}$ | Graphite electrode (inert) - may have to be replaced periodically due to graphite reacting with oxygen gas under high temperature. |
+| molten sodium chloride, $\ce{NaCl(l)}$ | $\ce{Na^+ (l), Cl^-(l)}$ | Graphite electrode (inert) - may have to be replaced periodically due to graphite reacting with oxygen gas under high temperature. |
 
 ##### Anode (+) (Oxidation)
 
@@ -109,7 +109,7 @@ $$ \ce{2NaCl (l) -> 2Na(l) + Cl_{2} (g)}$$
 
 ### Selective Discharge of Cations and Anions (Aqueous Electrolytes)
 
-- Consider the difference in ions present in molten sodium chloride and aqueous sodium chloride - molten sodium chloride contains only $\ce{Na^+}$ and $\ce{Cl^-}$ ions, while aqueous sodium chloride contains $\ce{Na^+, \space Cl^-, \space H^+, \space OH^-}$ ions.
+- Consider the difference in ions present in molten sodium chloride and aqueous sodium chloride - molten sodium chloride contains only $\ce{Na^+}$ and $\ce{Cl^-}$ ions, while aqueous sodium chloride contains $\ce{Na^+, Cl^-, H^+, OH^-}$ ions.
 - In an aqueous solution, water undergoes partial ionisation to form $\ce{H^+}$ and $\ce{OH^-}$ ions:
 
     $$\ce{H_2O(l) <=> H^+ (aq) + OH^-(aq)}$$
@@ -198,7 +198,7 @@ $$\ce{2Cu^{2+} + 4OH^- (aq) -> 2Cu(s) + 2H_2O(l) + O_2(g)}$$
 |--------------|-------------------------------------------------|----------------------------------------------------|
 | Set Up       | ![figure8](Electrochemistry/figure8.png)        | ![figure9](Electrochemistry/figure9.png)           |
 | Electrolyte  | dilute hydrochloric acid, $\ce{HCl(aq)}$        | concentrated hydrochloric acid, $\ce{HCl(aq)}$     |
-| Ions present | $\ce{H^+(aq),\space OH^-(aq), \space Cl^-(aq)}$ | $\ce{H^+(aq), \space OH^- (aq), \space Cl^- (aq)}$ |
+| Ions present | $\ce{H^+(aq),OH^-(aq), Cl^-(aq)}$ | $\ce{H^+(aq), OH^- (aq), Cl^- (aq)}$ |
 | Electrodes   | graphite electrode (inert)                      | graphite electrode (inert)                         |
 
 #### Anode (+) (Oxidation - Concentrated)
