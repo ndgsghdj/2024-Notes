@@ -286,7 +286,7 @@ In 1928, despite their hard work, the Nazi Party was still a small minority part
 - It had support from <3% of the population
 - It also did not have much electoral success i.e. gaining seats in the Reichstag
     
-    ![Screenshot 2023-08-12 at 11.12.46 PM.png](Germany%20cb1440286a7c4e72aef77ddab763c0cd/Screenshot_2023-08-12_at_11.12.46_PM.png)
+    ![Screenshot 2023-08-12 at 11.12.46 PM.png](Germany/Screenshot 2023-08-12 at 11.12.46 PM.png)
     
 
 # Impact of The Great Depression
@@ -775,7 +775,7 @@ To force women to adhere to this belief, the Nazi regime…
 Most women actually agreed with Hitler’s views even though it meant that women’s rights were restricted. E.g.
 
 - Women employed as teachers, lawyers, doctors and civil servants were sacked
-- Married women coudl not wear make-up / trousers
+- Married women could not wear make-up / trousers
 - No dyeing of hair color / perms
 - Wear flat shoes
 - No slimming/dieting - bad for child birth
@@ -1105,3 +1105,4 @@ Key groups who resisted the Nazis were…
 | Workers | The Reich Labour Service sent men on public works projects and conservation programmes, reducing unemployment while improving standard of living.
 Conscription and rearmament helped to further reduce unemployment, creating jobs in the coal mines, steel and textile mills. | Working and living conditions improved only superficially with new initiatives such as Strength Through Joy and Beauty of Labour |
 | Women |  | Women were expected to stay at home and focus on child-rearing. They were excluded from many aspects of life, such as politics, higher education and work. |
+

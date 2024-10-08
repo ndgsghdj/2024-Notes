@@ -546,3 +546,4 @@ Tensions between the superpowers and their respective set of allies increased be
     * A major reason was that both sides now had nuclear weapons and that the consequences of such a war were a lot more than traditional warfare.
     * However, the superpowers did get involved in major clashes. They got involved in what some considered as proxy wars.
         + A proxy war - In the Cold War context is a conflict where the superpowers do not fight directly against each other but provide arms, money and other types of support to the side which shares their political views.
+

@@ -184,9 +184,9 @@ __Comparison of capitalists and communist economies - 1970 to 1990 Gross Domesti
 - Examples
     * He supported anti-communist forces in Afghanistan and Nicaragua
     * He increased the US defence budget massively.
-        + In his first two weeks in office, he increased the defence budget by $32.6 billion.
+        + In his first two weeks in office, he increased the defence budget by USD 32.6 billion.
         + New weapons systems such as the B1 nuclear bomber were introduced.
-        + This huge spending left the United States with $4 trillion of debt by the 1980s.
+        + This huge spending left the United States with USD 4 trillion of debt by the 1980s.
 - In 1982, he gave the go-ahead for the Strategic Defense Initiative (SDI, popularly known as the "Star Wars" programme).
     * This was a multi-billion dollar project to create a system that could use satellites and lasers to destroy missiles before they hit their targets.
     * Clearly, such a system could change the nature of war.
@@ -419,7 +419,7 @@ By no longer engaging in superpower competition with the United States, the USSR
 
 ### Examples and Explanation
 
-In the 1970s, the United States and Western Europe enjoyed an economic boom. For example, the Gross Domestic Product (GDP) per capita of the USA grew from US$23,958 to US$29,611 between 1970 and 1980. In contrast, in the same period, the USSR’s GDP per capita only grew from US$8,886 to US$10,245. This boom was partially a result of measures pursued by leaders such as US President Ronald Reagan and British Prime Minister Margaret Thatcher, who emphasised that governments should cut taxes and advocated that governments should spend less and limit their involvement in people's lives, such as through welfare or state healthcare, as far as possible. 
+In the 1970s, the United States and Western Europe enjoyed an economic boom. For example, the Gross Domestic Product (GDP) per capita of the USA grew from USD 23,958 to USD 29,611 between 1970 and 1980. In contrast, in the same period, the USSR’s GDP per capita only grew from USD 8,886 to USD 10,245. This boom was partially a result of measures pursued by leaders such as US President Ronald Reagan and British Prime Minister Margaret Thatcher, who emphasised that governments should cut taxes and advocated that governments should spend less and limit their involvement in people's lives, such as through welfare or state healthcare, as far as possible. 
 
 ### Link
 
@@ -439,7 +439,7 @@ Faced with this fact and the overwhelming military advantage that the potential 
 
 ### Examples and Explanation
 
-Ronald Reagan became the President of the United States in 1981 and would remain in office till 1989. Reagan had a straightforward and aggressive approach towards the USSR. Essentially, to him, the USSR was wrong, and the United States and its allies were right. In one speech, he even referred to the USSR as an "evil empire". He thus believed in taking a tough line with the USSR wherever possible and increasing US defence spending. For example, he supported anti-communist forces in Afghanistan and Nicaragua. He also increased the US defence budget massively, as seen by how, in his first two weeks in office, he increased the defence budget by $32.6 billion. This spending helped with the introduction of new weapons systems, such as the B1 nuclear bomber that enhanced US military might and threatened the USSR.
+Ronald Reagan became the President of the United States in 1981 and would remain in office till 1989. Reagan had a straightforward and aggressive approach towards the USSR. Essentially, to him, the USSR was wrong, and the United States and its allies were right. In one speech, he even referred to the USSR as an "evil empire". He thus believed in taking a tough line with the USSR wherever possible and increasing US defence spending. For example, he supported anti-communist forces in Afghanistan and Nicaragua. He also increased the US defence budget massively, as seen by how, in his first two weeks in office, he increased the defence budget by USD 32.6 billion. This spending helped with the introduction of new weapons systems, such as the B1 nuclear bomber that enhanced US military might and threatened the USSR.
 
 ### Link
 
@@ -454,3 +454,4 @@ In July 1988, Gorbachev made a speech at the Warsaw Pact summit stating his inte
 ### Link
 
 As communism collapsed in Eastern Europe and the Soviet Union did nothing to stop it, one of the largest points of contention between the two superpowers disappeared. This led to a drastic reduction in tensions that contributed to the end of the Cold War.
+

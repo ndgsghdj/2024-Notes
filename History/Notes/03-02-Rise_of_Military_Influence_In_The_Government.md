@@ -39,7 +39,7 @@
             + United States: 10
             + Britain: 10
             + Japan: 7
-    * Japan was forced to sign the new London Naval Treaty of 1910.
+    * Japan was forced to sign the new London Naval Treaty of 1930.
         + Japan was not ready to confront the Western powers.
     * Aftermath
         + Several Cabinet ministers refused to agree to the Treaty and resigned in protest.
@@ -179,3 +179,4 @@ Things that came to a head in 1932 with the 1932 with the May 15 Incident.
                 + Only 5 were elected civilian party representatives
                 + The remaining 10 were military officers and government officials
                 + This effectively brought Japan under militarist rule.
+

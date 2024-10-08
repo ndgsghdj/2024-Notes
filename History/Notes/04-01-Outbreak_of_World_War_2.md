@@ -374,7 +374,7 @@ In October 1929, the US stock market crashed and the US economy entered a prolon
     - Could not see the real threat that Hitler and his ideology represented
     - Could not foresee the events that he caused (see below/pg. 135 of your textbook)
         
-        ![Screenshot 2023-10-05 at 8.46.53 PM.png](Outbreak%20of%20World%20War%202%20fda6ee4701844ee49e5a82b42e743778/Screenshot_2023-10-05_at_8.46.53_PM.png)
+        ![Screenshot 2023-10-05 at 8.46.53 PM.png](./Outbreak_of_World_War_2/Screenshot_2023-10-05_at_8.46.53_PM.png)
         
 
 # Policy of Appeasement in the 1930s

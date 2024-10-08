@@ -348,3 +348,4 @@ Truman would probably have intervened in Korea even without UN support, but he o
 - The creation of anti-communist alliances and the Warsaw Pact as a result of the Korean War worsened relations and heightened tensions between the superpowers.
 - The effects of the war are still evident today where families remain separated on either side of the 38th parallel, yearning for a reunion.
     * Even now, there has been no reunification of the Korean Peninsula.
+

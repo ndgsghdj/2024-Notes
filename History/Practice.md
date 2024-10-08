@@ -1,23 +1,15 @@
 # Revision
 ## Economic and Military Strengths of the United States
 
-The Allies won WW2 due to the economic and military strengths of the United States.
+After the attack on Pearl Harbour, the United States' vast resources were mobilised within a short time. Its people, factories, shipyards, farms and even Hollywood and the movie industry joined in the war effort. For example, by 1944, the United States was producing almost half of the weapons being made globally, more than twice the amount being produced by Germany and Japan combined. In total, between 1941 and 1945, US factories produced 250,000 aircraft, 90,000 tanks, 350 naval destroyers and 5,600 merchant ships.
 
-After the attack on Pearl Harbour, the United States' vast resources were mobilised within a short period of time. Its people, factories, shipyards, farms and even Hollywood and the movie industry joined in on the war effort. By 1944, the US was producing almost half of the weapons being made globally - more than twice of what Japan and Germany were producing combined. In total, between 1941 and 1945, the US produced 250,000 aircraft, 90,000 tanks, 350 naval destroyers, 200 submarines
-and 5,600  merchant ships.
-
-This massive production derived from American economic strength translated into military strength that supplied it and the other Allied powers with military equipment and resources essential for the war effort that the Axis powers simply could not match. Hence, this gave them an overwhelming advantage that allowed them to win the war.
+This massive production dreived from American economic strength translated into military strength as it supplied it and the other Allied powers with a vast amount of military equipment and other resources that were essential to the war effort. Resources that the Axis powers simply could not match, thus giving the Allies an overwhelming advantage that allowed them to win the war.
 
 ## Efforts of the United States in the Battle of the Atlantic
 
 The Allies won WW2 due to the efforts of the United States in the Battle of the Atlantic.
 
-Control of the Atlantic was vital to the Allied war effort as it was the only way vital American supplies could be shipped to Britain and USSR. This control was only achieved through bitter struggle and at a great cost to the Allies. German submarines (U-boats) were very effective early in the Battle of the Atlantic. In 1940, the Germans sank over 1,000 British ships, a quarter of Britain's merchant fleet. In 1941, 1,300 Allied ships were lost. In 1942, 1,661 ships. As a result,
-in January 1943, the British navy had only two months of oil supply left.
 
-The tide began to turn in 1943 when British intelligence managed to break the secret codes used by the U-boats, allowing Allied convoys to steer clear of the U-boats and deliver the supplies to Britain and the USSR that could be used to fend off the Axis powers. Weapons and tactics were developed to counter the U-boats.
-
-This victory allowed the much needed American supplies to reach Britain and the USSR, allowing them to continue the fight against the Axis that would ultimately conclude in an Allied victory in WW2.
 
 # Island-Hopping Strategy in the Asia-Pacific
 
@@ -67,6 +59,18 @@ The lack of local support within its empire meant that the Japanese could not ef
 
 # Germany
 
-## The Success of Nazi Political Campaigns
+# Origins and Development of the Cold War in Europe, 1945-1955
 
-Joseph Goebbels, who was in charge of Nazi propaganda by 1929, made effective use of leaflets, newspapers and radio broadcasts to spread the Nazi message. It blamed Germany's problems on the Treaty of Versailles, particularly the reparations, as well as the Weimar politicians for being too selfish and divided to do what was needed to get people back to work. It promised to rebuild the German military, which would create millions of jobs and expressed sympathy and support for workers, such as in the Nazi 25 Points. It also offered culprits to blame for the problems, particularly the Jews. 
+## Impact of WW2 on Europe
+
+### Elbe Day
+
+- On 25 April 1945, a US Army patrol moved into Torgau, a small German town on near Berlin on the banks of the River Elbe.
+- Germany was close to defeat in WW2 by then.
+- The US commander became aware that there were Soviet troop on the other side of the riber.
+- He grabbed a US flag and waved it at them. The Soviet commander saw the flag and realised that the troops across the river were their American allies.
+- The two forces met halfway on a damaged bridge across River Elbe and exchanged handshakes and gifts.
+- This was publicised by newspapers and radio networks of the Allies, which spread the news of the event.
+- It also featured the camaraderie between the United States and the USSR far and wide.
+
+

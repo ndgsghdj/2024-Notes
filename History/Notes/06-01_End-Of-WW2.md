@@ -288,3 +288,4 @@ In the Asia-Pacific, Japan had been aggressive in its expansion since its invasi
     - Germany, Japan and Italy were important nations, but they were not as strong as the leading powers - Great Britain, the USSR and above all, the United States.
     - The Allies not only and superior resources but also managed to mobilise and utilise them in a manner suited to help them win the war.
 - While the Axis powers were seemingly successful at the start of WWII, they did not have the capability both militarily and economically to fight a prolonged war.
+

@@ -318,3 +318,4 @@ On the morning of 7 December 1941, some 300 planes took off from Japanese aircra
 - But the fall of Pearl Harbor was not the knockout punch that Japan had intended.
     - The day after the attack, the US Congress declared war on Japan.
     - The United States recovered rapidly from the setback in 1941.
+

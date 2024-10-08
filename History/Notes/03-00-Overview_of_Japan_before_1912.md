@@ -121,3 +121,4 @@ This marked the start of the Meiji Period / Meiji Restoration.
 - Japan replaced Russia as key power in Manchuria.
 - Japan annexed Korea
 - Japan became a major power in the Region.
+

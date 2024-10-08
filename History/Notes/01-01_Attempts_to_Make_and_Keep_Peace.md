@@ -217,12 +217,33 @@
 
 ## Successes and Failures of the League in the 1920s
 
-| Year | Incident                                                                      | Resolution                                                                                                                                                                             | Success/Failure |
-|------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| [1925](01-League-of-Nations/03_The_Greek_Bulgarian_Border_1925.md) | Border dispute between Greece and Bulgaria. Greece then invaded Bulgaria. | The LON made Greece withdraw. Britain and France supported the League's decision.                                                                                                 | Success         |
-| [1920](01-League-Of-Nations/01_Vilna_1920.md) | Poland seized Vilna, the former capital of Lithuania.                         | The League could not make Poland withdraw. Britain and France were reluctant to act.                                                                                                  | Failure         |
-| [1923](01-League-of-Nations/04_Corfu_1923.md) | Italy took over the Greek island of Corfu.                                    | The LON could not make Italy withdraw until Greece gave in on the dispute. Britain wanted to act, but France was distracted with dealing with dispute with Germany in the Ruhr. | Failure         |
-| [1921](01-League-of-Nations/02_Upper_Silesia_1921.md) | Both Germany and Poland wanted __Upper Silesia.__                             | The LON let the people of Upper Silesia vote; a huge majority wanted to join Germany. The LON split it into 2 instead.                                                           | Ambiguous       |
+| Year                              | Incident                                                                  | Resolution                                                                                                                                                                           | Success/Failure |
+|-----------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 1925 - The Greek Bulgarian Border | Border dispute between Greece and Bulgaria. Greece then invaded Bulgaria. | The LON made Greece withdraw. Britain and France supported the League's decision.                                                                                                    | Success         |
+| 1920 - Vilna                      | Poland seized Vilna, the former capital of Lithuania.                     | The League could not make Poland withdraw. Britain and France were reluctant to act.                                                                                                 | Failure         |
+| 1923 - Corfu                      | Italy took over the Greek island of Corfu.                                | The LON could not make Italy withdraw until Greece gave in on the dispute. Britain wanted to act, but France was distracted with dealing with dispute with Germany in the Ruhr. | Failure         |
+| 1921 - Upper Silesia              | Both Germany and Poland wanted   Upper Silesia.                           | The LON let the people of Upper Silesia vote; a huge majority wanted to join Germany. The LON split it into 2 instead.                                                               | Ambiguous       |
+
+## Vilna, 1920
+
+In 1920, Poland took control of Vilna, the Lithuanian capital. Lithuania appealed the League. However, the League could not make Poland withdraw. Britain and France were reluctant to act because Poland was a potential ally against Germany.
+# Attempts at Keeping Peace - League of Nations
+
+## Upper Silesia, 1921
+
+In 1921, a dispute broke out between Germany and Poland over Upper Silesia. To solve the problem, the League oversaw a peaceful vote and divided the region between Germany and Poland.
+# Attempts at Keeping Peace - League of Nations
+
+## The Greek Bulgarian Border, 1925
+
+In October 1925, some Greek soldiers were killed on Greece's border with Bulgaria. When Greek troops invaded, Bulgaria appealed to the League for help. The League demanded both sides to stand down and told Greece to withdraw. Britain and France supported the League's judgement. Greece obeyed, but pointed out that there seemeed seemed to be one rule for large states such as Italy and another for smaller ones such as itself. The outcome was seen as a major success for the League, and optimism about its effectiveness soared.
+# Attempts at Keeping Peace - League of Nations
+
+## Corfu, 1923
+
+One of the borders that had to be decided after the war was between Albania and Greece. The Conference of Ambassadors was given this task. Three Italian officials were killed while surveying the Greek side of the frontier area. Italian leader Benito Mussolini blamed the Greeks, demanded compensation, and attacked and ocupied the Greek island of Corfu. Greece appealed to the League for help but Mussolini insisted that this dispute should be resolved by the Conference of Ambassadors, not the League. The British wanted to stand up to Mussolini. However, the French was involved in a disp;ute with Germany in the Ruhr region over reparations and did not want a dispute with Italy as well.
+
+In the end, Mussolini got his way. The Conference of Ambassadors ruled that the Greeks must apologise and pay compensation directly to Italy. if Britain and France had stood together, Mussolini would probably not have gotten his way.
 
 ### Other attempts to keep the peace outside the League
 

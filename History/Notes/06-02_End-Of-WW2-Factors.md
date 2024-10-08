@@ -159,6 +159,3 @@ The Japanese were unable to make the best use of their empire because of how bru
 #### Link
 This lack of local support within its empire meant that the Japanese could not effectively extract the resources it needed from its the territory it controlled. That said lack of support also often led to outright resistance also drained Japanese military forces as they would be required to be redeployed to suppress such forces. This thus caused the Japanese Japanese empire was put at a disadvantage and contributed to its defeat by the Allies.
 
-
-
-
