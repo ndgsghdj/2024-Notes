@@ -283,11 +283,10 @@ The Weimar Republic was stable between 1924 - 1929
 
 In 1928, despite their hard work, the Nazi Party was still a small minority party
 
-- It had support from <3% of the population
+- It had support from < 3% of the population
 - It also did not have much electoral success i.e. gaining seats in the Reichstag
     
-    ![Screenshot 2023-08-12 at 11.12.46 PM.png](Germany/Screenshot 2023-08-12 at 11.12.46 PM.png)
-    
+![screenshot](./Germany/Screenshot_2023-08-12_at_11.12.46_PM.png)
 
 # Impact of The Great Depression
 

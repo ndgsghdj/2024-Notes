@@ -206,7 +206,7 @@ __Which apparatus is the condenser? purpose?__
 - Warm with dilute acid
 
 1. Look out for the $\ce{C-O}$ bond in the functional group of ester
-$$\ce{C_2H_5-CO-||-O-CH_3}$$
+$$\ce{C_2H_5-CO-O-CH_3}$$
     - methyl propanoate
 2. Separate out the molecule
 $$\ce{C_2H_5COO + O-CH_3}$$
