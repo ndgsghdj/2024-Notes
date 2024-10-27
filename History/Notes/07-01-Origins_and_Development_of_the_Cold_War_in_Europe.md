@@ -232,7 +232,7 @@ Soviet troops now controlled most of Eastern Europe.
     * Truman agreed at first, then changed his mind.
 - Stalin thought Truman wanted to protect Germany and became suspicious of him.
 
-#### Disagreement over Eastern Europe
+### Disagreement over Eastern Europe
 
 - At the Yalta Conference, it was agreed that Eastern Europe would be a Soviet sphere of influence.
     * To Stalin, this meant he could set up communist governments loyal to him and keep them under close control.

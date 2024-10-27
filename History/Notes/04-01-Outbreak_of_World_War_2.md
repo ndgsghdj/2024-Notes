@@ -2,7 +2,7 @@
 
 # Background: The Great Depression
 
-- During the 1920s, after the 1919 Paris Peace Conference was a period that held that promise of new beginnings and lasting peace and cooperation bewteen nations
+- During the 1920s, after the 1919 Paris Peace Conference was a period that held that promise of new beginnings and lasting peace and cooperation between nations
 - However, by 1929 events led to a rise in tensions in both Europe and the Asia-Pacific
     - One of first such events was the **Great Depression in 1929**
 
@@ -37,13 +37,13 @@ In October 1929, the US stock market crashed and the US economy entered a prolon
 - Top priority - protect the economy
 - Low priority - international co-operation
 - Adopted a policy of protectionism. This was achieved through tariffs (taxes on imports) in order to protect its own economy from foreign competition.
-- Britain was one of the leaders of the League of Nations. But due to the Depressionm was unwilling to help sort out international disputes. For example, when Japan invaded Manchuria it did nothing.
+- Britain was one of the leaders of the League of Nations. But due to the Depression was unwilling to help sort out international disputes. For example, when Japan invaded Manchuria it did nothing.
 
 **France**
 
 - Top priority - protection from Germany
 - Low priority - international co-operation
-- Like most European countries, France was hit hard by the depression. Its own exports of food, wine, cars nad other goods declined.
+- Like most European countries, France was hit hard by the depression. Its own exports of food, wine, cars and other goods declined.
 - Became very concerned about the rise of Nazism in Germany. It began to rearm on a large scale and built a line of fortifications along the border between France and Germany (e.g. the Maginot Line)
 
 **Italy**
@@ -93,7 +93,7 @@ In October 1929, the US stock market crashed and the US economy entered a prolon
 
 ### Rearmament
 
-- Many countries (e.g. Britain, France, Italy, German, Japan, etc.) began remarming to boost industry and create jobs.
+- Many countries (e.g. Britain, France, Italy, German, Japan, etc.) began rearming to boost industry and create jobs.
 
 ### Radicalism
 

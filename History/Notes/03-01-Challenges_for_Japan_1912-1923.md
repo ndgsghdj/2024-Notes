@@ -68,7 +68,7 @@ Situation was worsened by the 1923 Great Kanto earthquake
     - Built cooperation and trust between the government and big businesses
     - Concentrated wealth in the hands of the big businesses
 
-### Rural-urban divide
+## Rural-urban divide
 
 - Richest landlords did not work on the farms and made up only ~2-3% of the population, but lived on rent from tenant farmers
 - Landlords lived in luxury in sharp contrast to the poverty of the tenant farmers

@@ -61,8 +61,6 @@ teachers[0] = 'Jovita'
 
 ### Symbols
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a85c3717-7314-419e-990f-6079492a0239/Untitled.png)
-
 ```mermaid
 flowchart TD
 	    A(Start) --> B{Is it?}

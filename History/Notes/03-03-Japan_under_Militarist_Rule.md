@@ -24,7 +24,7 @@ From the formation of the majority military cabinet in 1932, the military increa
 
 ### From 1935…
 
-- The military controlled government conducted a campaign of “electoral purification” which it claimed aimed to remove corrupt practices in the government
+- The military controlled government conducted a campaign of "electoral purification” which it claimed aimed to remove corrupt practices in the government
     - In truth, it was aimed at individuals and groups who held views that the military government found unacceptable (e.g. socialism and communism)
 - With the military increasingly in control, the political parties and even elections became less important
     - Few Japanese bothered to vote
@@ -141,7 +141,7 @@ While the military was getting strong, it was not united.
 
 ### Controlling Workplaces
 
-The government began to search for strategies to manage workers and increase productivity. In 1937, the government implemented a network of “discussion councils”in all workplaces. 
+The government began to search for strategies to manage workers and increase productivity. In 1937, the government implemented a network of "discussion councils" in all workplaces. 
 
 - These councils were made up of worker and manager representatives
 - They were to cooperate to prevent conflict in the workplaces.
@@ -157,7 +157,7 @@ The government began to search for strategies to manage workers and increase pro
 
 ### Eliminating Opposition
 
-- Individuals who promoted ideas that did not conform to the governmentwre also silenced.
+- Individuals who promoted ideas that did not conform to the government were also silenced.
     - This included individuals with socialist beliefs, such as political leaders, intellectuals and university students. They were imprisoned or dismissed from their positions.
 - These individuals were silenced or imprisoned by a special police force in Japan and the military police or the Kempeitai in the Japanese empire.
 

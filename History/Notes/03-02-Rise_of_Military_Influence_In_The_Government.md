@@ -56,6 +56,7 @@
 - From 1916, China was divided into regions ruled by various warlords who fought each other for power
     * Initially, Manchuria's warlord, Zhang Zuolin, developed friendly relations with Japan and the Kwantung Army.
     * Over the years, Zhang's inability to defend Japan's interests frustrated the Kwantung Army.
+
 - Assassination of Zhang Zuolin, 1928
     * The Kwantung Army assassinated Zhang to attempt to replace him with a more cooperative leader
     * Planned to:

@@ -56,6 +56,133 @@ Generalisation is a technique of replacing two or more similar items with a sing
 
 Pattern recognition is the technique of identifying similarities among two or more items.
 
+# Algorithm Design
+
+### Definition
+
+**Variable (flowchart and pseudo-code):**
+
+- Named storage space for a value that can be changed while the algorithm is running
+
+**Initialise:**
+
+- To store or assign a value to a variable for the first time.
+
+**Update:**
+
+Updating a variable.
+
+### Storing values in variables
+
+In an algorithm, we use = or ← to store a value in a variable
+
+e.g. 
+
+```python
+x = 5
+```
+
+word ← “banana”
+
+> [!NOTE]
+>
+> Characters starting with a letter enclosed in quotation marks are taken as a string
+>
+> Characters starting with a letter without quotation marks are taken as a variable name
+> 
+> numerical characters without quotation marks are taken as integers or floating numbers
+
+### List variables
+
+```python
+teachers = ['Aurelius', 'Robin', 'Samuel']
+```
+
+Each value is identified by a position number **starting from 0**. We can access each entry or element in the list by using the variable name followed by its position number in **square brackets.**
+
+```python
+teachers[0], teachers[1], teachers[2]
+```
+
+We can change the value of an individual element in the list.
+
+```python
+teachers[0] = 'Jovita'
+```
+
+### What is a flowchart?
+
+| Step 1: Leave home.     |
+| ---                     |
+| Step 2: Check the time. |
+| …                       |
+
+### Symbols
+
+```mermaid
+flowchart TD
+	    A(Start) --> B{Is it?}
+    B -->|Yes| C[/OK/]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E(End)
+```
+
+### Three Semantics of Programming
+
+- Sequences
+- Selections
+- Iterations
+
+## Pseudo-Code
+
+Depends on organisation.
+
+### Sequence Constructs
+
+code → code → code (top to bottom, left to right)
+
+### Selection Constructs
+
+```python
+IF condition AND/OR condition THEN
+
+ELSEIF condition THEN
+
+ENDIF
+```
+
+```python
+IF condition AND/OR condition THEN
+
+ELSE
+	INPUT a
+	IF a ... THEN
+	
+	ENDIF
+
+ENDIF
+```
+
+### Iteration Constructs
+
+```python
+WHILE... ENDWHILE
+FOR... NEXT
+```
+## Revision: Flowcharts
+
+### Common Symbols
+
+- __Pill:__ Terminator
+- __Rectangle:__ Process
+- __Rhombus:__ Decision
+
+### Rules
+
+- Don't let the flow lines cross.
+- Write conditions as a question.
+
 # How can Programs Be Used to Solve Problems?
 
 ## Stages in Developing a Program
@@ -130,9 +257,9 @@ Check digits are generally designed to capture human transcription errors.
     * Does not have the dedicated constructed permutations and its position-specific powers of the Verhoeff scheme.
 
 
+```python 
 # UPC-A Practice
 
-```python
 def check_digit(code: str):
     result = 0
     sum_odd = sum([int(k) for k in code if code.index(k) % 2 == 0])
@@ -794,6 +921,42 @@ IP (Internet Protocol) is a standard system of rules used by computers on the In
 - Unicode can be used to represent over a million unique characters from many different written languages all over the world.
 - For backward compatibility, the first 128 characters of Unicode are the same as ASCII.
 
+# Spreadsheet Functions
+
+## Functions
+
+| Area          | Function                                                                                   |
+|---------------|--------------------------------------------------------------------------------------------|
+| Date and Time | TODAY                                                                                      |
+| Text          | LEFT, LEN, MID, RIGHT                                                                      |
+| Logical       | AND, IF, NOT, OR                                                                           |
+| Lookup        | HLOOKUP, VLOOKUP                                                                           |
+| Mathematical  | CEILING.MATH, FLOOR.MATH, MOD, POWER, QUOTIENT, RAND, RANDBETWEEN, ROUND, SQRT, SUM, SUMIF |
+| Statistical   | AVEREAGE, COUNT, COUNTA, COUNTBLANK, COUNTIF, LARGE, MAX, MEDIAN, MIN, MODE.SNGL, SMALL    |
+
+### LARGE
+
+#### Syntax
+
+```
+LARGE(range, k)
+```
+
+- Specifies $k$ largest values
+
+## Data Types
+
+| Data Type  | Description                                                                                                                                                                                                                     | Examples                              |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| General    | Used for data with no specific type                                                                                                                                                                                             | 2017, 19.65, Hello, World!            |
+| Number     | Used for numbers. The number of decimal places to display and the type of digit separator (if any) can be specified. Most spreadsheet applications do not distinguish between integers and floating-point numbers | 2017, 19.65, -0.05                    |
+| Currency   | Used for money                                                                                                                                                                                                                  | $20.17, $2017.00, $0.17               |
+| Date       | Used for dates                                                                                                                                                                                                                  | 1-Jan-17, 1/1/2017, 2017-01-01        |
+| Time       | Used for times and durations                                                                                                                                                                                                    | 0:20, 20:17:00, 10:00 AM, 10:00:00 AM |
+| Percentage | Used for rates, ratios and proportions                                                                                                                                                                                          | 5%, 20.17%, 0.5%                      |
+| Text       | Used for textual information                                                                                                                                                                                                    | Hello, World! 20-12                   |
+| Logical value | Used for Boolean data | True, False |
+
 # Introduction to Networking
 
 * [Computer Network](#computer-network)
@@ -1297,4 +1460,75 @@ Explain why a client-server network is preferred over a P2P network by consideri
 - Used to describe up to how many bits a system is error-detecting/error-correcting
 - E.g. '1001  1010' and '1011 1010' have a Hamming distance of 1.
 - E.g. '1000 1111' and '0111 0000' have a Hamming distance of 8.
+
+## Data Communications [+]
+
+### Securing Seven Domains of IT Infrastructure
+
+1. User
+2. Workstation
+3. LAN
+4. LAN to WAN
+5. WAN
+6. Remote Access
+7. System/Application
+
+### User Domain
+
+- People and their devices. Strong passwords, access controls, and training.
+
+### Workstation Domain
+
+- User computers and OS. Software updates, antivirus, and user privileges.
+
+### LAN Domain
+
+- Local network for workstations and servers. Firewalls, intrusion detection, and encryption.
+
+### LAN-to-WAN Domain
+
+- Connection between LAN and WAN. VPNs, firewalls, and encryption.
+
+### WAN Domain
+
+- Wide area network connecting remote sites and internet. Firewalls, intrusion prevention and content filtering.
+
+### Remote Access Domain
+
+- Remote network access. Authentication, access limits, and encryption.
+
+### System/Application Domain
+
+- Servers, apps, and data on the network. Access controls, backups, auditing and monitoring.
+
+### Advantages and Disadvantages of Networks
+
+| Advantages                                                                                            | Disadvantages                                                                                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Communication: Share instant messages and emails for communication                                    | Risk of data loss: Data may be lost due to hardware failures or errors, hence regular data backups are needed                                                                   |
+| (Shared) Resources: Make use of shared resources such as printers or files                         | Initial costs: Costly due to the high setup and equipment costs                                                                                                                 |
+| (Shared) Software: Software can be stored on the central server and deployed to other computers.  | Security Risks: As files are shared through a network, there is the risk of virus or worm attacks spreading throughout the network even with just one infected computer |
+| (Shared) Storage: Data files can be stored on a central server for ease of access and backup purposes | Server outage: If the server fails, the network will not be able to function, thus affecting work processes.                                                                |
+
+### CIA Triad
+
+- Confidentiality
+- Integrity
+- Availability
+
+#### Confidentiality
+
+Safeguarding data confidentiality involves special training for those privy to sensitive documents. Training can help familiarise authorised people with risk factors and how to guard against people with risk factors and how to guard against them.
+
+Further aspects of training may include strong passwords and password-related best practices and information about social engineering methods to prevent users from bending data-handling rules with good intentions and potentially disastrous results. Data encryption is another common method of ensuring confidentiality. User IDs and passwords constitute a standard procedure; two-factor authentication (2FA) is becoming the norm.
+
+#### Integrity
+
+These measures include file permissions and user access controls. Version control may be used to prevent erroneous changes or accidental deletion by authorized users from becoming a problem. In addition, organisations must put in some means to detect any changes in data that might occur as a result of non-human-caused events such as an electromagnetic pulse (EMP) or server crash.
+
+Data might include checksums, even cryptographic checksums, for verification of integrity. Backups or redundancies must be available to restore the affected data to its correct state.
+
+#### Availability
+
+This is best ensured by rigorously maintaining all hardware, performing hardware repairs immediately when needed and maintaining a properly functioning operating system (OS) environment that is free of software conflicts. It's also important to keep current with all necessary system upgrades. Providing adequate communication bandwidth and preventing the occurrence of bottlenecks are equally important tactics. Redundancy, failover, RAID - even high-availability clusters - can mitigate serious consequences when hardware issues do occur.
 

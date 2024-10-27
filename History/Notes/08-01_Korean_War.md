@@ -13,7 +13,7 @@
     * Despite crushing resistance movements brutally, the Japanese continued to fight against them through the 1920s and 1930s. Still, it proved impossible to undermine Japanese control of Korea.
 - Resistance to Japanese rule intensified with the outbreak of WWII.
     * Some of the resistance movements had the support of communists in China and the USSR.
-    * The resistance groups were courageous and committed,b ut still failed to make much of an impact on Japanese rule.
+    * The resistance groups were courageous and committed,b ut still failed to make much of an impact on Japanese rule.:e 
         + With differing aims and ambitions for an independent Korea, the different groups were deeply divided.
 
 ### Example
