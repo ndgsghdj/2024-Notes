@@ -114,7 +114,6 @@ The __Judiciary__ fulfils the government function of __interpreting and applying
     </tr>
 </table>
 
-> [!NOTE]
 > In January 2020, Singapore announced its first case of COVID-19. Various measures such as temperature screenings and stay-home notices were put in place to prevent the spread of the disease. By April, more than 900 people in Singapore had been infected. </br></br>
 > __Legislature:__ In April, amid the growing threat of COVID-19 in the country, the Singapore government urgently passed the COVID-19 (Temporary Measures) Act that made the wearing of masks compulsory by law. The Act was passed to prevent, protect against and control the transmission of the virus in Singapore. </br></br>
 > __Executive:__ Several government agencies were issued a letter of appointment by the Ministry of Health and involved in enforcing the COVID-19 (Temporary Measures) Act. The agencies include the following:
@@ -179,13 +178,11 @@ The government plays a vital role in __promoting and protecting the country's na
 
 Singapore actively forges strong __bilateral relationships__. To do so, Singapore' political leaders meet with the leaders of other countries to exchange views and find ways to promote mutual interests in areas such as trade and security.
 
-> [!NOTE]
 > Singapore maintains strong bilateral relations with Malaysia. An example of this is in __water security__, which serves Singapore's national interests.</br></br>
 > Under the __1962 Water Agreement__, Singapore draws 250 million gallons of raw water per day from the Johor River. In return, Singapore provides Malaysia with a daily supply of treated water up to 2 per cent of the volume supplied in Singapore.
 
 #### Singaporean Multilateral Relationships
 
-> [!NOTE]
 > Singapore's membership in the __Association of Southeast Asian Nations (ASEAN)__ is one example of how the Singaporean government promotes and protects Singapore's national interests through multilateral relationships. </br></br>
 > ASEAN is a cornerstone of Singapore's foreign policy and is of critical importance to Singapore. Through ASEAN, Singapore has been able to establish partnerships with countries within and beyond ASEAN.
 > One such partnership is the __Regional Comprehensive Economic Partnership (RCEP)__, a trade agreement signed by Singapore and 14 other Asia-Pacific countries.
@@ -193,4 +190,16 @@ Singapore actively forges strong __bilateral relationships__. To do so, Singapor
 > __RCEP: The World's Biggest Trade Agreement__</br>
 > - Deepen economic cooperation in the Asia-Pacific region.
 > - Facilitate expansion of trade and investment in the Asia-Pacific region.
-> - Increase opportunities for businesses and employment for the people in the Asia-Pacific region.
+> - Increase opportunities for businesses and employment for the people in the Asia-Pacific region. </br></br>
+> Businesses have more opportunities to expand in the Asia-Pacific region as the RCEP eliminates tariffs for about __90 per cent__ of goods traded among the members. </br>
+> Companies involved in e-commerce, digital services and digital services and digital trade can gain more confidence in expanding their businesses in the region. This is because RCEP is committed to protecting consumers' personal information, paperless trading, electronic authentication systems and cybersecurity.
+
+### Deterrence
+
+#### Examples
+
+The Military of Defence develops the Singapore Armed Forces (SAF) to respond to military threats.
+
+> Developed and manufactured locally, the __Hunter Armoured Fighting Vehicle (AFV)__ is the Singapore Army's first fully digitalised platform. It requires less manpower to operate. It also has touchscreen controls and an automatic system that enables the crew to detect and engage targets quickly and effectively. 
+
+> __Unmanned Aerial Vehicles (UAVs)__ are crucial for effective aerial surveillance and coordinated strikes. The Orbiter 4 CR-UAV can be deployed quickly and in confined areas to scan the battlefield so that commanders can understand the situation and make better decisions during operations.
