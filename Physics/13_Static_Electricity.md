@@ -116,11 +116,3 @@
     - excess electrons to flow away from the charged conductor, or
     - electrons to flow to the charged conductor if it has excess positive charges
 
-
-
-
-
-
-
-
-

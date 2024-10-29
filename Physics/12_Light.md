@@ -42,3 +42,4 @@
 - __Angle of incidence ($i$)__ is the __angle __between the __incident ray__ and the __normal__
 - __Angle of refraction ($r$)__ is the __angle__ between the __refracted ray__ and the __normal__
 - The __incident ray__, the __refracted ray__, and the __normal at the point of incidence__ all lies in the __same plane__.
+

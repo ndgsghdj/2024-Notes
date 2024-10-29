@@ -121,3 +121,4 @@ The rheostat is used to control the __amount of current in the coil__, which aff
     * Increasing the __number of turns __on the coil.
     * Inserting a __soft iron core__ into the coil.
     * Using a __stronger__ magnet.
+

@@ -12,7 +12,7 @@ where:
 - $F$ is the force (SI unit: newton, N), and
 - $A$ is the (contact) area (SI unit: square metre, $m^2$)
 
-__Note:__ $1 \space \pu{Pa} = 1 \space \pu{N/m^2}$
+__Note:__ $1 \pu{Pa} = 1 \pu{N/m^2}$
 
 ## Transmission of Pressure in Hydraulic System
 

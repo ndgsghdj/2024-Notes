@@ -24,7 +24,7 @@
 - The mass of an atom depends on the mass of nucleons in the nucleus of the atom as the mass of an electron is very small and thus negligible.
 - To find the number of neutrons in an atom,
 
-$$Number \space of \space neutrons = A - Z$$
+Number of neutrons $$= A - Z$$
 
 - Note that in nuclear physics and nuclear chemistry, the various species of atoms whose nuclei contain a particular number of protons and neutrons are called __nuclides.__
 - The nucleus of an atom can be represented by the __nuclide notation:__
